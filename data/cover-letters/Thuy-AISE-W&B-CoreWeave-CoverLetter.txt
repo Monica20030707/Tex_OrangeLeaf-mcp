@@ -1,0 +1,13 @@
+TO THE WEIGHTS & BIASES AND COREWEAVE TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the AI Solutions Engineer role. I have been following how your teams are shaping the future of AI infrastructure and experiment tracking, and the way you empower developers to build and scale modern ML systems is exactly the kind of meaningful work I want to contribute to. I admire the intersection of technical depth and strategic enablement that this role represents.
+
+Through my experience as an Associate Full Stack Developer and my intern work with real-time machine learning, I have focused on building applications where stability and performance are critical. I have integrated real-time machine learning models for gesture-based interaction and architected modular backends to handle high visitor traffic. I believe that getting an AI model working is only the first step; making it stable, intuitive, and maintainable in a production-grade system is what truly matters for real customer outcomes.
+
+I also enjoy finding ways to simplify complex systems and automate my workflow. In my Resume Automation project, I architected a programmatic pipeline that uses LLMs to dynamically tailor professional documents, which gave me hands-on experience with the practical challenges of LLM application design and prompt engineering. I thrive on translating technical specs into business impact, whether it's reducing system overhead by 80% or consistently surpassing sales quotas through technical de-escalation. I am someone who values curiosity and persistence, and I enjoy collaborating with others to solve difficult architectural problems.
+
+Thank you for considering my application. I’d love the chance to bring my curiosity, persistence, and hands-on verification mindset to the Weights & Biases and CoreWeave team. I don’t come from a flashy background, but I prove myself by shipping reliable work and learning fast. I’m excited to grow and contribute on a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+
+THUY NGUYEN

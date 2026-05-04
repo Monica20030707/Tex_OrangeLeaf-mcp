@@ -1,41 +1,32 @@
-The Partner Development Representative (PDR) will co-sell with internal and external partner Account Executives to secure sufficient flow of qualified partner opportunities for Docusign account executives. The PDR is accountable for daily activity metrics of 15+ calls, with monthly and quarterly quotas. PDRs will receive hands-on training with an emphasis on partner co-selling and a focus on penetrating targeted accounts. This position is a great way for individuals seeking to gain in-depth partner and direct sales experience in a rapidly growing SaaS company.
+About the Role:
 
- 
+As an AI Solutions Engineer you will sit at the intersection of cutting-edge AI infrastructure and the world’s most ambitious AI teams. You will help customers design, deploy, and scale modern ML and GenAI systems using Weights & Biases and CoreWeave’s AI cloud. This role combines hands-on technical depth with strategic customer engagement — ideal for AI practitioners who enjoy building real systems, solving complex problems, and shaping how AI is developed and operationalized at scale.
 
-This position is an individual contributor role reporting to the Manager II, PDR.
+What You’ll Do:
 
- 
+Own the technical wins by building proof of value (PoVs). You’ll be partnering with Account Executives to drive discovery, solution design, and successful technical evaluations.
+Lead deep technical conversations with ML engineers, researchers, and platform teams to understand their AI/GenAI workloads and architect scalable solutions across the CoreWeave and Weights & Biases ecosystem .
+Design and deliver compelling live demos, proof-of-value engagements, and rapid prototypes showcasing experiment tracking, distributed training, agentic workflows, fine-tuning, evaluation, and inference at scale.
+Architect modern ML and GenAI systems including distributed training, RAG pipelines, multi-agent systems, LLM fine-tuning workflows, and inference solutions.
+Translate business objectives into measurable technical outcomes such as model quality improvements, cost reductions, performance gains, and faster iteration cycles.
+Serve as a trusted technical advisor, influencing architectural decisions and best practices across MLOps, LLMOps, and platform engineering.
+Partner closely with Product and Engineering to relay customer feedback, shape roadmap priorities, and improve the end-to-end AI developer experience.
+Who You Are:
 
-Responsibility
+2+ years of experience in Solutions Engineering, ML Engineering, AI Engineering, or a similar customer-facing technical role.
+Bachelors degree in Computer Science, Data Science, Electrical Engineering, Statistics, Mathematics, or related field. Master in similar area of study preferred.
+Strong proficiency in Python (bonus: TypeScript/JavaScript) and experience building production-grade ML or GenAI applications.
+Hands-on experience training, fine-tuning, evaluating, debugging, and deploying deep learning or LLM-based systems.
+Experience with modern GenAI architectures including retrieval-augmented generation (RAG), tool-using agents, evaluation frameworks, and guardrails.
+Comfortable designing cloud-native architectures across AWS, GCP, or Azure, with working knowledge of containers, networking fundamentals, and security best practices.
+Able to whiteboard distributed training or inference architectures and then implement working prototypes that demonstrate real customer value.
+Excellent communication and storytelling skills, with the ability to translate complex technical concepts into business impact.
+Thrives in fast-paced environments and can manage multiple customer engagements simultaneously.
+Preferred:
 
-Support our partner sales teams with qualified opportunities
-Build strong professional relationships with account executives within Docusign’s partner ecosystem
-Develop sales strategy with our external partner sales teams to penetrate targeted accounts with innovative and scalable approaches
-Plan and execute quarterly in-person account planning and enablement meetings with partner sales team
-Use technologies such as Salesforce, Outreach, ZoomInfo, and LinkedIn to research accounts, identify key contacts, and prospect to prospective customers
-Work with internal and external partner Account Executives to source and close deals, ensure Business Development protocols are followed, and contractual requirements are met
-
-Job Designation
-
-
-Hybrid:
-Employee divides their time between in-office and remote work. Access to an office location is required. (Frequency: Minimum 2 days per week; may vary by team but will be weekly in-office expectation)
-
- 
-
-Positions at Docusign are assigned a job designation of either In Office, Hybrid or Remote and are specific to the role/job. Preferred job designations are not guaranteed when changing positions within Docusign. Docusign reserves the right to change a position's job designation depending on business needs and as permitted by local law.
-
-
-What you bring
-
-
-Basic
-
-BA/BS degree
-1+ years of relevant experience
-Preferred
-
-1+ years prior experience within a quota-carrying Inside Sales role, ideally selling software - to include prospecting, forecasting, and closing on net-new revenue
-Prior experience selling with or through Partners
-Experience working within Salesforce as a CRM tool
-Excellent written and verbal communication presentation skills, including problem-solving, attention to detail, and technical acumen
+Experience building and evaluating agentic applications using frameworks such as LangChain, DSPy, LlamaIndex, CrewAI, OpenClaw, or similar ecosystems. Ability to quickly adapt to new frameworks is a huge plus.
+Familiarity with vector databases, embeddings workflows, and LLM evaluation frameworks (e.g., Ragas, TruLens, DeepEval).
+Hands-on experience with Hugging Face Transformers, PEFT/LoRA/QLoRA fine-tuning, TRL, Unsloth, or similar fine-tuning stacks. Big plus if experience using RL to improve agentic systems. 
+Experience operating distributed workloads using Slurm, Ray, or Kubernetes.
+Experience with inference optimization and serving frameworks such as vLLM, TensorRT-LLM, Triton, or TGI.
+Experience in MLOps/LLMOps platform engineering or supporting enterprise AI deployments.
