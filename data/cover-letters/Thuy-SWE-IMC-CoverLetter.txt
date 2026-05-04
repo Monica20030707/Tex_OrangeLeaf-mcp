@@ -1,0 +1,13 @@
+TO THE RECRUITING TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Software Engineer role. I have been following how IMC drives its business through the best technology, and your commitment to building cutting-edge trading algorithms and innovative solutions really stands out to me. I admire how your team balances pragmatic development with the complexity of global financial markets.
+
+Through my experience as an Associate Full Stack Developer and intern, I have focused on building and shipping real applications where reliability and performance are critical. I have architected modular frontends and serverless backends, optimized data synchronization to reduce overhead, and built secure APIs to handle real user workflows. I believe that getting something working is only the first step; making it stable, intuitive, and maintainable is what truly matters in a production environment.
+
+I also enjoy finding ways to simplify complex systems and automate my workflow. In my Stock Ratio Tracker project, I used JPMorgan Chase's Perspective library to visualize live financial metrics, which sparked my interest in how software can empower better decision-making in fast-paced environments. I am constantly looking for ways to move faster and explore new ideas, such as using the Gemini CLI to streamline my development process. I am someone who values clean code and enjoys collaborating with others to solve difficult problems.
+
+Thank you for considering my application. I’d love the chance to bring my curiosity, persistence, and hands-on verification mindset to IMC. I don’t come from a flashy background, but I prove myself by shipping reliable work and learning fast. I’m excited to grow and contribute on a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+
+THUY NGUYEN
