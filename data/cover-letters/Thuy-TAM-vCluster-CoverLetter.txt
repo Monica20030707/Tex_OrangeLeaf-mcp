@@ -1,0 +1,13 @@
+TO THE vCLUSTER TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Technical Account Manager role. I have been following how vCluster is revolutionizing platform engineering through virtual clusters, and your commitment to simplifying Kubernetes for multi-tenant environments really stands out to me. I admire how you enable developer self-service while maintaining strict isolation and cost efficiency.
+
+Through my experience as an Associate Full Stack Developer and my current role in technical sales, I have developed a unique blend of technical depth and customer strategy. I have architected modular systems and automated deployment pipelines, always focusing on making systems stable and maintainable. In my sales role, I’ve learned that getting a technical solution working is only half the battle — proving its business value and ensuring long-term adoption is what truly matters for customer success. I treat success planning as a proactive partnership, identifying milestones and risks before they become visible blockers.
+
+I am particularly excited about vCluster because of my hands-on familiarity with Kubernetes and cloud-native technologies. I enjoy holding technical conversations with engineers about architecture, RBAC, and deployment patterns. Whether it’s building event-driven pipelines on AWS or automating complex document workflows with the Gemini CLI, I approach every challenge with a curious, growth-oriented mindset. I thrive in environments where I can translate technical adoption into measurable business outcomes, such as engineering velocity and platform ROI.
+
+Thank you for considering my application. I’d love the chance to bring my curiosity, persistence, and hands-on verification mindset to vCluster. I don’t come from a flashy background, but I prove myself by shipping reliable work, building deep technical relationships, and learning fast. I’m excited to grow and contribute on a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+
+THUY NGUYEN
