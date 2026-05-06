@@ -1,45 +1,31 @@
-Why Lovable?
-Lovable lets anyone and everyone build software with any language. From solopreneurs to Fortune 100 teams, millions of people use Lovable to transform raw ideas into real products - fast. We are at the forefront of a foundational shift in software creation, which means you have an unprecedented opportunity to change the way the digital world works. Lovable-built applications and websites are visited hundreds of millions of times a month, and our enterprise footprint is compounding fast. And we’re just getting started.
+Envision yourself delivering innovative solutions to industry leaders and innovative manufacturers in aerospace, automotive, consumer goods, electronics and distribution?   
 
-We’re a small, talent-dense team building a generation-defining company from Stockholm. We value extreme ownership, high velocity, and low-ego collaboration. We seek out people who care deeply, ship fast, and are eager to make a dent in the world.
+The Dassault Systemes Technical Sales Graduate Development Program, is designed to take you from recent graduate to expert. All the training, mentorship, and structure to get you there will be provided.
 
-What we’re looking for
-Proven success closing mid-market or enterprise SaaS deals
+ You’ll spend 12-months rotating through six core domains:
 
-Track record of full-cycle selling - prospecting, discovery, demos, negotiation, and close
+·       Working alongside experienced mentors, shadowing real customer engagements
 
-Strong communicator who can translate technical and product concepts into clear business value
+·       Contributing to projects grounded in actual business challenges from some of the world’s most innovative companies.
 
-Experience navigating multi-stakeholder deals across product, engineering, and leadership
+Here are some of the knowledge, skills and capabilities you will acquire:
 
-Builder mindset - you’re excited to shape GTM motion and systems in a fast-scaling org
+·       Developing a deep understanding of the Dassault Systemes 3DEXPERIENCE solution capabilities
 
-Curiosity and hunger to master Lovable’s product deeply; you lead with insight
+·       Understanding Dassault Systemes customer’s business requirements, scenarios, use cases, users experience needs.
 
-Comfort with ambiguous, high-growth environments where speed and precision matter
+·       Articulating the overall value of the 3DEXPERIENCE platform
 
-Bonus: Experience selling AI or developer tools, or working in product-led growth motions
+Qualifications
 
-What you’ll do
-Own and run end-to-end sales cycles with precision - from first touch to signed contract
+Bachelor’s degree in engineering, computer science, systems engineering, or a related technical field
 
-Craft strategic account plans that identify whitespace, map stakeholders, and unlock expansion
+Genuine curiosity about AI, digital engineering, or how complex products are designed and built
 
-Lead compelling demos and discovery sessions, tailoring value to technical and business buyers
+Comfortable speaking or presenting in front of others — or a willingness to develop that skill with coaching
 
-Collaborate cross-functionally with Product, Marketing, and Customer Success to deliver seamless onboarding and retention
+Collaborative, team-oriented mindset with a desire to grow through feedback
 
-Build ROI-driven business cases that connect Lovable’s capabilities to real outcomes
+Familiarity with any CAD, simulation, data science or engineering software is a plus — but not required
 
-Maintain pipeline accuracy and forecasting discipline across all active deals
-
-Use insights from customer conversations to influence product roadmap and GTM strategy
-
-Champion a repeatable, data-driven GTM motion as we scale from startups to enterprise
-
-How we hire
-Fill in a short form then jump on an initial exploratory call.
-
-Discuss your experience in more depth during a round of interviews with us.
-
-Join us for a workshop lasting 1-2 days remote or onsite. We'll see how you tick and you get to meet the team and explore whether joining Lovable feels right for you.
+Eligible to work in the US (US citizen or permanent resident)
