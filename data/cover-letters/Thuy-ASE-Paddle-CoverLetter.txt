@@ -1,0 +1,13 @@
+TO RECRUITING TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Associate Solutions Engineer position. I have been following Paddle's approach to simplifying the complex world of SaaS billing and global payments. The way your platform removes the technical and regulatory headaches for software vendors so they can focus on building their product is exactly the kind of meaningful infrastructure I want to help vendors implement.
+
+Through my experience as an Associate Full Stack Developer and my current role as a Sales Specialist at Verizon, I have worked at the intersection of complex software development and customer-facing consulting. I have built and shipped production applications that rely on deep API integrations, like my work at Forge Tek Studios where I integrated third-party marketplace data into a seamless React frontend. I understand that in solutions engineering, getting a technical integration working is not enough; making it stable, intuitive, and maintainable for the customer is what matters most.
+
+I also enjoy the challenge of translating dense technical concepts for any audience. At Verizon, I’ve consistently surpassed my sales targets by 130 percent because I don’t just sell a product—I consult on the underlying technology, explaining everything from signal propagation to network topology in a way that helps customers make informed decisions. I am a self-starter who thrives when I can dive into the code to solve a problem and then jump on a call with a senior developer to walk them through the implementation plan.
+
+Thank you for considering my application. I’d love the chance to bring my curiosity, persistence, and hands-on verification mindset to Paddle. I don’t come from a flashy background, but I prove myself by shipping reliable work and learning fast. I’m excited to grow and contribute to a team helping software companies scale globally. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+
+THUY NGUYEN
