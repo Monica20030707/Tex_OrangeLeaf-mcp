@@ -1,31 +1,33 @@
-The Role:
+As an Enterprise Account Executive at Anthropic, you’ll drive adoption of safe, frontier AI by securing strategic deals with top enterprises, unlocking new value streams throughout their business. You’ll leverage your consultative sales expertise to propel revenue growth while becoming a trusted partner to customers, helping them embed and deploy AI while uncovering its full range of capabilities. In collaboration with GTM, product, and marketing teams, you’ll continuously refine our value proposition, sales methodology, and market positioning to ensure differentiated value across the landscape.
 
-We are looking for a smart, entrepreneurial and autonomous Associate Solutions Engineer to help us achieve our ambitious growth plans. This is an exciting time for you to join- you’ll be part of an established and high performing team.
+The ideal candidate will have a passion for developing new market segments, pinpointing high-potential opportunities, and executing strategies to capture them. By driving deployment of Anthropic's emerging products, you will help enterprises obtain new capabilities while also advancing the ethical development of AI.
 
-Working as an expert within our Sales team, you'll use your skills in technical consulting and project management to enable leading software vendors to build incredible customer experiences with Paddle and assist them in overcoming any technical challenges along the way.
+Responsibilities:
+Win new business and drive revenue for Anthropic. Find your way to the right people at prospective customers, educate them about LLMs, and help them succeed with Anthropic. You’ll own the full sales cycle, from first outbound to launch
 
-You may be working in a technical or product role and want more customer-facing experience (or vice versa). Maybe you are looking for a hybrid tech/sales role after completing a Flatiron School, General Assembly, or other bootcamp. Either way – we want to hear from you!
+Design and execute innovative sales strategies to meet and exceed revenue quotas. Analyze market landscapes, trends, and dynamics to translate high-level plans into targeted sales activities, partnerships, and campaigns
 
-What you'll do:
+Spearhead market expansion by pinpointing new customer segments and use cases. Collaborate cross-functionally to differentiate our offerings and sustain a competitive edge
 
-Become an expert on the Paddle product suite, including the checkout, dashboard, and APIs
+Inform product roadmaps and features by gathering customer feedback and conveying market needs. Provide insights that strengthen our value proposition and enhance the customer experience
 
-Communicate confidently with C-suite and senior developers to support them in building incredible experiences for their customers
+Continuously refine the sales methodology by incorporating learnings into playbooks, templates, and best practices. Identify process improvements that optimize sales productivity and consistency
 
-Write integration plans and sample code for sellers to assist them in implementing their own Paddle integration
+You may be a good fit if you:
+5+ years of enterprise sales experience driving adoption of emerging technologies with a consultative, solutions-oriented sales approach
 
-Support and empower Account Executives on customer calls to help win new business
+A track record of managing complex sales cycles and securing strategic deals by understanding multifaceted technical requirements and crafting tailored solutions
 
-Play a role in product development, by communicating issues and feature requests to the Product and Engineering teams
+Demonstrated ability to navigate dynamic stakeholder ecosystems, building consensus and providing innovative solutions to disparate groups
 
-Contribute to public and internal documentation
+Extensive experience negotiating highly complex, customized commercial agreements with multiple stakeholders
 
-We'd love to hear from you:
+Proven experience exceeding revenue targets in fast-paced organizations by effectively managing an evolving pipeline and sales process
 
-You have a solid understanding of web technologies , in particular JavaScript (and any frameworks within) and an understanding of how these web technologies work together.
+Excellent communication skills and the ability to present confidently and build connections across all customer levels, from ICs to C-level executives
 
-You have experience using and integrating APIs.
+A knack for bringing order to chaos and an enthusiastic “roll up your sleeves'' mentality. You are a true team player
 
-You have strong interpersonal and customer management skills that you developed in a customer-facing role.
+A strategic, analytical approach to assessing markets combined with creative, tactical execution to capture opportunities
 
-You have the ability to discuss technical concepts with both technical and non-technical audiences.
+A passion for and/or experience with advanced AI systems. You feel strongly about ensuring frontier AI systems are developed safely
