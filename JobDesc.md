@@ -1,22 +1,29 @@
-As an Account Executive, you will lead the full sales cycle and sign partnerships with top local restaurants while being a champion for the Uber and Uber Eats brands. Your success in this role is measured by achieving and exceeding your monthly quota and proactively building your pipeline by managing and hitting the weekly metrics (cold calls, emails, and field appointments).
+Comtech Telecommunications Corp. is a leading global technology company providing terrestrial and wireless network solutions, next-generation 9-1-1 emergency services, satellite and space communications technologies, and cloud-native capabilities to commercial and government customers around the world. Our unique culture of innovation and employee empowerment unleashes a relentless passion for customer success. With multiple facilities located in technology corridors throughout the United States and around the world, Comtech leverages our global presence, technology leadership, and decades of experience to create the world's most innovative communications solutions. 
 
-What You'll Do
+Purpose:
 
-Own and manage a pipeline of local small and medium restaurants to sign new partnerships in your geographic region with a mix of cold-calling (at least 50 dials per day) and in-person meetings
-Create a great first-impression and act as an ambassador of Uber Eats to develop long-term partnerships and clearly communicate the value of Uber
-Manage contract negotiation to establish the foundation of a strong working relationship with our restaurant partners, including sustainable economics for both parties
-Help us identify and build standard processes and collaborate with the Account Management team to support a seamless onboarding experience for each new restaurant partner
-Proactively maintain communication channels with prospects via phone, email, and face-to-face meetings
-Basic Qualifications
+The Sales Engineer is a member of the sales team—acting as a technical lead in sales engagements. The Sales Engineer plays a critical role in supporting the team’s overall objectives in driving revenue growth for Allerium's NG9-1-1 solutions. This role focuses on delivering technical demonstrations, crafting RFP responses, representing the company at industry events, and providing on-site expertise to prospects and customers. Frequent travel is required.
 
-Minimum 3+ years of experience in sales, operations, account management, or similar functions
-Preferred Qualifications
+Responsibilities
 
-Excited to learn and have no fear of picking up the phone - this is a great role to grow or build your career in sales
-Passionate about sales and helping restaurants grow their business with Uber Eats
-Bachelor's Degree or equivalent
-Proven achievement in performance-based role
-Effective communication with colleagues and clients
-Experience multi-tasking work with attention to detail
-Coachability, interest in implementing feedback, and dedication to building your brand
-For Seattle, WA-based roles: The total annualized on-target earnings (OTE) for this position are USD $106,250-$117,500. The OTE includes a base hourly rate of USD $30.65-$33.90 and a variable incentive target of USD $42,500-$47,000. The variable incentive target is based on individual sales performance and its payment is based on the terms of the Sales Incentive Plan.
+Collaborate with sales teams to conduct technical discoveries, deliver tailored product demonstrations of ESInet/NGCS, CHE, and related NG9-1-1 solutions, and address customer technical requirements
+Lead the development and writing of RFP/RFI responses, ensuring compliance with public safety standards, NENA i3, cybersecurity, and interoperability needs
+Represent Allerium at industry trade shows, conferences, and events, showcasing solutions and networking with potential customers
+Accompany sales representatives on frequent customer visits (up to 50% travel) for on-site presentations, proof-of-concepts, and solution design sessions
+Serve as the technical liaison between customers and internal teams including product management, engineering, and implementation services
+Develop and maintain technical sales collateral, including presentations, demo scripts, white papers, and competitive analysis documents
+Support post-sales activities as needed, including technical handoffs to implementation teams and customer onboarding assistance
+Requirements:
+
+Strong knowledge of NG9-1-1 technologies, including ESInet/NGCS, Call Handling Equipment (CHE), NENA i3 standards, geospatial routing, and public safety ecosystems
+Proficiency in IP networking, cybersecurity principles, cloud and on-premises deployments, and public safety software integrations 
+Deep understanding of PSAP operations, emergency call flow, and the challenges facing 911 telecommunicators and public safety administrators
+Excellent presentation, written communication, and relationship-building skills for engaging both technical and non-technical stakeholders
+Demonstrated ability to translate complex technical concepts into clear, compelling value propositions for diverse audiences
+Self-motivated with ability to work independently in a remote environment while maintaining strong collaboration with distributed teams
+Ability to travel frequently (40-50%) across the United States for customer demonstrations, trade shows, conferences, and on-site meetings
+3-7 years in pre-sales, solutions engineering, or sales engineering roles, preferably in public safety software, NG9-1-1, emergency communications, or related mission-critical technology sectors
+Proven track record in developing and delivering RFP/RFI responses, technical demonstrations, and trade show representation in software or SaaS sales environments
+Hands-on experience with PSAP operations, emergency call handling systems, or selling to government and public safety entities strongly preferred
+Experience working with state and local government procurement processes and understanding of public sector sales cycles
+Demonstrated success in supporting sales teams to achieve revenue targets and close complex, multi-stakeholder deals

@@ -1,0 +1,122 @@
+\documentclass[11pt]{article}       % set main text size
+\usepackage[letterpaper,            % set paper size to letterpaper. change to a4paper for resumes outside of North America
+top=0.5in,                          % specify top page margin
+bottom=0.5in,                       % specify bottom page margin
+left=0.5in,                         % specify left page margin
+right=0.5in]{geometry}              % specify right page margin
+                       
+\usepackage{XCharter}               % set font
+\usepackage[T1]{fontenc}            % output encoding
+\usepackage[utf8]{inputenc}         % input encoding
+\usepackage{enumitem}               % enable lists for bullet points: itemize and \item
+\usepackage[colorlinks=true, linkcolor=black, urlcolor=blue]{hyperref}    % format hyperlinks
+\usepackage{titlesec}               % enable section title customization
+\raggedright                        % disable text justification
+\pagestyle{empty}                   % disable page numbering
+\usepackage{comment}                % block comment
+
+% ensure PDF output will be all-Unicode and machine-readable
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+% format section headings: bolding, size, white space above and below
+\titleformat{\section}{\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule\vspace{-6.5pt}]
+
+% format bullet points: size, white space above and below, white space between bullets
+\renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$}
+\setlist[itemize]{itemsep=-2pt, leftmargin=12pt, topsep=6pt} %%% Test various topsep values to fix vertical spacing errors
+
+% resume starts here
+\begin{document}
+
+% name
+\centerline{\Huge Thuy Nguyen}
+
+\vspace{5pt}
+
+% contact information
+\centerline{\href{mailto:thuybohr@gmail.com}{thuybohr@gmail.com} | 206-423-9827 |
+\href{https://www.linkedin.com/in/thuy-nguyen-46505121b/}{linkedin.com/in/thuy-nguyen-46505121b}}
+
+\centerline{\href{https://github.com/Monica20030707}{github.com/Monica20030707} | 
+\href{https://monica20030707.github.io/}{monica20030707.github.io/}} 
+
+\vspace{-9pt}
+
+% education section
+\section*{Education}
+\textbf{Bellevue College} -- BS in Computer Science -- 3.6 GPA \hfill September 2021 -- June 2025\\
+\vspace{-9pt}
+\begin{itemize}
+  \item Award: Amazon Scholarship, Activities: Social Media Manager of Computer Science Club
+\end{itemize}
+
+\vspace{-18.5pt}
+
+% experience section
+\section*{Experience}
+
+\textbf{Sales Specialist,} {Verizon} -- Covington, WA \hfill November 2025 -- Current \\
+\vspace{-9pt}
+\begin{itemize}
+  \item De-escalated complex technical issues by explaining bandwidth optimization, signal propagation, and network topology to diverse stakeholders to ensure informed decision-making.
+  \item Consistently surpassed monthly sales quotas by achieving 130\% of targets through technical product expertise and consultative solution-selling of wireless network solutions.
+  \item Conducted hardware diagnostics and firmware validation on mobile devices and networking equipment to ensure optimal performance and security compliance.
+\end{itemize}
+
+\textbf{Associate Full Stack Developer,} {Forge Tek Studios} -- Remote \hfill August 2025 -- Current 
+\vspace{-9pt}
+\begin{itemize}
+  \item Owned the end-to-end development and deployment lifecycle of mission-critical web applications, ensuring high standards for code quality and system performance.
+  \item Architected a modular React frontend with a serverless backend, leveraging custom hooks and context for efficient state management and scalability.
+  \item Managed full production release cycles, including environment configurations and build pipelines, to deliver robust solutions used by real-world customers.
+\end{itemize}
+
+\textbf{Full Stack Developer Intern,} {METY Technology} -- Remote \hfill September 2024 -- June 2025 
+\vspace{-9pt}
+\begin{itemize}
+  \item Architected secure and scalable RESTful APIs using Express.js and Node.js to manage high-volume data flow and backend communication in real-time applications.
+  \item Automated testing and deployment processes via custom CI/CD pipelines on AWS Amplify, ensuring consistent delivery and rigorous quality standards.
+  \item Took the lead on frontend state management architecture, establishing industry best practices for responsive UI and real-time interaction feedback.
+\end{itemize}
+
+\begin{comment}
+\textbf{Teaching Assistant,} {Bellevue College} -- Bellevue, WA \hfill April 2024 -- December 2024 \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Guided 40+ students in Java and SQL, with class materials during and after class.
+  \item Educated students in relational database design and MySQL Workbench operations.
+  \item Elevated student proficiency in JUnit and Javadoc, enhancing assignment quality by 20\%.
+\end{itemize}
+\end{comment}
+
+\vspace{-18.5pt}
+
+% projects section
+\section*{Projects}
+
+\textbf{Traffic Violation Detection System}{ - Javascript, AWS Cloud Services} \hfill \href{https://github.com/Monica20030707/AWS_rekonigition-N-read-database}{github.com} \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Engineered a mission-critical detection pipeline using AWS Rekognition to process license plate data, routing alerts through EventBridge for real-time handling.
+  \item Implemented complex regex and automated workflows to identify and process regional data, ensuring high accuracy in automated notification systems.
+\end{itemize}
+
+\textbf{Resume Automation MCP}{ - Python, LLM, GitHub Actions} \hfill \href{https://github.com/Monica20030707/Tex_OrangeLeaf-mcp}{github.com} \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Architected a document generation system using LaTeX and YAML, implementing a strict separation of concerns between data storage and rendering.
+  \item Configured automated GitHub Actions workflows for environment-independent builds, demonstrating a deep understanding of CI/CD and deployment automation.
+\end{itemize}
+
+\vspace{-18.5pt}
+
+% skills section
+\section*{Skills}
+\textbf{Languages:} Python, TypeScript, SQL, LaTeX, YAML, JavaScript, Java, CSS, HTML, Go\\
+\textbf{Skills:} Sales Engineering, Technical Demonstration, IP Networking, Cybersecurity Principles, API Integration, RFP/RFI Response Development\\
+\textbf{Tools:} AWS Cloud Services (Rekognition, Amplify, S3), Git, GitHub Actions, CRM Systems, React, Docker, Node.js\\
+
+\vspace{-6.5pt}
+
+\end{document}
