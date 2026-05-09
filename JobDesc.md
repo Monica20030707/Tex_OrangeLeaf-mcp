@@ -1,29 +1,28 @@
-Comtech Telecommunications Corp. is a leading global technology company providing terrestrial and wireless network solutions, next-generation 9-1-1 emergency services, satellite and space communications technologies, and cloud-native capabilities to commercial and government customers around the world. Our unique culture of innovation and employee empowerment unleashes a relentless passion for customer success. With multiple facilities located in technology corridors throughout the United States and around the world, Comtech leverages our global presence, technology leadership, and decades of experience to create the world's most innovative communications solutions. 
+Funko Overview Welcome to the Funko-verse, a world built on pure imagination, a land governed by the philosophy that stories matter, a universe comprised of characters from countless fandoms, a galaxy of once upon a times and happily ever afters.But what does Funko do? Funko is a purveyor of pop culture and licensed-focused collectibles company. Funko currently holds thousands of licenses and the rights to create tens of thousands of characters – one of the largest portfolios in the pop culture and collectibles industry.  Funko’s Pop! Vinyl is the number one stylized vinyl collectible on the market, selling millions of figures to fans around the world.The Inside Sales Manager position is the key point of contact between Funko and our customers: you will be responsible for answering queries, offering advice, and introducing new products for the assigned accounts that you have been given in order to achieve quarterly revenue targets.
+What You’ll Do
+You will be responsible for a collection of accounts and their associated quarterly revenue sales targets
+Build and maintain strong, long-lasting customer relationships
+Oversee Customer account management to ensure efficiency and maximize profits.
+Develop trusted advisor relationships with accounts.
+Ensure the timely and successful delivery of our products according to customer needs and objectives
+Analyze sales progress on a monthly basis implementing sales driven reactive approaches where applicable
+Develop new business with new and existing clients and/or identify areas of improvement to meet sales target.
+Prepare reports regularly on account status for own accounts
+Be competent in pitching a broad range of Funko products, including cross category sales in Softlines and games where applicable.
+Attend industry events where relevant
+Adhere to company values and company confidential information policies
+String negotiation skills by phone, email and in person
+Partner with Demand Planning to ensure Customer Service levels are met/exceeded
+Maintain high customer satisfaction and become a trusted partner.
+What You’ll Bring
 
-Purpose:
-
-The Sales Engineer is a member of the sales team—acting as a technical lead in sales engagements. The Sales Engineer plays a critical role in supporting the team’s overall objectives in driving revenue growth for Allerium's NG9-1-1 solutions. This role focuses on delivering technical demonstrations, crafting RFP responses, representing the company at industry events, and providing on-site expertise to prospects and customers. Frequent travel is required.
-
-Responsibilities
-
-Collaborate with sales teams to conduct technical discoveries, deliver tailored product demonstrations of ESInet/NGCS, CHE, and related NG9-1-1 solutions, and address customer technical requirements
-Lead the development and writing of RFP/RFI responses, ensuring compliance with public safety standards, NENA i3, cybersecurity, and interoperability needs
-Represent Allerium at industry trade shows, conferences, and events, showcasing solutions and networking with potential customers
-Accompany sales representatives on frequent customer visits (up to 50% travel) for on-site presentations, proof-of-concepts, and solution design sessions
-Serve as the technical liaison between customers and internal teams including product management, engineering, and implementation services
-Develop and maintain technical sales collateral, including presentations, demo scripts, white papers, and competitive analysis documents
-Support post-sales activities as needed, including technical handoffs to implementation teams and customer onboarding assistance
-Requirements:
-
-Strong knowledge of NG9-1-1 technologies, including ESInet/NGCS, Call Handling Equipment (CHE), NENA i3 standards, geospatial routing, and public safety ecosystems
-Proficiency in IP networking, cybersecurity principles, cloud and on-premises deployments, and public safety software integrations 
-Deep understanding of PSAP operations, emergency call flow, and the challenges facing 911 telecommunicators and public safety administrators
-Excellent presentation, written communication, and relationship-building skills for engaging both technical and non-technical stakeholders
-Demonstrated ability to translate complex technical concepts into clear, compelling value propositions for diverse audiences
-Self-motivated with ability to work independently in a remote environment while maintaining strong collaboration with distributed teams
-Ability to travel frequently (40-50%) across the United States for customer demonstrations, trade shows, conferences, and on-site meetings
-3-7 years in pre-sales, solutions engineering, or sales engineering roles, preferably in public safety software, NG9-1-1, emergency communications, or related mission-critical technology sectors
-Proven track record in developing and delivering RFP/RFI responses, technical demonstrations, and trade show representation in software or SaaS sales environments
-Hands-on experience with PSAP operations, emergency call handling systems, or selling to government and public safety entities strongly preferred
-Experience working with state and local government procurement processes and understanding of public sector sales cycles
-Demonstrated success in supporting sales teams to achieve revenue targets and close complex, multi-stakeholder deals
+1-3 years consumer products/retail experience and/or e-Comm knowledge is highly desired
+Outstanding communicator with high intellectual horsepower and thought leadership; interpersonally savvy individual who can relate to people at all levels of an organization and build strong working relationships quickly
+Highly resilient and stress resistant - able to manage through change 
+High initiative - must be a self-starter with a positive “can do” approach
+Comfortable and effective when managing a high-volume workload with speed, accuracy and efficiency
+Passionate student of the business who is excited to learn/grow/adapt with retail changes
+Proven ability to consistently meet sales targets and quotas
+Ability to travel up to 30% 
+Proficiency with MS Office Suite, entry level knowledge of Walmart specific applications (Retail Link, Item360) and Oracle preferred
+Bachelor’s Degree preferred
