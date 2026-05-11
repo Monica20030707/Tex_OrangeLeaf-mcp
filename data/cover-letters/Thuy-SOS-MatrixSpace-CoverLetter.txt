@@ -1,0 +1,13 @@
+TO RECRUITING TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Software Operations Specialist role. I have been following MatrixSpace's work in bridging the physical and digital worlds, and your focus on combining radar sensing with AI-driven edge intelligence for real-world applications is exactly the kind of meaningful technology I want to support and grow with.
+
+Through my experience as a Full Stack Developer at Forge Tek Studios and METY Technology, I have worked on building and shipping real applications where stability and reliability were paramount. I’ve integrated third-party APIs, managed production release lifecycles, and built CI/CD pipelines to ensure consistent delivery. I believe that getting something working is not enough; making it stable, intuitive, and maintainable is what truly matters, especially when deploying software to edge devices in dynamic environments.
+
+My background also includes a strong foundation in technical troubleshooting and networking. In my current role at Verizon, I de-escalate complex technical issues for customers by explaining network topology and conducting hardware diagnostics. Additionally, I’ve built a home-lab DNS filtering solution using Linux and Pi-hole, which gave me hands-on experience in diagnosing routing conflicts and inspecting system logs to ensure zero-latency performance. I enjoy the challenge of bridging the gap between engineering and real-world deployment, and I am comfortable working across software, hardware, and network layers to solve problems.
+
+Thank you for considering my application. I’d love the chance to bring my curiosity, persistence, and hands-on verification mindset to MatrixSpace. I don’t come from a flashy background, but I prove myself by shipping reliable work and learning fast. I’m excited to grow and contribute on a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+
+THUY NGUYEN

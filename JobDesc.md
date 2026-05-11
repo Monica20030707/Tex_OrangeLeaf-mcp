@@ -1,28 +1,43 @@
-Funko Overview Welcome to the Funko-verse, a world built on pure imagination, a land governed by the philosophy that stories matter, a universe comprised of characters from countless fandoms, a galaxy of once upon a times and happily ever afters.But what does Funko do? Funko is a purveyor of pop culture and licensed-focused collectibles company. Funko currently holds thousands of licenses and the rights to create tens of thousands of characters – one of the largest portfolios in the pop culture and collectibles industry.  Funko’s Pop! Vinyl is the number one stylized vinyl collectible on the market, selling millions of figures to fans around the world.The Inside Sales Manager position is the key point of contact between Funko and our customers: you will be responsible for answering queries, offering advice, and introducing new products for the assigned accounts that you have been given in order to achieve quarterly revenue targets.
-What You’ll Do
-You will be responsible for a collection of accounts and their associated quarterly revenue sales targets
-Build and maintain strong, long-lasting customer relationships
-Oversee Customer account management to ensure efficiency and maximize profits.
-Develop trusted advisor relationships with accounts.
-Ensure the timely and successful delivery of our products according to customer needs and objectives
-Analyze sales progress on a monthly basis implementing sales driven reactive approaches where applicable
-Develop new business with new and existing clients and/or identify areas of improvement to meet sales target.
-Prepare reports regularly on account status for own accounts
-Be competent in pitching a broad range of Funko products, including cross category sales in Softlines and games where applicable.
-Attend industry events where relevant
-Adhere to company values and company confidential information policies
-String negotiation skills by phone, email and in person
-Partner with Demand Planning to ensure Customer Service levels are met/exceeded
-Maintain high customer satisfaction and become a trusted partner.
-What You’ll Bring
+At MatrixSpace, we are building technology that bridges the physical and digital worlds — combining embedded systems, radar sensing, cloud computing, and AI to unlock powerful real-world intelligence.
 
-1-3 years consumer products/retail experience and/or e-Comm knowledge is highly desired
-Outstanding communicator with high intellectual horsepower and thought leadership; interpersonally savvy individual who can relate to people at all levels of an organization and build strong working relationships quickly
-Highly resilient and stress resistant - able to manage through change 
-High initiative - must be a self-starter with a positive “can do” approach
-Comfortable and effective when managing a high-volume workload with speed, accuracy and efficiency
-Passionate student of the business who is excited to learn/grow/adapt with retail changes
-Proven ability to consistently meet sales targets and quotas
-Ability to travel up to 30% 
-Proficiency with MS Office Suite, entry level knowledge of Walmart specific applications (Retail Link, Item360) and Oracle preferred
-Bachelor’s Degree preferred
+We’re looking for a Software Operations Specialist to support the deployment, operation, and success of our AI-driven edge and cloud-based platforms in real-world environments.
+
+This role sits at the intersection of engineering, customer success, and field operations. You’ll work directly with customers to troubleshoot issues, ensure system reliability, and provide hands-on support for deployed systems. This is a great opportunity for someone who enjoys solving technical problems in dynamic environments while working closely with both users and internal engineering teams.
+
+You’ll play a critical role in ensuring our products perform reliably in the field, helping bridge the gap between development and real-world deployment.
+
+Key Responsibilities:
+Provide technical support to customers who use edge and cloud-based AI systems.
+Troubleshoot software, networking, and system-level issues in real-time field environments.
+Assist with installation, configuration, and upgrades of software on edge devices and cloud platforms.
+Monitor system health and performance; proactively identify and resolve issues.
+Work closely with engineering teams to diagnose bugs, escalate issues, and validate fixes.
+Support containerized applications (Docker/Kubernetes) in deployment and troubleshooting scenarios.
+Assist customers with API integrations, connectivity, and data flow issues.
+Document issues, resolutions, and best practices to improve internal knowledge and customer experience.
+Travel to customer sites as needed to support deployments and operational needs.
+Contribute to improving support processes, tooling, and automation workflows.
+Required Skills and Experience:
+Candidates must be legally authorized to work in the United States without employer sponsorship and may be required to obtain and maintain a U.S. government security clearance in the future.
+
+Bachelor’s degree in Computer Science, Engineering, or a related field; or equivalent hands-on experience.
+
+Summer co-op/internship experience OR 1-2years of professional experience in technical support, systems engineering, DevOps, or similar roles.
+
+Strong troubleshooting skills across Linux-based systems.
+
+Familiarity with networking fundamentals (TCP/IP, HTTPS, connectivity debugging).
+
+Familiarity with web-based applications (i.eREST APIs, JSON, authentication)
+
+Experience with Docker and basic understanding of Kubernetes.
+
+Proficiency in scripting or programming (Python, Bash, or similar).
+
+Understanding of software design principles and distributed systems.
+
+Ability to diagnose issues across software, hardware, and network layers.
+
+Strong communication skills with the ability to explain technical concepts to non-technical users.
+
+Willingness to travel for on-site customer support when needed.
