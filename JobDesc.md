@@ -1,26 +1,20 @@
-MANTECH seeks a motivated, career and customer-oriented Software Engineer to join our team in Fort Meade, MD.
- 
+Dive in and do the best work of your career at DigitalOcean. Journey alongside a strong community of top talent who are relentless in their drive to build the simplest scalable cloud. If you have a growth mindset, naturally like to think big and bold, and are energized by the fast-paced environment of a true industry disruptor, you’ll find your place here.  We value winning together—while learning, having fun, and making a profound difference for the dreamers and builders in the world. 
 
-As a Software Engineer, you’ll use your coding skills to help build and fix software. You will join a collaborative team focused on improving our internal systems using modern cloud technology. Together, you’ll build helpful solutions that keep our agency’s data safe and organized.
- 
+DigitalOcean's Agentic Inference Cloud that delivers predictable cost efficiency, radically simple operations and high performance at scale — so teams can focus on building AI products instead of managing infrastructure or absorbing surprise costs. The platform combines production-ready GPU infrastructure, a full-stack cloud, model-first inference workflows, and an agentic experience layer to reduce operational complexity and accelerate time to production. More than 640,000 customers trust DigitalOcean to deliver the cloud and AI infrastructure they need to build and grow.
 
-Responsibilities include but are not limited to:
+Our engineering team owns this stack end-to-end. You will work on everything from low-level kernel and GPU optimizations to high-performance dedicated clusters and serverless APIs. By engineering every layer of the infrastructure, we ensure that state-of-the-art models - across LLMs, image, audio, and video - run at peak efficiency on a global scale. We are looking for Software Engineers to help us build a developer-first, vertically integrated platform that simplifies the entire AI lifecycle.
 
-Analyze user requirements to derive software design and performance requirements while reviewing and testing components for adherence to design.
-Design and code new software or modify existing software to add features and resolve problem reports through debugging and defect correction.
-Support the integration of existing software into new or modified systems or operating environments using standard development methodologies.
-Provide specific input to system design, including hardware/software trade-offs and the use of COTS/GOTS in place of new development.
-Develop data queries for existing databases and recommend improvements for documentation and process standards.
-Maintain system baselines and configuration management items while working with stakeholders to ensure systems meet all requirements.
-Document responses to required controls and maintain a library of documentation, including network diagrams for cyber defense capabilities.
- 
-Minimum Qualifications:
+You must be currently located in and able to work 3 days per week in the DigitalOcean office we are building in Seattle.
 
-Bachelor’s Degree in Computer Science or a related field (0 years of experience required) OR 4+ years of software engineering experience working on similar projects and processes in lieu of a degree.
-Proficiency in Python for application development and building structured software.
- 
-Preferred Qualifications:
-
-Experience with Angular or React development.
-Foundational understanding of Docker and a general familiarity with Kubernetes environments.
- 
+What You’ll Do:
+Feature Development: Write production grade Go and Python to solve the "unit economics" of AI- optimizing how we monetize a single GPU across multiple abstraction layers.
+Performance Engineering: Implement and experiment with prefix caching, batch inferencing, and model quantization to reduce TCO for our customers.
+Model Integration: Assist in the development of model catalogs and automated benchmarking tools to help customers move their models from experimentation to production.
+Operational Excellence: Help manage a global GPU footprint, ensuring 99.9% uptime for mission-critical production workloads.
+Continuous Learning: Collaborate with senior engineers to learn complex system architectures and contribute to high-density GPU orchestration.
+What You’ll Add to DigitalOcean:
+Foundational Knowledge: 1–4 years of software engineering experience with an interest in ML platforms, AI techniques (e.g., LLMs, multimodal, large vision models), or GenAI-related concepts.
+Technical Proficiency: Solid understanding of at least one backend language (Python or Go preferred) and experience working with REST APIs.
+Problem Solving: A proactive approach to troubleshooting and a desire to build production-grade systems in a high-growth tech environment.
+Collaboration: Strong communication skills and a team-first mindset, with the ability to take feedback and apply it to code improvements.
+Tooling Curiosity: Familiarity with containerization (Docker/Kubernetes) and cloud infrastructure is a plus

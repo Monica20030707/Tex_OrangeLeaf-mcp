@@ -1,0 +1,10 @@
+I am a recent Computer Science graduate, and I am excited to apply for the Software Engineer position at DigitalOcean. I have been following how DigitalOcean simplifies cloud infrastructure for developers, and your move into the Agentic Inference Cloud is particularly interesting to me. Building a vertically integrated platform that makes AI more accessible and cost effective is a mission that aligns perfectly with my interests in both high-performance systems and machine learning.
+
+In my recent work as an Associate Full Stack Developer at Forge Tek Studios and as an intern at METY Technology, I have focused on building applications that are both functional and reliable. I have experience developing React frontends and Node.js backends, but I especially enjoyed integrating real-time machine learning models like MoveNet directly into user workflows. I have learned that getting something working is not enough. Making a system stable, intuitive, and maintainable is what really matters, especially when dealing with the complexity of modern cloud and AI environments.
+
+I am naturally curious about how things work under the hood. Whether it is optimizing data flow to reduce ingestion overhead or exploring how to manage global GPU footprints, I enjoy the challenge of performance engineering. I also like to automate my own workflows. For example, I built a system using GitHub Actions and LLMs to automate document generation, which taught me a lot about CI/CD and system architecture. I am excited about the opportunity to bring this proactive approach to DigitalOcean and learn from your senior engineers about high-density GPU orchestration.
+
+Thank you for considering my application. I’d love the chance to bring my curiosity, persistence, and hands-on verification mindset to DigitalOcean. I don’t come from a flashy background, but I prove myself by shipping reliable work and learning fast. I’m excited to grow and contribute on a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With gratitude,
+Thuy Nguyen
