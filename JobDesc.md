@@ -1,20 +1,76 @@
-Dive in and do the best work of your career at DigitalOcean. Journey alongside a strong community of top talent who are relentless in their drive to build the simplest scalable cloud. If you have a growth mindset, naturally like to think big and bold, and are energized by the fast-paced environment of a true industry disruptor, you’ll find your place here.  We value winning together—while learning, having fun, and making a profound difference for the dreamers and builders in the world. 
+At Pipe17, our values aren’t just words on a wall. They’re how we operate every day.
 
-DigitalOcean's Agentic Inference Cloud that delivers predictable cost efficiency, radically simple operations and high performance at scale — so teams can focus on building AI products instead of managing infrastructure or absorbing surprise costs. The platform combines production-ready GPU infrastructure, a full-stack cloud, model-first inference workflows, and an agentic experience layer to reduce operational complexity and accelerate time to production. More than 640,000 customers trust DigitalOcean to deliver the cloud and AI infrastructure they need to build and grow.
+We are a high-performance team built around ownership, urgency, curiosity, and a strong bias for action.
 
-Our engineering team owns this stack end-to-end. You will work on everything from low-level kernel and GPU optimizations to high-performance dedicated clusters and serverless APIs. By engineering every layer of the infrastructure, we ensure that state-of-the-art models - across LLMs, image, audio, and video - run at peak efficiency on a global scale. We are looking for Software Engineers to help us build a developer-first, vertically integrated platform that simplifies the entire AI lifecycle.
+We set bold goals, hold ourselves accountable, and move fast to solve customer problems. Every team member owns their decisions and drives outcomes. No one waits for permission.
 
-You must be currently located in and able to work 3 days per week in the DigitalOcean office we are building in Seattle.
+We operate with urgency, but not recklessly. We focus on what matters most, take initiative, and course-correct quickly when needed. We value people who speak up, follow through, and take pride in their work.
 
-What You’ll Do:
-Feature Development: Write production grade Go and Python to solve the "unit economics" of AI- optimizing how we monetize a single GPU across multiple abstraction layers.
-Performance Engineering: Implement and experiment with prefix caching, batch inferencing, and model quantization to reduce TCO for our customers.
-Model Integration: Assist in the development of model catalogs and automated benchmarking tools to help customers move their models from experimentation to production.
-Operational Excellence: Help manage a global GPU footprint, ensuring 99.9% uptime for mission-critical production workloads.
-Continuous Learning: Collaborate with senior engineers to learn complex system architectures and contribute to high-density GPU orchestration.
-What You’ll Add to DigitalOcean:
-Foundational Knowledge: 1–4 years of software engineering experience with an interest in ML platforms, AI techniques (e.g., LLMs, multimodal, large vision models), or GenAI-related concepts.
-Technical Proficiency: Solid understanding of at least one backend language (Python or Go preferred) and experience working with REST APIs.
-Problem Solving: A proactive approach to troubleshooting and a desire to build production-grade systems in a high-growth tech environment.
-Collaboration: Strong communication skills and a team-first mindset, with the ability to take feedback and apply it to code improvements.
-Tooling Curiosity: Familiarity with containerization (Docker/Kubernetes) and cloud infrastructure is a plus
+Curiosity is how we get better. We ask questions, challenge assumptions, and stay open to new ideas. We don’t default to “how it’s always been done.” We explore, test, and learn. That mindset helps us adapt quickly, solve harder problems, and continuously raise the bar.
+
+We also embrace AI as a force multiplier. We believe great operators don’t compete with AI - they partner with it. We use AI to move faster, think deeper, and remove friction from our work, while still applying human juådgåment, creativity, and context where it matters most. Thoughtful use of AI is part of how we scale ourselves and our impact.
+
+Finally, teamwork is at our core. We win together, support each other, and celebrate our shared victories. Collaboration across functions is a daily practice, not just something we talk about. We learn from each other, improve constantly, and rally around our mission: unify commerce after the buy button.
+
+If these values resonate with how you like to work, you’ll fit right in.
+
+Job Title: Junior Tools Engineer
+Location: On Site · Seattle
+Department: Engineering
+
+
+About Pipe17
+Pipe17 connects commerce businesses' selling channels, fulfillment providers, and back-office systems into one automated, reliable flow. We're solving the "post-order chaos" that happens when e-commerce platforms, ERPs, and 3PLs don't talk to each other.
+
+Our AI-native cloud platform orchestrates orders, inventory, and shipments between systems like Shopify, Amazon, NetSuite, and ShipStation – powered by modern APIs, event-driven microservices, and intuitive web dashboards.
+
+We’re growing fast, and we’re looking for a Junior System Engineer who is passionate about building tools, integrating APIs, and leveraging modern AI tooling to improve developer and business productivity. 
+
+We’re looking for someone who’s AI-curious and eager to learn - if you’re excited by new tools and want a place to grow your skills while shipping real impact, you’ll thrive here.
+
+Interview Note: You'll be screen sharing, using AI tool of your choice, and then you'll be programming together as a part of the process!
+
+We can provide you an Anthropic API key to use during the interview if you don't want to use your own. This can be used for Claude Code, Cursor, and other tools.
+
+ 
+
+What You’ll Do
+As a Junior System Engineer, you will:
+
+Design, build, and maintain internal tools and automation scripts using JavaScript / TypeScript.
+Develop lightweight APIs, CLI tools, and web utilities to enhance developer productivity and system reliability.
+Implement and manage API integrations between internal systems and external services (e.g., GitHub, Jira, HubSpot, NetSuite, or internal APIs).
+Experiment with and build AI-powered developer tools and automations using ChatGPT, Claude Code, and other LLM APIs.
+Collaborate with infrastructure and product engineering teams to streamline developer workflows, deployments, and monitoring.
+Troubleshoot system and integration issues, ensuring smooth operation across environments.
+Write clear documentation and onboard teammates to the tools you create.
+Participate in design reviews, daily stand-ups, and sprint planning with cross-functional teams.
+Contribute to unit and integration testing for tools and APIs.
+What You’ll Learn
+Hands-on experience with:
+
+Node.js / TypeScript for automation, APIs, and internal developer tooling.
+REST / GraphQL APIs for integrations and data synchronization.
+AI tooling and automation using ChatGPT, Claude, and other LLM-based systems.
+Infrastructure scripting and configuration (AWS, Terraform, Docker).
+Authentication and authorization flows (OAuth2, API keys, JWT).
+CI/CD automation with GitHub Actions or similar pipelines.
+Cloud deployments (AWS Lambda, ECS, or similar containerized services).
+Observability and monitoring (CloudWatch, Datadog, Grafana).
+Secure coding and SOC 2-aligned development practices.
+Requirements
+Minimum Qualifications
+0–2 years of experience in software or system engineering.
+Fluency in JavaScript / TypeScript.
+Experience building tools or automation scripts for personal or team use.
+Experience integrating APIs (REST, GraphQL, or webhooks).
+Familiarity with AI developer tools such as ChatGPT, Claude Code, GitHub Copilot, or Replit Ghostwriter.
+Familiarity with Git, CI/CD pipelines, and cloud platforms (AWS or similar).
+Curiosity about automation, integration, and AI-driven developer productivity.
+Strong problem-solving and communication skills.
+Nice-to-Haves
+Experience with SQL / NoSQL databases.
+Familiarity with containerization (Docker) or serverless platforms.
+Exposure to scripting in Python or Bash.
+Understanding of cloud cost optimization and monitoring tools.
+Interest in e-commerce or logistics tech.
