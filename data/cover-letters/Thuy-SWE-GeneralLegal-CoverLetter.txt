@@ -1,0 +1,10 @@
+I am a recent Computer Science graduate, and I am excited to apply for the Software Engineer position at General Legal. Your work stands out to me because you are applying AI to a problem that affects real people: legal help is often too slow, expensive, and hard to access. I like that your team is starting with commercial contract negotiation because contracts are detailed, high-stakes workflows where software can make the first pass faster while still leaving room for human judgment.
+
+In my current role as an Associate Full Stack Developer at Forge Tek Studios and in my internship at METY Technology, I have worked on full-stack applications where reliability and usability mattered. I have built React frontends, serverless backend pieces, REST APIs, third-party API integrations, and real-time machine learning features using TensorFlow.js. I try to think beyond just getting a feature working. The part that matters most is making it stable, intuitive, and maintainable enough for real users to depend on it.
+
+I also like using automation and AI-enabled tools to move faster while still checking the work carefully. In one personal project, I built a resume automation pipeline using YAML, LaTeX, GitHub Actions, and LLM-driven content selection, which gave me hands-on practice designing a system that turns messy input into structured output. That mindset feels relevant to General Legal because legal workflows need both speed and precision. I would be excited to learn quickly, ask useful questions, and help build product features from early idea through working release.
+
+Thank you for considering my application. I'd love the chance to bring my curiosity, persistence, and hands-on verification mindset to General Legal. I don't come from a flashy background, but I prove myself by shipping reliable work and learning fast. I'm excited to grow and contribute on a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With gratitude,
+Thuy Nguyen
