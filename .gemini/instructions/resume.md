@@ -21,6 +21,10 @@ When a job description is provided in `JobDesc.md`, follow these steps to genera
         -   Mix and match variants if needed to create the most compelling narrative for the specific role.
     -   **Skill Customization:** Update the "Skills" section (Languages, Skills, Tools) by pulling relevant keywords from the `tech_used` and `keywords` fields in the YAML files that match the `JobDesc.md`. Do NOT create new sections.
     -   **Formatting:** Maintain the **exact** LaTeX structure, formatting, margins, and style of `templates/resume_template.tex`.
+    -   **One-Page Limit:** The final resume **MUST NOT** exceed one page. If the content is too long:
+        -   Prioritize the most relevant bullet points.
+        -   Reduce the number of bullet points per experience/project (aim for 2-3 high-impact bullets).
+        -   Ensure `\vspace` commands from the template are preserved or adjusted slightly to save space, but do not change font size or margins.
 
 4.  **Generate Customized LaTeX:**
     -   Create a new file using the following naming convention: `data/resumes/Thuy-<PositionShort>-<Company>-Resume.tex` (e.g., `data/resumes/Thuy-SDE-Google-Resume.tex`).
