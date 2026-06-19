@@ -1,30 +1,39 @@
-Within Empower and our communities, we work hard to create a welcoming and inclusive environment, and our associates dedicate thousands of hours to volunteering for causes that matter most to them.
+About the Role
+As a seasonal Associate Software Engineer, you will work closely with Senior, Lead, or Principal Software Engineers along with Product Owner to design, develop, and maintain software components and products that support H&R Block business applications.
+ 
 
-Chart your own path and grow your career while helping more customers achieve financial freedom. Empower Yourself.
+ 
 
-Applicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment visa at this time, including CPT/OPT.
+Day to day, you’ll...
+ 
 
-The Software Engineer will design, develop, test, and maintain software applications across the software development lifecycle. This role will collaborate with cross-functional teams to refine requirements, contribute to design and architecture discussions, troubleshoot complex software issues, and support delivery of reliable software features and components.
+Use tools, languages, coding standards, and best practices to develop new product features and maintain year over year product functionality and enhancements 
+Create and execute unit tests and addresses bugs 
+Work closely with the Quality Assurance, User Experience, and other related teams to ensure consistent understanding of requirements and approach 
+Design, develop, and maintain software components 
+Create and maintain documentation of design approaches 
+Create and maintain documentation on internal architecture of the system 
+Participate in technical design and code reviews for all new enhancements and maintenance work delivered 
+Use business and functional requirements to produce technical specifications and product requirements 
+Create, maintain, and execute Unit and Component Testing 
+Maintain and improve current knowledge on the latest technologies relevant to the role regarding algorithms, language, design methodology, third-party development tools, application platforms, hardware compatibility, and operating systems 
+ 
 
-What you will do:
+Required Qualifications
+Education:
 
-Design, code, and test software features and components.
-Collaborate with cross-functional teams to gather and refine software requirements.
-Lead coding efforts for specific modules or features.
-Troubleshoot and resolve complex software issues.
-Participate in code reviews and enforce coding standards.
-Contribute to architectural decisions and design discussions.
-What you will bring:
+Bachelor’s degree in a related field or the equivalent through a combination of education and related work experience.
+Work Experience:
 
-Bachelor’s degree in a related field or an equivalent combination of professional experience and/or training.
-1 - 3 years of experience in software development.
-Proficiency in one or more programming languages such as Java, Python, Swift, JavaScript, or similar.
-Strong understanding of software development methodologies and best practices.
-Problem-solving, debugging, and troubleshooting skills.
-Excellent teamwork and communication abilities.
-What will set you apart:
+Ability to work in a team environment with limited supervision
+Analytical and problem-solving skills, ability to develop creative solutions in assigned projects
+Demonstrated effective time management, organizational, prioritization, and planning skills
+Initiative and curiosity to continuously learn and improve
+Knowledge of all phases of the software development life cycle
+Knowledge of software development concepts and practices
+Strong communication skills, both written and verbal
+Technical aptitude and the ability to adapt to new technologies
+Preferred Qualifications
+Work Experience:
 
-AWS experience
-SQL queries experience
-Experience with Agile principles.
-Experience across multiple projects and development cycles.
+Experience with Azure

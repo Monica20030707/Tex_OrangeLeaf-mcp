@@ -1,0 +1,12 @@
+TO THE RECRUITING TEAM AT H&R BLOCK,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Associate Software Engineer position. I have been following H&R Block's focus on modernization and delivering reliable year-over-year business applications. The commitment to building secure, scalable software products that directly support millions of clients during critical tax seasons is what makes your team stand out to me.
+
+Through my experience as an Associate Full Stack Developer at Forge Tek Studios and a Full Stack Intern at METY Technology, I have built and shipped software features where reliability and scale are paramount. Working on real-world applications reinforced for me that getting a module working is not enough — making it stable, intuitive, and maintainable is what truly matters when delivering software to users.
+
+I approach development with a cloud-native and automation-first mindset. Whether configuring event-driven Azure serverless pipelines to automate image analysis, optimizing client-side performance, or leveraging SQL for database validation, I try to approach development from a place of curiosity. Working in Agile settings has taught me the value of collaborative code reviews and iterative improvement.
+
+Thank you for considering my application. I’d love the chance to bring my curiosity, persistence, and hands-on verification mindset to H&R Block. I don’t come from a flashy background, but I prove myself by shipping reliable work and learning fast. I’m excited to grow and contribute on a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+THUY NGUYEN
