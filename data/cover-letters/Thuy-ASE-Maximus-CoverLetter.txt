@@ -1,0 +1,12 @@
+TO THE RECRUITING TEAM AT MAXIMUS,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Associate Software Engineer - Automation Tester position. I have been following the work Maximus does in IT Applications Testing Services, particularly your focus on supporting start-up implementations and O&M development projects. The commitment to delivering high-quality, reliable software that directly impacts public and government operations is what makes your team stand out to me.
+
+Through my experience as an Associate Full Stack Developer at Forge Tek Studios and a Full Stack Intern at METY Technology, I have built and shipped applications where stability and performance are critical. I have integrated real-time components, designed serverless backends, and engineered automated test suites using Jest to ensure consistent delivery. During this work, I quickly learned that simply getting a feature to run isn't enough; the real challenge lies in ensuring it is stable, maintainable, and thoroughly verified against potential failures.
+
+I approach software engineering with an automation-first mindset. Whether it is scripting custom tools, writing database integration tests to prevent regression during my internship at CodeDay, or setting up Docker environments to enforce staging consistency, I enjoy finding ways to build safety nets into the development lifecycle. I value collaborative code reviews, learn quickly from senior engineers, and am eager to apply my experience in SQL, Python, and automated testing to support your quality assurance goals.
+
+Thank you for considering my application. I’d love the chance to bring my curiosity, persistence, and hands-on verification mindset to Maximus. I don’t come from a flashy background, but I prove myself by shipping reliable work and learning fast. I’m excited to grow and contribute on a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+THUY NGUYEN
