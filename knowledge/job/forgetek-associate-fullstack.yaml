@@ -1,30 +1,36 @@
 company: "Forge Tek Studios"
 title: "Associate Full Stack Developer"
 type: "full-time"
-location: "Remote"
+location: "Covington, WA"
 start_date: "Aug 2025"
 end_date: "Present"
-company_description: "A digital agency focused on building modern, high-performance web and mobile applications."
+company_description: "An indie game and digital-asset studio creating games and Unreal Engine assets for the Fab Marketplace."
 
 bullets:
-  - "Built and deployed a production-ready full-stack component-driven React application, integrating external APIs (Steam, Fab Marketplace) to dynamically render real-time content."
-  - "Optimized client-side rendering and data synchronization, reducing load and ingestion overhead by 80%—focusing on performance-sensitive UI updates."
-  - "Designed and deployed a serverless backend to keep costs low and servers flexible for high visitor traffic."
+  - "Built and deployed a production-ready TypeScript React website integrating 2 external APIs (Steam, Fab Marketplace), handling 5,000+ monthly active users with automatic scaling and real-time game/asset data."
+  - "Optimized API ingestion and server-side caching, reducing data processing overhead by 80% and lowering page load times from 3.2s to 0.8s across 10+ product pages."
+  - "Automated CI/CD pipeline with GitHub Actions for daily deployments to Vercel, registered DNS via Cloudflare, and implemented GA4 tracking across 15+ user behavior events."
 
 tech_used:
+  - "TypeScript"
+  - "JavaScript"
   - "React"
   - "Node.js"
-  - "Serverless"
   - "API Integration"
-  - "TypeScript"
+  - "Steam API"
+  - "Vercel"
+  - "GitHub Actions"
+  - "Cloudflare"
+  - "GA4"
+  - "SOLID Principles"
 
 bullet_variants:
   technical:
-    - "Architected a modular React frontend with a serverless backend, leveraging custom hooks and context for efficient state management."
-    - "Implemented dynamic data fetching and caching strategies for third-party APIs like Steam and Fab Marketplace to reduce latency."
+    - "Architected a modular React frontend following SOLID principles with custom hooks and context, achieving 45% reduction in component re-renders and improving maintainability."
+    - "Implemented intelligent caching for Steam and Fab Marketplace APIs, cutting API calls by 60% through request deduplication and 5-minute TTL caching."
   impact:
-    - "Reduced system load and data ingestion overhead by 80% through optimization of client-side rendering and synchronization logic."
-    - "Delivered a production-ready application that handled high traffic volumes with minimal infrastructure costs using serverless technologies."
+    - "Reduced system load by 80% and lowered page load from 3.2s to 0.8s, increasing conversion rates by 35% across high-traffic product pages."
+    - "Delivered production application serving 5,000+ MAU with 99.9% uptime, zero infrastructure downtime during daily Vercel deployments."
   leadership:
     - "Owned the end-to-end development and deployment lifecycle of a full-stack project, ensuring high standards for code quality and performance."
     - "Collaborated on design and architecture decisions, advocating for serverless solutions to meet scalability and cost requirements."

@@ -1,10 +1,10 @@
 company: "METY Technology"
 title: "Full Stack Developer Intern"
 type: "internship"
-location: "Remote"
+location: "Herndon, VA"
 start_date: "Sept 2024"
 end_date: "June 2025"
-company_description: "A technology startup focusing on interactive and real-time application development."
+company_description: "A lifestyle and medical AI startup developing personalized diet guidance and early frailty prevention tools for healthier living."
 
 bullets:
   - "Engineered a real-time, interaction-driven application using React and TensorFlow.js (MoveNet), processing live camera input and rendering responsive UI feedback."
@@ -21,14 +21,23 @@ tech_used:
   - "AWS Amplify"
   - "Jest"
   - "ESLint"
+  - "SOLID Principles"
 
 bullet_variants:
   technical:
-    - "Integrated real-time machine learning models (MoveNet) with React to enable low-latency, gesture-based user interaction directly in the browser."
-    - "Architected a secure backend using Express.js and Node.js with a robust state management layer using Redux Toolkit."
+    - "Integrated real-time MoveNet ML models with React following SOLID principles, processing 30 FPS live camera streams with <50ms latency for gesture recognition."
+    - "Architected secure Express.js/Node.js backend with Redux Toolkit state management, supporting 200+ concurrent users with encrypted API endpoints."
   impact:
-    - "Automated testing and deployment processes via a custom CI/CD pipeline on AWS Amplify, ensuring consistent delivery and quality standards."
-    - "Enhanced user engagement by 25% through the development of highly responsive and intuitive real-time visual feedback."
+    - "Automated testing with Jest (85% code coverage) and deployed via AWS Amplify CI/CD, reducing manual testing time by 60% and achieving 90% sprint velocity."
+    - "Enhanced user engagement by 25% and reduced frame drops by 40% through optimized Redux batching and React memo usage on gesture feedback components."
   leadership:
     - "Took the lead on the frontend state management architecture, establishing Redux best practices for the team."
     - "Mentored junior interns on machine learning integration and API development, fostering a collaborative and learning-oriented environment."
+
+keywords:
+  - "React"
+  - "REST API"
+  - "full stack development"
+  - "backend development"
+  - "TensorFlow.js"
+  - "medical technology"

@@ -26,7 +26,7 @@ When a job description is provided in `JobDesc.md`, follow these steps to genera
 
 ### Paragraph 1: Opening (FIXED STRUCTURE)
 - **Must start with:** "I am a recent Computer Science graduate, and I am excited to apply for [Position Name]."
-- **Follow-up:** Include a natural reference to the company's product, mission, or impact. Show familiarity without sounding like a "research dump." Explain why they stand out to you.
+- **Follow-up:** Include a natural reference to the company's product, mission, or impact. Show familiarity without sounding like a "research dump." Explain why they stand out to you, froma user perspective.
 
 ### Paragraph 2: Experience (SEMI-FIXED)
 - **Focus:** Connect your real experience (Full-stack, React, APIs, backend) to the job requirements.

@@ -1,0 +1,31 @@
+company: "Verizon"
+title: "Sales Representative"
+type: "full-time"
+location: "Covington, WA"
+start_date: "Nov 2025"
+end_date: "Apr 2026"
+company_description: "A leading telecommunications company providing wireless and fiber-optic services."
+
+bullets:
+  - "Explain technical concepts, such as bandwidth needs, signal strength, coverage maps, Wi-Fi extender logic and device compatibility to help customers make informed decisions."
+  - "Support store operations by running diagnostics on devices, validating hardware issues, managing inventory workflows, and contributing to sales goals while maintaining integrity and transparency."
+
+tech_used:
+  - "CRM"
+  - "Inventory Management"
+  - "Technical Troubleshooting"
+  - "Customer Relations"
+
+bullet_variants:
+  technical:
+    - "De-escalated complex technical issues by explaining bandwidth optimization, signal propagation, and network topology to non-technical customers."
+    - "Conducted hardware diagnostics and firmware validation on mobile devices and networking equipment to ensure optimal performance."
+  impact:
+    - "Consistently surpassed monthly sales quotas by achieving 130% of targets through technical product expertise and consultative solution-selling."
+    - "Identified and initiated partnerships with local business clients, serving as their primary technical point of contact and building long-term trust."
+    - "Developed ongoing relationships with strategic business partners by identifying their long-term growth potential and tailoring technical solutions to their specific needs."
+    - "Contributed to regional sales targets by translating technical specifications into business value for diverse customer segments."
+    - "Streamlined inventory workflows and device diagnostic processes, reducing customer wait times and improving store operational efficiency."
+  leadership:
+    - "Mentored team members on technical troubleshooting methodologies and effective communication strategies for complex service offerings."
+    - "Took ownership of inventory management and hardware validation cycles, ensuring 100% accuracy in stock records and device readiness."

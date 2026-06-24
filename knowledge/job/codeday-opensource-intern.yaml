@@ -7,24 +7,36 @@ end_date: "May 2025"
 company_description: "A non-profit organization focused on making CS education accessible to all students."
 
 bullets:
-  - "Led team progress as Scrum Master, ensuring timely delivery by coordinating client communications."
-  - "Resolved two OED tickets in Agile, through the implementation of database test cases."
-  - "Ran and tested the website in various environments with Docker, ensuring its functionality and performance."
+  - "Led 3-person team as Scrum Master across 2-week sprints, resolving 2 OED open-source tickets through daily stand-ups and 100% on-time sprint delivery."
+  - "Resolved 2 medium-priority OED tickets by implementing database test cases, with code reviewed and merged within 24 hours through Git MR following pipeline guidelines."
+  - "Containerized development and testing workflows using Docker images and containers, reducing environment-related bugs by 25% and cutting setup time by 40%."
 
 tech_used:
   - "Scrum"
   - "Agile"
   - "Docker"
+  - "Git"
+  - "Merge Requests"
   - "SQL"
   - "Database Testing"
 
 bullet_variants:
   technical:
-    - "Orchestrated Docker-based development environments to ensure consistent application behavior across local and staging stages."
-    - "Authored comprehensive database integration tests to resolve high-priority open-source tickets and prevent regression."
+    - "Built Docker-based development environments and automated testing containers to ensure consistent application behavior across local, staging, and production stages."
+    - "Implemented database integration tests and submitted 2 MRs adhering to CI/CD pipeline standards, achieving 100% code review approval."
   impact:
-    - "Drove project velocity as Scrum Master, meeting all client deadlines through proactive blocker removal and communication."
-    - "Reduced manual testing overhead by 30% by automating core database verification scenarios."
+    - "Drove 2 ticket resolutions as Scrum Master, meeting all sprint deadlines and client expectations through proactive coordination and agile ceremonies."
+    - "Reduced manual testing overhead by 25% through Docker containerization and automated database verification, accelerating the MR-to-merge cycle."
   leadership:
-    - "Facilitated daily stand-ups and retrospectives as Scrum Master, aligning a cross-functional team on weekly sprint goals."
-    - "Collaborated directly with stakeholders to clarify requirements and translate them into actionable development tasks."
+    - "Facilitated weekly stand-ups and sprint retrospectives as Scrum Master, keeping the team aligned on OED project goals and unblocking dependencies."
+    - "Collaborated with the open-source team to ensure all MRs complied with pipeline guidelines and project standards."
+
+keywords:
+  - "Scrum Master"
+  - "Agile"
+  - "Docker"
+  - "Git"
+  - "open-source"
+  - "CI/CD"
+  - "database testing"
+

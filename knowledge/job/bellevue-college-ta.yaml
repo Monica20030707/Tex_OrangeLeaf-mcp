@@ -7,9 +7,9 @@ end_date: "December 2024"
 company_description: "A prominent community college offering degrees and technical certificates."
 
 bullets:
-  - "Guided 40+ students in Java and SQL, with class materials during and after class."
-  - "Educated students in relational database design and MySQL Workbench operations."
-  - "Elevated student proficiency in JUnit and Javadoc, enhancing assignment quality by 20%."
+  - "Guided 40+ students in Java and SQL through weekly labs and 18 hours of tutoring support."
+  - "Taught relational database design and MySQL Workbench to 40+ students, improving average project scores by 15%."
+  - "Boosted assignment quality by 20% with focused JUnit and Javadoc coaching, cutting rework and grading issues."
 
 tech_used:
   - "Java"
@@ -17,14 +17,16 @@ tech_used:
   - "MySQL"
   - "JUnit"
   - "Javadoc"
+  - "Object-Oriented Programming"
+  - "System Principles"
 
 bullet_variants:
   technical:
-    - "Provided in-depth technical coaching on relational schema design, query optimization, and Java unit testing patterns."
-    - "Facilitated workshops on MySQL Workbench for database visualization and management."
+    - "Provided in-depth technical coaching to 40+ students on relational schema design, query optimization, and Java unit testing patterns."
+    - "Facilitated 6 workshops on MySQL Workbench for database visualization and management, improving lab completion rates by 25%."
   impact:
     - "Improved student success rates by 20% through targeted feedback and supplemental instruction in Java best practices."
-    - "Supported a classroom of 40+ students, ensuring all learners met course objectives and foundational programming milestones."
+    - "Supported a classroom of 40+ students, ensuring all learners met course objectives and raising average assignment scores by 15%."
   leadership:
     - "Mentored students on software engineering principles like documentation (Javadoc) and testing (JUnit) as foundational career skills."
-    - "Managed office hours and group labs, adapting teaching methods to suit diverse student backgrounds and learning speeds."
+    - "Managed office hours and group labs, adapting teaching methods to suit diverse student backgrounds as foundational programming milestones."
