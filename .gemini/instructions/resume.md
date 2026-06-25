@@ -21,9 +21,11 @@ When a job description is provided in `JobDesc.md`, follow these steps to genera
         -   If the job title in the description is close but not identical to a resume title (for example, "backend engineer" vs. "full stack software engineer"), tweak the resume wording to reflect the job title while preserving the same seniority level (intern, associate, junior, etc.). Do not change the level of proficiency.
         -   If multiple YAML entries share the same company and overlapping dates (for example, both account rep and sales rep at Verizon), treat them as alternate variants of a single experience and select only the one with the strongest relevance to the current job description.
         -   Mix and match variants if needed to create the most compelling narrative for the specific role.
-    -   **Skill Customization:** Update the "Skills" section (Languages, Skills, Tools) by pulling relevant keywords from the `tech_used` and `keywords` fields in the YAML files that match the `JobDesc.md`. Do NOT create new sections.
-    -   **Formatting:** Maintain the **exact** LaTeX structure, formatting, margins, and style of `templates/resume_template.tex`.
-    -   **One-Page Limit:** The final resume **MUST NOT** exceed one page. If the content is too long:
+        -   **Skill Customization:** Update the "Skills" section (Languages, Skills, Tools) by pulling relevant keywords from the `tech_used` and `keywords` fields in the YAML files that match the `JobDesc.md`. Do NOT create new sections.
+        -   **Formatting:** Maintain the **exact** LaTeX structure, formatting, margins, and style of `templates/resume_template.tex`.    
+        -   **Bold Usage:** Use bold sparingly and strategically to highlight key metrics and achievements. Bold only the most important word or phrase within a bullet (for example, “**Reduced latency by 40%**”), not entire bullets.
+        - Avoid bolding random or unrelated terms, such as “**W4 forms**” or other irrelevant items.
+        - Limit bold use to about **10% of the document** to keep the resume clean and professional.    -   **One-Page Limit:** The final resume **MUST NOT** exceed one page. If the content is too long:
         -   Prioritize the most relevant bullet points.
         -   Reduce the number of bullet points per experience/project (aim for 2-3 high-impact bullets).
         -   Ensure `\vspace` commands from the template are preserved or adjusted slightly to save space, but do not change font size or margins.
