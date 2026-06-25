@@ -1,34 +1,30 @@
-Advaiya is a leading C&I (consulting and implementation) services company, providing business applications and analytics solutions to organizations across the world. We help businesses gain advantage by enabling digital workplace—through identifying, architecting, building, implementing, integrating, and ensuring adoption of relevant technology solutions and innovations. We are seeking enthusiastic and smart business analysts to join us growing team.
+The Trade Desk is a global technology company and the world’s leading independent platform for digital advertising, with nearly 4,000 employees across more than 30 offices. Our technology helps advertisers reach the right audiences across the open internet — from streaming TV and podcasts to mobile apps, news, and more.
 
-Role Overview:
+Advertising powers the content people love. By making it more transparent, effective, and responsible, we help support trusted journalism, quality entertainment, and creators worldwide. The world’s brands and agencies rely on us to reach their customers and grow their businesses responsibly.
 
-We are looking for a Junior Technical Consultant who combines foundational technical understanding with strong project coordination and client-facing abilities. The role is ideal for candidates who are early in their careers and eager to grow in both technology consulting and project delivery.
+The scale of our platform brings unique technical challenges — from processing massive datasets in real time to building systems that operate reliably on a global scale. When you work here, your impact is worldwide. We welcome diverse perspectives, encourage curiosity, and build teams that learn from one another. If you’re driven to solve meaningful challenges, we’d love to meet you.
 
-This position will support client engagements, assist in solution delivery, and collaborate with cross-functional teams to ensure project success.
+What we do:
 
-Job Location: Seattle, WA
+Technical Account Managers oversee integrations with clients, inventory/publisher partners, data partners and others. The TAM is responsible for guaranteeing the technical aspects of the assigned partner integrations (both new and ongoing) by providing necessary documentation and technical guidance. They serve as liaisons between our partners and Engineering teams. This candidate isn’t expected to build software, but will be leveraging multiple technologies and tools to manage complex & custom integration projects. The Technical Account Manager should be a solution-oriented advisor and must be able to understand and communicate advanced engineering concepts to non-technical stakeholders. In addition to serving as a technical advisor the Technical Account Manager will also help identify new opportunities where our products can better help our partners’ businesses.
 
-Experience: 0 - 1 Year
+Skills Summary:
 
-Key Responsibilities
 
-Assist in understanding client requirements and translating them into functional/technical specifications
-Support implementation of solutions across technologies (Microsoft ecosystem preferred)
-Participate in solution configuration, testing, and validation
-Troubleshoot basic technical issues and escalate when required
-Track project tasks, timelines, and deliverables
-Support project managers in planning and execution activities
-Maintain project documentation, status reports, and dashboards
-Ensure adherence to delivery processes and quality standards
-Communicate with internal teams and clients for updates, clarifications, and coordination
-Prepare presentations and reports for stakeholders
-Participate in client meetings and workshops
-Required Skills & Qualifications
+Strong acumen for technical account problem solving – Candidate will facilitate client's technical understanding of Data Quality and provide quantifiable recommendations.
+Great written & verbal communication skills — The person in this role will act as a key advisor to our company’s largest clients and partners who are undertaking data ingestion, data cleansing and data integration projects. It’s important to provide timely, professional customer service while making sure the projects stay on track. 
+Project management abilities — The person in this role will manage long-term (multi-month) integrations, and will be responsible for setting timelines, keeping all stakeholders up to date, and independently driving the process forward. Superb attention to detail is an absolute must. Experience with a formal project management method is a plus.
+Ability to influence people — Clients often come in with an idea of what they want to do and this candidate will be responsible for advising them on the best possible solution, even if it’s not what the client initially thought they wanted. This person will become a technical expert and must be able to act accordingly to consult with the client on their best solution. 
+Fast learner — Candidate must be able to quickly grasp & learn new technical subjects and be able to explain them to others.
+Selfless Team Player – The person in this role will interact with business, engineering, product and clients, representing many different types of personalities and opinions. Candidate must be able to communicate and navigate between all parties.
 
-Bachelor’s degree in engineering, Computer Science, IT, or related field
-0–1 year of relevant experience (internship/project experience also considered)
-Basic understanding of Cloud platforms (Azure preferred), Web technologies (.NET / JavaScript / APIs – nice to have), Databases (SQL basics)
-Familiarity with Microsoft tools (e.g., Power Platform, SharePoint, Power BI) is a plus
-Strong communication (written & verbal – US client-facing readiness)
-Good analytical and problem-solving skills
-Basic understanding of project lifecycle and delivery models
+Who you are:
+
+
+Experience in a technical client-facing role
+Proficiency in JSON and REST APIs
+Experience with SQL, web technologies/web programming languages is strongly preferred
+Experience analyzing data to identify gaps and inconsistencies.
+Experience working with large and complex datasets
+Experience within the retail industry or in e-commerce is desirable but not essential
+Experience working with clients, product, and engineering teams - with the ability to break down complex concepts to non-technical stakeholders

@@ -40,7 +40,7 @@ When a job description is provided in `JobDesc.md`, follow these steps to genera
 
 ### Paragraph 4: Closing (FIXED TEMPLATE)
 - **Template:**
-  > Thank you for considering my application. I’d love the chance to bring my curiosity, persistence, and hands-on verification mindset to [Company]. I don’t come from a flashy background, but I prove myself by shipping reliable work and learning fast. I’m excited to grow and contribute on a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+  > Thank you for considering my application. I’d love the chance to bring my curiosity, persistence, and hands-on verification mindset to [Company]. I don’t come from a flashy background, but I proved myself by shipping reliable work and learning fast. I’m excited to grow and contribute to a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
 - **Note:** Only slightly tweak wording; do not change the tone or make it corporate.
 
 ## 5. Execution
