@@ -18,6 +18,8 @@ When a job description is provided in `JobDesc.md`, follow these steps to genera
         -   If the job is highly technical, prioritize bullets from the `technical` variant.
         -   If the job emphasizes results or sales, use the `impact` variant.
         -   If the job is for a lead or senior role, use the `leadership` variant.
+        -   If the job title in the description is close but not identical to a resume title (for example, "backend engineer" vs. "full stack software engineer"), tweak the resume wording to reflect the job title while preserving the same seniority level (intern, associate, junior, etc.). Do not change the level of proficiency.
+        -   If multiple YAML entries share the same company and overlapping dates (for example, both account rep and sales rep at Verizon), treat them as alternate variants of a single experience and select only the one with the strongest relevance to the current job description.
         -   Mix and match variants if needed to create the most compelling narrative for the specific role.
     -   **Skill Customization:** Update the "Skills" section (Languages, Skills, Tools) by pulling relevant keywords from the `tech_used` and `keywords` fields in the YAML files that match the `JobDesc.md`. Do NOT create new sections.
     -   **Formatting:** Maintain the **exact** LaTeX structure, formatting, margins, and style of `templates/resume_template.tex`.
@@ -34,7 +36,7 @@ When a job description is provided in `JobDesc.md`, follow these steps to genera
 5.  **GitHub Workflow & PDF Management:**
     -   Ensure a `data/resumes/` subdirectory exists for `.tex` files and a `data/pdfs/` subdirectory exists for generated PDFs.
     -   Pushing a new `.tex` file to GitHub will trigger an automated workflow.
-    -   The workflow will compile all `.tex` files from the `data/resumes/` directory and save the resulting PDFs into the `data/pdfs/` directory.
+    -   The workflow will compile all `.tex` files from the `data/resumes/` directory and save the resulting PDFs into the `data/pdfs/` directory, agent don't have to run anything for this step.
 
 ---
 *Note: This workflow is triggered by updates to `JobDesc.md`.*
