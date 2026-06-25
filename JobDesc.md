@@ -1,30 +1,52 @@
-The Trade Desk is a global technology company and the world’s leading independent platform for digital advertising, with nearly 4,000 employees across more than 30 offices. Our technology helps advertisers reach the right audiences across the open internet — from streaming TV and podcasts to mobile apps, news, and more.
+Born digital, UST transforms lives through the power of technology. We walk alongside our clients and partners, embedding innovation and agility into everything they do. We help them create transformative experiences and human-centered solutions for a better world.
 
-Advertising powers the content people love. By making it more transparent, effective, and responsible, we help support trusted journalism, quality entertainment, and creators worldwide. The world’s brands and agencies rely on us to reach their customers and grow their businesses responsibly.
+UST is a mission-driven group of 29,000+ practical problem solvers and creative thinkers in more than 30 countries. Our entrepreneurial teams are empowered to innovate, act nimbly, and create a lasting and sustainable impact for our clients, their customers, and the communities in which we live.
 
-The scale of our platform brings unique technical challenges — from processing massive datasets in real time to building systems that operate reliably on a global scale. When you work here, your impact is worldwide. We welcome diverse perspectives, encourage curiosity, and build teams that learn from one another. If you’re driven to solve meaningful challenges, we’d love to meet you.
+With us, you’ll create a boundless impact that transforms your career—and the lives of people across the world.
 
-What we do:
+Visit us at UST.com.
 
-Technical Account Managers oversee integrations with clients, inventory/publisher partners, data partners and others. The TAM is responsible for guaranteeing the technical aspects of the assigned partner integrations (both new and ongoing) by providing necessary documentation and technical guidance. They serve as liaisons between our partners and Engineering teams. This candidate isn’t expected to build software, but will be leveraging multiple technologies and tools to manage complex & custom integration projects. The Technical Account Manager should be a solution-oriented advisor and must be able to understand and communicate advanced engineering concepts to non-technical stakeholders. In addition to serving as a technical advisor the Technical Account Manager will also help identify new opportunities where our products can better help our partners’ businesses.
+You Are
 
-Skills Summary:
+We are searching for a high-potential Junior Full Stack Developer to join our Data CoE, focused on building data-driven applications and platforms. This role is ideal for candidates with strong fundamentals and a passion for working at the intersection of application development and data engineering.
 
+The Opportunity
 
-Strong acumen for technical account problem solving – Candidate will facilitate client's technical understanding of Data Quality and provide quantifiable recommendations.
-Great written & verbal communication skills — The person in this role will act as a key advisor to our company’s largest clients and partners who are undertaking data ingestion, data cleansing and data integration projects. It’s important to provide timely, professional customer service while making sure the projects stay on track. 
-Project management abilities — The person in this role will manage long-term (multi-month) integrations, and will be responsible for setting timelines, keeping all stakeholders up to date, and independently driving the process forward. Superb attention to detail is an absolute must. Experience with a formal project management method is a plus.
-Ability to influence people — Clients often come in with an idea of what they want to do and this candidate will be responsible for advising them on the best possible solution, even if it’s not what the client initially thought they wanted. This person will become a technical expert and must be able to act accordingly to consult with the client on their best solution. 
-Fast learner — Candidate must be able to quickly grasp & learn new technical subjects and be able to explain them to others.
-Selfless Team Player – The person in this role will interact with business, engineering, product and clients, representing many different types of personalities and opinions. Candidate must be able to communicate and navigate between all parties.
+ Develop and maintain end-to-end full stack applications (frontend + backend)
+ Build scalable data-driven applications and APIs
+ Integrate applications with enterprise data platforms (data lakes, warehouses, APIs)
+ Collaborate with data engineers, data scientists, and architects
+ Participate in design discussions, code reviews, and debugging
+ Ensure code quality, testing, and adherence to modern engineering practices (CI/CD)
 
-Who you are:
+This position description identifies the responsibilities and tasks typically associated with the performance of the position. Other relevant essential functions may be required.
 
+What You Need
 
-Experience in a technical client-facing role
-Proficiency in JSON and REST APIs
-Experience with SQL, web technologies/web programming languages is strongly preferred
-Experience analyzing data to identify gaps and inconsistencies.
-Experience working with large and complex datasets
-Experience within the retail industry or in e-commerce is desirable but not essential
-Experience working with clients, product, and engineering teams - with the ability to break down complex concepts to non-technical stakeholders
+ Graduation Year: 2024, 2025 or 2026
+ GPA: 3.5
+ Experience: 0-3 years
+ Frontend: React / Angular / Vue.js, HTML, CSS, JavaScript/TypeScript
+ Backend: Java / Python / Node.js
+ Databases: SQL (Postgres/MySQL) + NoSQL (MongoDB preferred)
+ APIs: REST / Microservices architecture
+ Cloud: Exposure to AWS / Azure / GCP
+ Tools: Git, CI/CD, Docker (good to have)
+ Data CoE Expectations
+ Build applications leveraging enterprise data platforms and large datasets
+ Basic understanding of data pipelines, ETL, and data modeling concepts
+ Ability to work with data APIs and analytics-driven use cases
+ Exposure/interest in AI/ML-driven or data-centric applications (nice to have)
+ Preferred Background
+ Bachelor’s/Master’s in Computer Science or related field
+ Candidates from top-tier universities (e.g., MIT, Stanford, CMU, UC Berkeley, etc.) or equivalent strong institutions preferred
+ Strong foundation in data structures, algorithms, and system design
+ Preferred Experience (Nice to Have)
+ Internship/work experience with leading tech/product companies (e.g., Google, Microsoft, Amazon, etc.)
+ Exposure to data platforms, analytics, or modern data ecosystems
+ Contributions to open source, hackathons, or research projects
+ Key Competencies
+ Strong problem-solving and analytical skills
+ Ability to work in a fast-paced, collaborative environment
+ Strong learning agility and ownership mindset
+ Good communication (technical + business stakeholders)
