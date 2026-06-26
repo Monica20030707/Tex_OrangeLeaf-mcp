@@ -25,7 +25,8 @@ When a job description is provided in `JobDesc.md`, follow these steps to genera
         -   **Formatting:** Maintain the **exact** LaTeX structure, formatting, margins, and style of `templates/resume_template.tex`.    
         -   **Bold Usage:** Use bold sparingly and strategically to highlight key metrics and achievements. Bold only the most important word or phrase within a bullet (for example, “**Reduced latency by 40%**”), not entire bullets.
         - Avoid bolding random or unrelated terms, such as “**W4 forms**” or other irrelevant items.
-        - Limit bold use to about **10% of the document** to keep the resume clean and professional.    -   **One-Page Limit:** The final resume **MUST NOT** exceed one page. If the content is too long:
+        - Limit bold use to about **10% of the document** to keep the resume clean and professional.    
+        -   **One-Page Limit:** The final resume **MUST NOT** exceed one page. If the content is too long:
         -   Prioritize the most relevant bullet points.
         -   Reduce the number of bullet points per experience/project (aim for 2-3 high-impact bullets).
         -   Ensure `\vspace` commands from the template are preserved or adjusted slightly to save space, but do not change font size or margins.

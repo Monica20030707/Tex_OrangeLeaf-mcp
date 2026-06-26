@@ -1,43 +1,26 @@
-We are hiring a true hunter to win the Seattle restaurant market. 🔥
+Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
 
-Popmenu powers 14,000+ restaurants with technology that drives real revenue. Our product delivers clear ROI, fast. That means short sales cycles and frequent wins. This is a high-activity, outbound-heavy territory role with real fieldwork. You will be in market multiple times a week, walking in to restaurants, building relationships, and closing deals. If you love the chase, move fast, and close often, you will thrive here.
+Problem-solving with a purpose.
 
-The Sale
+As a Technical Solutions Engineer at Epic, you’ll work on software that impacts 305 million patients around the world. Alongside customer counterparts, you’ll tackle mission-critical and complex problems – we’re way beyond “turn it off and on again” issues. You’ll need to diagnose the problem, identify a solution, and manage the implementation of the solution, sometimes across multiple physical locations and stakeholders. Learn more about our team at https://careers.epic.com/Jobs/Technical-Solutions-Engineer.
 
-Buyer: SMB restaurant owners and multi-location operators
+Test the limits of your brain for the most innovative health systems on the planet.
 
-Sales cycle: Typically under 30 days, often much faster
+The top-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
 
-Environment: High-velocity, outbound-driven, door pulling encouraged
+Live affordably in a city known for its rising tech talent.
 
-You are selling directly to decision-makers who care about revenue, guest experience, and long-term growth. Popmenu is not a nice-to-have. It is a revenue-driving platform restaurants rely on to compete in Seattle.
+Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
 
-Requirements
+More than just important work.
 
-What You'll Do
+Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
 
-Own and build the Seattle territory (must live in territory)
-Prospect daily through calls, email, in-person visits, networking, and industry events
-Spend multiple days per week in market, visiting restaurants and building your presence in the local hospitality community
-Run compelling, high-energy demos that clearly articulate ROI
-Create urgency and close consistently in a short sales cycle
-Develop deep knowledge of the Seattle restaurant landscape
-Become a recognized name in the restaurant community
-Partner with your regional team to refine messaging, share best practices, and drive market strategy
-Protect the brand by selling with integrity. No overpromising, no heavy discounting, no poor-fit deals
+We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non-discrimination statement at https://careers.epic.com/EEO.
 
-Who You Are
-
-Proven hunter with strong outbound success required
-Experience selling to SMB decision-makers
-Comfortable operating in short sales cycles under 30 days
-Competitive, resilient, and motivated
-Energized by high activity and high-volume environments
-Skilled in prospecting, lead generation, and closing
-Confident delivering strong product demos and articulating long-term ROI
-Highly organized and effective at managing your time
-Relationship driven
-
-Must have reliable transportation and be comfortable traveling throughout the Seattle territory multiple times a week
-
-Bonus: restaurant experience or SaaS experience in restaurant tech
+Bachelor's degree or greater
+A history of academic excellence or professional success
+Willingness to travel occasionally to customer locations
+Eligible to work in the U.S. without visa sponsorship
+Relocation to the Madison, WI area (reimbursed)
+COVID-19 vaccination
