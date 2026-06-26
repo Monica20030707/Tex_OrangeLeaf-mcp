@@ -7,10 +7,10 @@ end_date: "Present"
 company_description: "An indie game and digital-asset studio creating games and Unreal Engine assets for the Fab Marketplace."
 
 bullets:
-  - "Built and deployed a production-ready TypeScript React website integrating 2 external APIs (Steam, Fab Marketplace), handling 5,000+ monthly active users with automatic scaling and real-time game/asset data."
+  - "Built and deployed a production-ready TypeScript React website integrating 3 external APIs (Steam, Fab Marketplace, Resend), handling 5,000+ monthly active users with automatic scaling and real-time game/asset data and email notifications."
   - "Optimized API ingestion and server-side caching, reducing data processing overhead by 80% and lowering page load times from 3.2s to 0.8s across 10+ product pages."
   - "Automated CI/CD pipeline with GitHub Actions for daily deployments to Vercel, registered DNS via Cloudflare, and implemented GA4 tracking across 15+ user behavior events."
-
+  
 tech_used:
   - "TypeScript"
   - "JavaScript"
@@ -18,6 +18,7 @@ tech_used:
   - "Node.js"
   - "API Integration"
   - "Steam API"
+  - "Resend API"
   - "Vercel"
   - "GitHub Actions"
   - "Cloudflare"
@@ -28,9 +29,11 @@ bullet_variants:
   technical:
     - "Architected a modular React frontend following SOLID principles with custom hooks and context, achieving 45% reduction in component re-renders and improving maintainability."
     - "Implemented intelligent caching for Steam and Fab Marketplace APIs, cutting API calls by 60% through request deduplication and 5-minute TTL caching."
+    - "Built a serverless contact form endpoint using the Resend API with input validation, HTML email templating, and reply-to routing, achieving reliable email delivery without managing SMTP infrastructure."
   impact:
     - "Reduced system load by 80% and lowered page load from 3.2s to 0.8s, increasing conversion rates by 35% across high-traffic product pages."
     - "Delivered production application serving 5,000+ MAU with 99.9% uptime, zero infrastructure downtime during daily Vercel deployments."
+    - "Integrated Resend API for serverless email delivery on the contact form, handling form validation, HTML email templating, and secure reply-to routing with zero email infrastructure overhead."
   leadership:
     - "Owned the end-to-end development and deployment lifecycle of a full-stack project, ensuring high standards for code quality and performance."
     - "Collaborated on design and architecture decisions, advocating for serverless solutions to meet scalability and cost requirements."

@@ -6,7 +6,7 @@ This is a system for programmatically generating tailored resumes and cover lett
 
 The system follows a "Separation of Concerns" pattern:
 1.  **Data Layer**: Professional experience is stored as schema-validated YAML objects in `/knowledge`. Each entry supports multiple attribute variants (Technical, Impact, Leadership) to allow for dynamic content injection.
-2.  **Orchestration Engine**: LLM-driven logic in `.gemini/` parses `JobDesc.md` to perform feature extraction and cross-reference the data layer for optimal content selection.
+2.  **Orchestration Engine**: LLM-driven logic in `.copilot/` parses `JobDesc.md` to perform feature extraction and cross-reference the data layer for optimal content selection.
 3.  **Presentation Layer**: LaTeX templates manage the typesetting and layout, ensuring consistent output regardless of content changes.
 
 ## The Pipeline
@@ -26,7 +26,7 @@ The system follows a "Separation of Concerns" pattern:
 ## Repository Map
 
 *   `knowledge/`: The data layer (YAML files for every job/project).
-*   `.gemini/`: The "compiler" settings and templates.
+*   `.copilot/`: The "compiler" settings and templates.
 *   `data/resumes/`: Generated LaTeX source files.
 *   `data/pdfs/`: Final build artifacts.
 *   `JobDesc.md`: The input buffer for the next tailoring run.
