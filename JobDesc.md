@@ -1,52 +1,43 @@
-Born digital, UST transforms lives through the power of technology. We walk alongside our clients and partners, embedding innovation and agility into everything they do. We help them create transformative experiences and human-centered solutions for a better world.
+We are hiring a true hunter to win the Seattle restaurant market. 🔥
 
-UST is a mission-driven group of 29,000+ practical problem solvers and creative thinkers in more than 30 countries. Our entrepreneurial teams are empowered to innovate, act nimbly, and create a lasting and sustainable impact for our clients, their customers, and the communities in which we live.
+Popmenu powers 14,000+ restaurants with technology that drives real revenue. Our product delivers clear ROI, fast. That means short sales cycles and frequent wins. This is a high-activity, outbound-heavy territory role with real fieldwork. You will be in market multiple times a week, walking in to restaurants, building relationships, and closing deals. If you love the chase, move fast, and close often, you will thrive here.
 
-With us, you’ll create a boundless impact that transforms your career—and the lives of people across the world.
+The Sale
 
-Visit us at UST.com.
+Buyer: SMB restaurant owners and multi-location operators
 
-You Are
+Sales cycle: Typically under 30 days, often much faster
 
-We are searching for a high-potential Junior Full Stack Developer to join our Data CoE, focused on building data-driven applications and platforms. This role is ideal for candidates with strong fundamentals and a passion for working at the intersection of application development and data engineering.
+Environment: High-velocity, outbound-driven, door pulling encouraged
 
-The Opportunity
+You are selling directly to decision-makers who care about revenue, guest experience, and long-term growth. Popmenu is not a nice-to-have. It is a revenue-driving platform restaurants rely on to compete in Seattle.
 
- Develop and maintain end-to-end full stack applications (frontend + backend)
- Build scalable data-driven applications and APIs
- Integrate applications with enterprise data platforms (data lakes, warehouses, APIs)
- Collaborate with data engineers, data scientists, and architects
- Participate in design discussions, code reviews, and debugging
- Ensure code quality, testing, and adherence to modern engineering practices (CI/CD)
+Requirements
 
-This position description identifies the responsibilities and tasks typically associated with the performance of the position. Other relevant essential functions may be required.
+What You'll Do
 
-What You Need
+Own and build the Seattle territory (must live in territory)
+Prospect daily through calls, email, in-person visits, networking, and industry events
+Spend multiple days per week in market, visiting restaurants and building your presence in the local hospitality community
+Run compelling, high-energy demos that clearly articulate ROI
+Create urgency and close consistently in a short sales cycle
+Develop deep knowledge of the Seattle restaurant landscape
+Become a recognized name in the restaurant community
+Partner with your regional team to refine messaging, share best practices, and drive market strategy
+Protect the brand by selling with integrity. No overpromising, no heavy discounting, no poor-fit deals
 
- Graduation Year: 2024, 2025 or 2026
- GPA: 3.5
- Experience: 0-3 years
- Frontend: React / Angular / Vue.js, HTML, CSS, JavaScript/TypeScript
- Backend: Java / Python / Node.js
- Databases: SQL (Postgres/MySQL) + NoSQL (MongoDB preferred)
- APIs: REST / Microservices architecture
- Cloud: Exposure to AWS / Azure / GCP
- Tools: Git, CI/CD, Docker (good to have)
- Data CoE Expectations
- Build applications leveraging enterprise data platforms and large datasets
- Basic understanding of data pipelines, ETL, and data modeling concepts
- Ability to work with data APIs and analytics-driven use cases
- Exposure/interest in AI/ML-driven or data-centric applications (nice to have)
- Preferred Background
- Bachelor’s/Master’s in Computer Science or related field
- Candidates from top-tier universities (e.g., MIT, Stanford, CMU, UC Berkeley, etc.) or equivalent strong institutions preferred
- Strong foundation in data structures, algorithms, and system design
- Preferred Experience (Nice to Have)
- Internship/work experience with leading tech/product companies (e.g., Google, Microsoft, Amazon, etc.)
- Exposure to data platforms, analytics, or modern data ecosystems
- Contributions to open source, hackathons, or research projects
- Key Competencies
- Strong problem-solving and analytical skills
- Ability to work in a fast-paced, collaborative environment
- Strong learning agility and ownership mindset
- Good communication (technical + business stakeholders)
+Who You Are
+
+Proven hunter with strong outbound success required
+Experience selling to SMB decision-makers
+Comfortable operating in short sales cycles under 30 days
+Competitive, resilient, and motivated
+Energized by high activity and high-volume environments
+Skilled in prospecting, lead generation, and closing
+Confident delivering strong product demos and articulating long-term ROI
+Highly organized and effective at managing your time
+Relationship driven
+
+Must have reliable transportation and be comfortable traveling throughout the Seattle territory multiple times a week
+
+Bonus: restaurant experience or SaaS experience in restaurant tech
