@@ -1,26 +1,65 @@
-Please note that this position is based on our campus in Madison, WI, and requires relocation to the area. We recruit nationally and provide financial relocation assistance.
+The Associate Software Engineer is an early-career engineering role responsible for contributing to the design, development, testing, and support of software solutions across the organization’s product portfolio. This role is ideal for engineers who demonstrate strong foundational programming skills, a desire to learn full-stack development, and the ability to work within a collaborative, agile team environment.
 
-Problem-solving with a purpose.
+This engineer will contribute to modern cloud-native applications, gaining experience across backend services, frontend development, and integrations. The role provides strong mentorship and growth opportunities toward becoming a well-rounded full-stack engineer.
 
-As a Technical Solutions Engineer at Epic, you’ll work on software that impacts 305 million patients around the world. Alongside customer counterparts, you’ll tackle mission-critical and complex problems – we’re way beyond “turn it off and on again” issues. You’ll need to diagnose the problem, identify a solution, and manage the implementation of the solution, sometimes across multiple physical locations and stakeholders. Learn more about our team at https://careers.epic.com/Jobs/Technical-Solutions-Engineer.
+Essential Job Responsibilities Include:
 
-Test the limits of your brain for the most innovative health systems on the planet.
+Develop and maintain backend services, APIs, and integrations.
+Build and enhance frontend experiences using Next.js and React.
+Write clean, maintainable, and well-documented code.
+Participate in code reviews and incorporate feedback from senior engineers.
+Troubleshoot and resolve defects in development, test, and production environments.
+Support integrations between internal platforms and external systems.
+Work within Agile/Scrum teams to deliver incremental product value.
+Contribute to automated testing and quality practices.
+Follow secure coding, compliance, and data protection practices.
+Use CI/CD pipelines, version control, and modern development tools.
+Participate in technical learning and knowledge sharing with the team.
+Required Skills / Experience:
 
-The top-ranked health systems in U.S. News and World Report are Epic customers. Our community includes major systems like the Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Kaiser Permanente, as well as leading academic medical centers at the University of Wisconsin, University of Michigan, University of California, University of Texas, The Ohio State University, and many more.
+Bachelor’s degree in computer science, mathematics, engineering or another related field
+0–4 years of software development experience (internship experience counts)
+Experience with Java, Python, Go, or a comparable backend language
+Experience with Next.js and React
+Familiarity with RESTful APIs and web services
+Experience with relational databases
+Experience with version control systems (e.g., Git)
+Strong problem-solving and analytical skills
+Strong communication and collaboration skills
+Willingness to learn new technologies and work across multiple systems
+Preferred Skills/Experience:
 
-Live affordably in a city known for its rising tech talent.
+Internship or academic project experience in cloud or web application development
+Familiarity with AWS services
+Experience with NoSQL data stores
+Familiarity with infrastructure-as-code such as Terraform or CloudFormation
+Familiarity with GitHub Actions for software deployment
+Exposure to AI-assisted development tools (e.g., coding assistants, productivity tools)
+Understanding of Agile development practices
+Technical Environmental & Skills (Exposure Expected):
 
-Epic is located just outside Madison, Wisconsin, the second fastest growing market for tech talent in the United States and home to the state capital and the University of Wisconsin. Madison, a city surrounded by water, has received accolades for being the greenest city in America (NerdWallet), the best city for renters (SmartAsset), the fittest city in America (Fitbit), and the third best metro in the US for young professionals (Forbes Advisor).
+The Associate Software Engineer will gain experience in the following areas:
 
-More than just important work.
+Cloud & Infrastructure
 
-Our uniquely themed campus was designed to heighten your ability to get stuff done in your office, a conference room, or by the fireplace in a comfy chair. All meals are restaurant-quality but cost only a few dollars, and they’re prepared by a team comprised of kitchen talent from restaurants around the country. And, after five years here, you’ll earn a four-week sabbatical anywhere in the world. Staff have kayaked in Patagonia, attended a Beyoncé concert in Ireland, built a library in Tanzania, and run a marathon in Antarctica.
+AWS cloud services and serverless architecture
+AWS Lambda and event-driven patterns
+CI/CD pipelines and automated deployments
+Infrastructure-as-code tooling (Terraform,OpenTofu,CloudFormation)
+Backend Development
 
-We offer comprehensive benefits to keep you healthy and happy as you grow in your life and career, and your merit-based compensation will reflect the impact your work has on the company and our customers. You'll also be eligible for annual raises and bonuses, as well as stock grants, which give you an even greater stake in the success of Epic and our customers. Healthcare is global, and building the best ideas from around the world into Epic software is a point of pride. As an Equal Opportunity Employer, we know that inclusive teams design software that supports the delivery of quality care for all patients, so diversity, equity, and inclusion are written into our principles. Please see our full non-discrimination statement at https://careers.epic.com/EEO.
+API development and integrations
+Microservices and service-based architecture
+Frontend Development
 
-Bachelor's degree or greater
-A history of academic excellence or professional success
-Willingness to travel occasionally to customer locations
-Eligible to work in the U.S. without visa sponsorship
-Relocation to the Madison, WI area (reimbursed)
-COVID-19 vaccination
+Next.js, React, and responsive web development
+Client-side API integration and state management
+Growth Expectations:
+
+In this role, the engineer is expected to:
+
+Progress toward full-stack competency (frontend, backend, integrations)
+Become increasingly independent in delivering features
+Deepen expertise in cloud-native solutions
+Contribute to improving code quality, testing, and engineering practices
+Continuously expand technical knowledge across the stack
