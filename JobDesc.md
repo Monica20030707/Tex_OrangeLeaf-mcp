@@ -1,65 +1,36 @@
-The Associate Software Engineer is an early-career engineering role responsible for contributing to the design, development, testing, and support of software solutions across the organization’s product portfolio. This role is ideal for engineers who demonstrate strong foundational programming skills, a desire to learn full-stack development, and the ability to work within a collaborative, agile team environment.
+iSoftStone , Inc. is seeking an A ssociate AI Developer to join our Team
 
-This engineer will contribute to modern cloud-native applications, gaining experience across backend services, frontend development, and integrations. The role provides strong mentorship and growth opportunities toward becoming a well-rounded full-stack engineer.
+In New York, NY, Seattle, WA or Dallas, TX (Hybrid opportunity)
 
-Essential Job Responsibilities Include:
+**Applicants must be authorized to work for ANY employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.**
 
-Develop and maintain backend services, APIs, and integrations.
-Build and enhance frontend experiences using Next.js and React.
-Write clean, maintainable, and well-documented code.
-Participate in code reviews and incorporate feedback from senior engineers.
-Troubleshoot and resolve defects in development, test, and production environments.
-Support integrations between internal platforms and external systems.
-Work within Agile/Scrum teams to deliver incremental product value.
-Contribute to automated testing and quality practices.
-Follow secure coding, compliance, and data protection practices.
-Use CI/CD pipelines, version control, and modern development tools.
-Participate in technical learning and knowledge sharing with the team.
-Required Skills / Experience:
+Summary:
 
-Bachelor’s degree in computer science, mathematics, engineering or another related field
-0–4 years of software development experience (internship experience counts)
-Experience with Java, Python, Go, or a comparable backend language
-Experience with Next.js and React
-Familiarity with RESTful APIs and web services
-Experience with relational databases
-Experience with version control systems (e.g., Git)
-Strong problem-solving and analytical skills
-Strong communication and collaboration skills
-Willingness to learn new technologies and work across multiple systems
-Preferred Skills/Experience:
+iSoftStone, Inc. is seeking an Associate AI Developer to help build and ship production-grade AI services. This training-based, early-career role is ideal for recent graduates eager to grow into hands-on AI engineers, working alongside senior developers on real client projects spanning agentic applications, orchestration, observability, and computer vision—across a cloud-agnostic stack.
 
-Internship or academic project experience in cloud or web application development
-Familiarity with AWS services
-Experience with NoSQL data stores
-Familiarity with infrastructure-as-code such as Terraform or CloudFormation
-Familiarity with GitHub Actions for software deployment
-Exposure to AI-assisted development tools (e.g., coding assistants, productivity tools)
-Understanding of Agile development practices
-Technical Environmental & Skills (Exposure Expected):
+Responsibilities :
 
-The Associate Software Engineer will gain experience in the following areas:
+ Build AI services: Develop and help deploy services and microservices that integrate LLMs and classical ML (real-time APIs, batch, and event-driven workloads). 
+ Agentic & orchestration: Contribute to agent workflows and tool-use orchestration using frameworks such as LangChain , with structured I/O via Pydantic. 
+ Vision & deep learning: Help develop and integrate CNNs and vision models (classification, detection, OCR) into production pipelines. 
+ Observability: Instrument services with logging, tracing, and evaluation hooks; help monitor quality, latency, cost, and drift. 
+ Cloud-agnostic delivery: Build AI integrations on AWS, Azure, or NVIDIA tooling—and with open-source models—favoring portable, well-tested code. 
+ Quality & collaboration: Write tests from specs, join code reviews and design discussions, and respond constructively to feedback. 
 
-Cloud & Infrastructure
 
-AWS cloud services and serverless architecture
-AWS Lambda and event-driven patterns
-CI/CD pipelines and automated deployments
-Infrastructure-as-code tooling (Terraform,OpenTofu,CloudFormation)
-Backend Development
+Qualifications :
 
-API development and integrations
-Microservices and service-based architecture
-Frontend Development
+ Education: Recently graduated from, a degree/certificate program in Computer Science, AI/ML, Data Science, Engineering, or a related field. 
+ Experience: Up to 2 years of practical experience (internships, co-ops, or substantial academic/personal projects) developing software or AI applications. 
+ AI cloud services: Hands-on exposure building AI services and integrations with one or more of: AWS (Bedrock, SageMaker), Azure (AI Foundry/AI Studio, Azure OpenAI), NVIDIA (CUDA, NIM, Triton), or open-source ( LangChain , Pydantic , Python). 
+ Programming: Solid Python foundation plus software engineering fundamentals (version control, testing, APIs, clean code). 
+ Mindset: Cloud-agnostic and portability-minded; strong problem-solver; open to learning and feedback in a fast-paced environment. 
 
-Next.js, React, and responsive web development
-Client-side API integration and state management
-Growth Expectations:
 
-In this role, the engineer is expected to:
+Preferred Skills
 
-Progress toward full-stack competency (frontend, backend, integrations)
-Become increasingly independent in delivering features
-Deepen expertise in cloud-native solutions
-Contribute to improving code quality, testing, and engineering practices
-Continuously expand technical knowledge across the stack
+ Familiarity with agentic patterns, tool-use orchestration, or the Model Context Protocol (MCP); RAG and vector search (Pinecone, Weaviate , FAISS). 
+ Exposure to deep learning frameworks ( PyTorch , TensorFlow), MLOps /observability ( MLflow , OpenTelemetry ), containers (Docker, Kubernetes), or CI/CD. 
+ Prior internship, capstone, or project work involving AI, data, or cloud services 
+ Education
+ BS/MS/certificate program in Computer Science, Engineering, AI/ML, Data Science or related field; equivalent experience considered. 
