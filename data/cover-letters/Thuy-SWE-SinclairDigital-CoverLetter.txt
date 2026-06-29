@@ -1,0 +1,10 @@
+TO RECRUITING TEAM,
+I am a recent Computer Science graduate, and I am excited to apply for the Software Engineer position at Sinclair Digital. I've watched how local news has struggled to adapt to streaming and mobile, and the idea of a team that's actively rebuilding how news is produced and delivered across every platform really stands out to me. The shift from broadcast-only to a unified multi-platform experience is a fascinating challenge, and I'd love to contribute to that work.
+
+Through my experience as an Associate Full Stack Developer and my previous internship, I've built full-stack applications from the ground up. I worked on React frontends with real-time data, built Express.js APIs to handle concurrent users, and set up CI/CD pipelines so deployments were reliable and repeatable. I've learned that getting something working is only half the job -- making it stable, maintainable, and easy to iterate on is what actually matters when real users depend on it.
+
+I also have hands-on experience integrating AI into applications. At METY Technology, I worked with TensorFlow.js to process live camera streams for gesture recognition, and I regularly use AI-assisted tooling like GitHub Copilot and Cursor to accelerate development. I'm genuinely curious about where AI fits in media workflows -- automated tagging, summarization, and personalization are exactly the kinds of problems I'd love to build POCs for. I don't just use AI tools; I think critically about when they help and when they don't.
+
+Thank you for considering my application. I'd love the chance to bring my curiosity, persistence, and hands-on verification mindset to Sinclair Digital. I don't come from a flashy background, but I proved myself by shipping reliable work and learning fast. I'm excited to grow and contribute to a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+With Gratitude,
+THUY NGUYEN
