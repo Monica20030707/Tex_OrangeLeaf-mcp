@@ -1,36 +1,30 @@
-iSoftStone , Inc. is seeking an A ssociate AI Developer to join our Team
+ForSaleByOwner.com, operated by Redfin, is a leading online platform dedicated to helping homeowners sell their properties without the need for traditional real estate agents. Our mission is to provide a seamless, user-friendly experience for sellers, enabling them to list, market, and sell their homes efficiently and effectively.
 
-In New York, NY, Seattle, WA or Dallas, TX (Hybrid opportunity)
+We are seeking a talented and motivated Software Engineer to join our growing team. As a Software Engineer at ForSaleByOwner.com, you will play a crucial role in developing and maintaining our web applications, ensuring they are robust, scalable, and user-friendly. You will collaborate with cross-functional teams to design, implement, and improve our platform, contributing to our mission of empowering homeowners. You will also support our active users by troubleshooting why a listing may not be appearing on the website and help to provide resolution.
 
-**Applicants must be authorized to work for ANY employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.**
+About The Role
 
-Summary:
+Architect, code, and maintain high-quality software solutions.
+Develop new features and improve existing functionalities on our platform.
+Work closely with product managers, designers, and other engineers to define and implement product requirements.
+Participate in code reviews and provide constructive feedback to team members.
+Write and maintain automated tests to ensure the reliability and performance of our applications.
+Identify and resolve bugs and issues in a timely manner.
+Stay up-to-date with the latest industry trends and technologies.
+Contribute to the improvement of our development processes and tools.
+Experience using AI code generation tools tools such as GitHub CoPilot, Anthropic Claude Code, Cursor, or similar
+Create and maintain clear, concise documentation for code, APIs, and systems.
+Help users with their listings and respond to Right to Know, Right to Access, Right to Delete requests
 
-iSoftStone, Inc. is seeking an Associate AI Developer to help build and ship production-grade AI services. This training-based, early-career role is ideal for recent graduates eager to grow into hands-on AI engineers, working alongside senior developers on real client projects spanning agentic applications, orchestration, observability, and computer vision—across a cloud-agnostic stack.
+About You
 
-Responsibilities :
-
- Build AI services: Develop and help deploy services and microservices that integrate LLMs and classical ML (real-time APIs, batch, and event-driven workloads). 
- Agentic & orchestration: Contribute to agent workflows and tool-use orchestration using frameworks such as LangChain , with structured I/O via Pydantic. 
- Vision & deep learning: Help develop and integrate CNNs and vision models (classification, detection, OCR) into production pipelines. 
- Observability: Instrument services with logging, tracing, and evaluation hooks; help monitor quality, latency, cost, and drift. 
- Cloud-agnostic delivery: Build AI integrations on AWS, Azure, or NVIDIA tooling—and with open-source models—favoring portable, well-tested code. 
- Quality & collaboration: Write tests from specs, join code reviews and design discussions, and respond constructively to feedback. 
-
-
-Qualifications :
-
- Education: Recently graduated from, a degree/certificate program in Computer Science, AI/ML, Data Science, Engineering, or a related field. 
- Experience: Up to 2 years of practical experience (internships, co-ops, or substantial academic/personal projects) developing software or AI applications. 
- AI cloud services: Hands-on exposure building AI services and integrations with one or more of: AWS (Bedrock, SageMaker), Azure (AI Foundry/AI Studio, Azure OpenAI), NVIDIA (CUDA, NIM, Triton), or open-source ( LangChain , Pydantic , Python). 
- Programming: Solid Python foundation plus software engineering fundamentals (version control, testing, APIs, clean code). 
- Mindset: Cloud-agnostic and portability-minded; strong problem-solver; open to learning and feedback in a fast-paced environment. 
-
-
-Preferred Skills
-
- Familiarity with agentic patterns, tool-use orchestration, or the Model Context Protocol (MCP); RAG and vector search (Pinecone, Weaviate , FAISS). 
- Exposure to deep learning frameworks ( PyTorch , TensorFlow), MLOps /observability ( MLflow , OpenTelemetry ), containers (Docker, Kubernetes), or CI/CD. 
- Prior internship, capstone, or project work involving AI, data, or cloud services 
- Education
- BS/MS/certificate program in Computer Science, Engineering, AI/ML, Data Science or related field; equivalent experience considered. 
+1-3 years of professional experience in software development.
+Proven experience with at least one modern programming language (e.g., JavaScript, Go, PHP).
+Strong understanding of software development principles and practices.
+Familiarity with backend technologies (Node.js, Go, PHP).
+Experience or willing to learn with web technologies (HTML, CSS, JavaScript).
+Experience with databases (SQL, NoSQL).
+Knowledge of version control systems (Git).
+Excellent problem-solving skills and attention to detail.
+Strong communication and collaboration skills.
+Ability to work independently and as part of a team.

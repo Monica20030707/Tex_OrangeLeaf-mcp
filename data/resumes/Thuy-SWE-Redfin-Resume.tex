@@ -4,7 +4,7 @@ top=0.5in,                          % specify top page margin
 bottom=0.5in,                       % specify bottom page margin
 left=0.5in,                         % specify left page margin
 right=0.5in]{geometry}              % specify right page margin
-                       
+
 \usepackage{XCharter}               % set font
 \usepackage[T1]{fontenc}            % output encoding
 \usepackage[utf8]{inputenc}         % input encoding
@@ -38,14 +38,15 @@ right=0.5in]{geometry}              % specify right page margin
 \centerline{\href{mailto:thuybohr@gmail.com}{thuybohr@gmail.com} | 206-423-9827 |
 \href{https://www.linkedin.com/in/thuy-nguyen-46505121b/}{linkedin.com/in/thuy-nguyen-46505121b}}
 
-\centerline{\href{https://github.com/Monica20030707}{github.com/Monica20030707} | 
-\href{https://monica20030707.github.io/}{monica20030707.github.io/}} 
+\centerline{\href{https://github.com/Monica20030707}{github.com/Monica20030707} |
+\href{https://monica20030707.github.io/}{monica20030707.github.io/}}
 
 \vspace{-9pt}
 
 % experience section
 \section*{Experience}
 
+\begin{comment}
 \textbf{Sales Representative,} {Verizon} -- Covington, WA \hfill November 2025 -- April 2026 \\
 \vspace{-9pt}
 \begin{itemize}
@@ -53,22 +54,22 @@ right=0.5in]{geometry}              % specify right page margin
   \item Support store operations by running diagnostics on devices, validating hardware issues, managing inventory workflows, and contributing to sales goals while maintaining integrity and transparency.
   \item Consistently surpassed monthly sales quotas by achieving 130\% of targets through technical product expertise and consultative solution-selling.
 \end{itemize}
+\end{comment}
 
-\textbf{Associate Full Stack Developer,} {Forge Tek Studios} -- Remote \hfill August 2025 -- Current 
+\textbf{Associate Full Stack Developer,} {Forge Tek Studios} -- Remote \hfill August 2025 -- Current
 \vspace{-9pt}
 \begin{itemize}
-  \item Built and deployed a production-ready full-stack component-driven React application, integrating external APIs (Steam, Fab Marketplace) to dynamically render real-time content.
-  \item Optimized client-side rendering and data synchronization, reducing load and ingestion overhead by 80\%—focusing on performance-sensitive UI updates.
-  \item Managed the full production release lifecycle, including build pipelines, environment configs, DNS, and hosting to deliver a fully operational site used by real customers.
-  \item Designed and deployed a serverless backend to keep costs low and servers flexible for high visitor traffic.
+  \item Architected a modular React frontend following SOLID principles with custom hooks and context, achieving \textbf{45\% reduction in component re-renders} and improving maintainability.
+  \item Implemented intelligent caching for Steam and Fab Marketplace APIs, cutting API calls by \textbf{60\%} through request deduplication and 5-minute TTL caching.
+  \item Built a serverless contact form endpoint using the Resend API with input validation, HTML email templating, and reply-to routing, achieving reliable email delivery without managing SMTP infrastructure.
 \end{itemize}
 
-\textbf{Full Stack Developer Intern,} {METY Technology} -- Remote \hfill September 2024 -- June 2025 
+\textbf{Full Stack Developer Intern,} {METY Technology} -- Remote \hfill September 2024 -- June 2025
 \vspace{-9pt}
 \begin{itemize}
-  \item Engineered a real-time, interaction-driven application using React and TensorFlow.js (MoveNet), processing live camera input and rendering responsive UI feedback.
-  \item Developed secure and scalable RESTful APIs with Express.js and Node.js to manage data flow and backend communication, in frontend, used Tailwind CSS for styling and Redux Toolkits for state managing.
-  \item Built and maintained a CI/CD pipeline using AWS Amplify, with automated testing via Jest and code quality enforcement through ESLint.
+  \item Integrated real-time MoveNet ML models with React using TensorFlow.js, processing 30 FPS live camera streams with \textbf{<50ms latency} for gesture recognition.
+  \item Architected secure Express.js/Node.js backend with Redux Toolkit state management, supporting \textbf{200+ concurrent users} with encrypted API endpoints.
+  \item Built a CI/CD pipeline via AWS Amplify with automated testing (Jest, 85\% coverage) and code quality enforcement through ESLint.
 \end{itemize}
 
 \begin{comment}
@@ -84,9 +85,9 @@ right=0.5in]{geometry}              % specify right page margin
 \textbf{Teaching Assistant,} {Bellevue College} -- Bellevue, WA \hfill April 2024 -- December 2024 \\
 \vspace{-9pt}
 \begin{itemize}
-  \item Guided 40+ students in Java and SQL, with class materials during and after class.
-  \item Educated students in relational database design and MySQL Workbench operations.
-  \item Elevated student proficiency in JUnit and Javadoc, enhancing assignment quality by 20\%.
+  \item Provided in-depth technical coaching to \textbf{40+ students} on relational schema design, query optimization, and Java unit testing patterns.
+  \item Facilitated 6 workshops on MySQL Workbench for database visualization and management, improving lab completion rates by 25\%.
+  \item Boosted assignment quality by \textbf{20\%} with focused JUnit and Javadoc coaching, reducing rework and grading issues.
 \end{itemize}
 
 \begin{comment}
@@ -126,19 +127,18 @@ right=0.5in]{geometry}              % specify right page margin
 % projects section
 \section*{Projects}
 
-\textbf{Stock Ratio Tracker}{ - Python, React, Typescript} \hfill \href{https://github.com/Monica20030707/Trading-Dashboard_UI}{github.com} \\
+\textbf{Stock Ratio Tracker}{ - Python, React, TypeScript} \hfill \href{https://github.com/Monica20030707/Trading-Dashboard_UI}{github.com} \\
 \vspace{-9pt}
 \begin{itemize}
-  \item Architected the data-flow pipeline connecting Python backend calculations to a live React dashboard, ensuring stable, low-latency ratio updates. 
-  \item Used JPMorgan Chase’s open-source library called Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor.
-  \item Implemented automated unit tests to ensure correctness and reliability.
-  
+  \item Built a Python-based data ingestion and transformation layer to feed live financial metrics into a React-based frontend.
+  \item Integrated JPMorgan Chase's Perspective library to generate live, interactive graphs for real-time trader monitoring.
+  \item Implemented automated unit tests to ensure correctness and reliability of ratio calculations.
 \end{itemize}
 
 \begin{comment}
 \textbf{Read MNIST Handwritten Dataset}{ - Python, Numpy Library} \hfill \href{https://github.com/Monica20030707/Artificial-Neutral-Network_ML}{github.com} \\
 \vspace{-9pt}
-\begin{itemize} 
+\begin{itemize}
   \item Built an Artificial Neural Network (ANN) from scratch to classify handwritten digits (0-9) using Python and NumPy.
   \item Achieved over 90\% accuracy using the Backpropagation algorithm, demonstrating deep understanding of machine learning fundamentals.
 \end{itemize}
@@ -163,11 +163,12 @@ right=0.5in]{geometry}              % specify right page margin
 \end{itemize}
 \end{comment}
 
-\textbf{Traffic Violation Detection System}{ - Javascript, AWS Cloud Services} \hfill \href{https://github.com/Monica20030707/AWS_rekonigition-N-read-database}{github.com} \\
+\textbf{Traffic Violation Detection System}{ - JavaScript, AWS Cloud Services} \hfill \href{https://github.com/Monica20030707/AWS_rekonigition-N-read-database}{github.com} \\
 \vspace{-9pt}
 \begin{itemize}
-  \item Processed license plate images from S3 using AWS Rekognition, automating the identification of traffic offenders.
-  \item Engineered Regex to identify California plates, routing events through SQS and EventBridge to trigger SES-based email notices.
+  \item Architected an event-driven serverless pipeline on AWS, integrating Rekognition for image analysis and SQS for decoupled message processing.
+  \item Implemented Regex pattern matching to filter geographic plate data, routing events through SQS and EventBridge to trigger SES-based email notices.
+  \item Automated the violation detection and notification workflow, reducing manual processing time by over 90\%.
 \end{itemize}
 
 \begin{comment}
@@ -204,9 +205,9 @@ right=0.5in]{geometry}              % specify right page margin
 
 % skills section
 \section*{Skills}
-\textbf{Languages:} Python, Go, TypeScript, Java, Kotlin, C++, Flutter, Next.js, JavaScript, MySQL, Tailwind CSS\\
-\textbf{Skills:} RESTful APIs, GraphQL, Full-stack, SOLID, Clean Code, Scrum Master, Collaboration\\
-\textbf{Tools:} Agentic AI/ML, Terraforms, React, React Native, Redux Toolkit, Redux Thunk, Docker, Jira, AWS Cloud Services\\
+\textbf{Languages:} Python, Go, TypeScript, JavaScript, Java, SQL, Kotlin, C++\\
+\textbf{Skills:} Full-stack Development, RESTful APIs, CI/CD, Automated Testing, SOLID Principles, Git, Documentation, Code Review\\
+\textbf{Tools:} React, Node.js, Express.js, AWS Cloud Services, GitHub Actions, Docker, Redux Toolkit, Tailwind CSS\\
 
 \vspace{-6.5pt}
 

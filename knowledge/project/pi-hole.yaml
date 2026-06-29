@@ -3,7 +3,7 @@ dates: "N/A"
 link: "N/A"
 type: "personal"
 summary: >-
-  A dedicated network-wide ad blocker using Raspberry Pi 4 and Pi-hole for enhanced security and performance, managed entirely via SSH and Bash terminal.
+  A dedicated network-wide ad blocker built on a Debian-based Linux system running on a Raspberry Pi 4, managed remotely through SSH and Bash with Neovim for file editing and navigation.
 
 tech_stack:
   languages:
@@ -12,25 +12,29 @@ tech_stack:
   infrastructure:
     - "Raspberry Pi 4"
     - "Raspberry Pi OS"
+    - "Debian"
+    - "Debian-based Linux"
     - "Linux"
     - "DNS"
     - "SSH"
+    - "Neovim"
 
 contributions:
-  - "Installed and configured Raspberry Pi OS on a Raspberry Pi 4 for a headless environment."
-  - "Managed system setup and maintenance exclusively through the Bash terminal via SSH."
+  - "Installed and configured a Debian-based Linux environment on a Raspberry Pi 4 for a headless setup."
+  - "Used Neovim in the Bash terminal to edit configuration files and navigate the system efficiently."
   - "Set up Pi-hole as a network-wide ad blocker, configuring DNS services and network routing from scratch."
   - "Verified system stability through log inspection and connectivity testing."
 
 bullets:
-  - "Deployed Pi-hole on a Raspberry Pi 4, performing full OS installation and headless configuration to manage the system remotely via SSH and Bash terminal."
+  - "Deployed Pi-hole on a Raspberry Pi 4 running Debian-based Linux, performing full OS installation and headless configuration to manage the system remotely via SSH and Bash."
+  - "Used Neovim in the terminal to edit and navigate configuration files directly on the Raspberry Pi."
   - "Configured DNS services and network routing from scratch, ensuring stable and reliable ad blocking across all connected devices."
   - "Verified system behavior through log inspection and iterative configuration changes to optimize network performance."
 
 bullet_variants:
   technical:
-    - "Engineered a custom network-layer security solution using Linux and Pi-hole to filter DNS traffic across all connected devices."
-    - "Configured and maintained a headless Raspberry Pi 4 environment using SSH and Bash for all administrative tasks."
+    - "Engineered a custom network-layer security solution using Debian-based Linux and Pi-hole to filter DNS traffic across all connected devices."
+    - "Configured and maintained a headless Raspberry Pi 4 environment using SSH, Bash, and Neovim for all administrative tasks."
     - "Diagnosed and resolved network routing conflicts to ensure zero-latency ad blocking."
   impact:
     - "Enhanced network-wide security and reduced bandwidth consumption by filtering malicious and tracking-heavy domains."
@@ -40,7 +44,10 @@ bullet_variants:
 
 keywords:
   - "Raspberry Pi 4"
+  - "Debian"
+  - "Debian-based Linux"
   - "Linux"
+  - "Neovim"
   - "networking"
   - "DNS"
   - "security"
