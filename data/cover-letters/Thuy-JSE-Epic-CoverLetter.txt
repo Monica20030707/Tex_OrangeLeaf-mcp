@@ -1,0 +1,10 @@
+TO RECRUITING TEAM,
+I am a recent Computer Science graduate, and I am excited to apply for the Junior Software Engineer, Full-Stack position at Epic. As someone who grew up reading everything I could get my hands on, the idea of helping build a platform that makes books accessible and engaging for kids is personally meaningful. I love that Epic combines technology with a genuine mission to improve childhood literacy, and I would be proud to contribute to that work.
+
+Through my experience as an Associate Full Stack Developer and my internship, I have shipped full-stack features that real users interact with daily. I built component-based UIs in TypeScript and React, developed RESTful APIs with Express and Node.js, worked with relational data, and wrote automated tests to keep deployments reliable. I have learned that writing code is only part of the job; making sure it is readable, tested, and well-documented is what allows other engineers to trust and build on your work.
+
+I am someone who learns by doing and is not afraid to ask questions. I have used AI-assisted development tools to explore solutions faster, but I always make sure I understand every line I commit. I enjoy collaborating with designers and senior engineers, participating in code reviews, and taking feedback as a way to get better. I am genuinely excited about the chance to learn Epic's stack, including Angular, PHP, and Go, and to grow into larger responsibilities as I ramp up.
+
+Thank you for considering my application. I'd love the chance to bring my curiosity, persistence, and hands-on verification mindset to Epic. I don't come from a flashy background, but I proved myself by shipping reliable work and learning fast. I'm excited to grow and contribute to a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+With Gratitude,
+THUY NGUYEN
