@@ -1,0 +1,14 @@
+TO THE NEXHEALTH RECRUITING TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Software Engineer I position at NexHealth. What drew me to this role is exactly what your description promises: the chance to work on meaningful healthcare infrastructure from day one, not toy features. I want to write production code that touches real patients and providers, and I am ready to learn from a senior team that values curiosity and ownership.
+
+My background in backend development and API design maps directly to the work your team does. At METY Technology, a medical AI startup, I built secure RESTful APIs with Express.js and Node.js to support data flow for a healthcare-focused platform. I learned firsthand what it takes to build reliable backend systems that handle sensitive data and real-time processing. At Forge Tek Studios, I integrated multiple third-party APIs, optimized data ingestion with server-side caching (reducing overhead by 80%), and shipped production features serving 5,000+ monthly active users. I also built a fully serverless event-driven pipeline on AWS for automated traffic violation detection, which taught me how to design decoupled, scalable systems.
+
+I am proficient with relational databases, having worked extensively with SQL across all my roles, and I understand why a query is slow, how to optimize it, and the importance of solid data modeling. I am genuinely excited to learn Ruby on Rails and dive into the technical complexity of EHR integrations. I have a proven track record of ramping up quickly on new technologies and shipping reliable code.
+
+I am not looking for a role where I blend in. I want to be on a small, senior team where I can ask questions, participate in code reviews, and grow through real architectural exposure. Healthcare infrastructure is complex, and that is exactly why I want to work on it.
+
+Thank you for considering my application. I'd love the chance to bring my persistence, backend skills, and hands-on problem-solving to NexHealth. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+THUY NGUYEN

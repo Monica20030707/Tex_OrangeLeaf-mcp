@@ -1,41 +1,32 @@
-Epic Kids is the leading digital reading platform built for kids 12 and under, trusted by millions of children, educators, and families around the world. Our mission is to inspire a lifelong love of reading by providing unlimited access to thousands of high-quality books, videos, and educational content through a safe and engaging experience. We combine technology, storytelling, and learning innovation to help every child become a confident reader.
+About the Role
 
-At Epic, you’ll join a collaborative and fast-paced global team passionate about building meaningful products that make a real impact on children’s education and literacy.
+This is a rare chance to get in early on a company redefining what healthcare infrastructure looks like. As a Software Engineer I at NexHealth, you'll work on meaningful, real-world problems from day one - not toy features, not endless ticket queues. You'll write production code that touches the lives of patients and providers across tens of thousands of practices.
 
-Position Summary
-The Junior Software Engineer, Full-Stack is an entry-level role designed for recent graduates beginning their professional engineering careers. You will write code across our web stack—front-end in Angular/TypeScript, back-end in PHP and Go—on well-scoped tasks under the close guidance of senior engineers. Our back-end is multi-language: PHP/Symfony powers our long-standing application code, and we are actively investing in Go for newer services—so a willingness to learn both, and to grow with the direction the codebase is moving, matters. The first year is about learning: our codebase, our review and release process, how features move from idea to production, and the fundamentals of writing software that other engineers can trust. You will pair with senior teammates, take part in code reviews as both author and reviewer, and grow into larger pieces of work as your skills develop.
+We're looking for engineers who are early in their careers but sharp, curious, and ready to grow fast. You'll be embedded in a small, senior team, which means a high learning curve, real ownership, accelerated mentorship and direct exposure to the kind of systems design and architectural thinking that usually takes years to encounter elsewhere.
 
-This is a fully remote, US-based role working closely with a global, bilingual (English–Chinese) engineering team. New and recent graduates are encouraged to apply.
+This role focuses primarily on back-end development, contributing to our core platform - no-permission integrations with the EHRs, high throughput data ingestion pipelines, scaled storage and low latency data serving that connect healthcare's fragmented ecosystem. You don't need to have done this before at scale; you just need the fundamentals, the drive to figure it out and learn from the best.
 
-Key Responsibilities
-Implement well-scoped front-end features and UI changes in Angular (TypeScript, SCSS) under the guidance of senior engineers
-Implement well-scoped back-end endpoints and changes against MySQL, working in PHP (Symfony + Doctrine ORM) on existing application code and in Go on newer services as the team's Go footprint expands
-Investigate and fix bugs across the stack—reproduce the issue, identify the cause with help when needed, and ship the fix
-Write unit tests for the code you ship and keep tests passing on the areas you touch
-Participate in code reviews as both author and reviewer
-Work with designers, product managers, and senior engineers to translate small user-facing requirements into shipped changes
-Maintain documentation—READMEs, code comments, and onboarding notes—for the areas you work in
-Use AI-assisted development tools to support learning and productivity, ensuring you understand and can defend every line of code you commit
-Take on progressively larger and more independent scopes of work as you ramp on the codebase, supported by pairing and code walkthroughs with senior engineers
-Required Qualifications
-Bachelor's degree (recently completed or completing within the next 6 months) in Computer Science, Software Engineering, or a closely related field—or equivalent practical preparation (e.g., bootcamp + substantial portfolio)
-Solid grasp of programming fundamentals: data structures, control flow, basic algorithms, object-oriented programming
-Hands-on coding experience in at least one modern programming language through coursework, personal projects, internships, or open-source contributions
-Familiarity with HTML, CSS, and JavaScript (or TypeScript) at a level sufficient to build simple interactive web pages
-Familiarity with Git and pull-request-based workflows
-Basic familiarity with relational databases and SQL (SELECT, JOIN, simple WHERE clauses)
-Eagerness to learn, openness to feedback, and willingness to ask questions rather than guess
-Strong written and verbal communication skills in English for daily collaboration and technical documentation
-Preferred Skills
-Any of the following are nice to have but not required—we expect to teach our specific stack on the job:
+What You'll Do
 
-Coursework, internship, or side-project exposure to a modern component-based front-end framework (Angular, React, or Vue) and reactive patterns (RxJS, hooks, or similar)
-Coursework, internship, or side-project exposure to a server-side language (PHP or Go especially welcomed; Java, Python, or Node.js also fine) — bonus if used with a framework such as Symfony, Spring, Laravel, Express, or Django, or with Go's standard library and common patterns (HTTP handlers, goroutines, modules)
-Exposure to an ORM (Doctrine, Hibernate, Eloquent, Prisma, TypeORM, or similar)
-Exposure to unit-testing frameworks (Jasmine/Karma, Jest, PHPUnit, Go's testing package, JUnit, pytest, etc.)
-Exposure to Docker or containerized local development
-Exposure to any cloud platform (GCP preferred; AWS or Azure also welcomed) — e.g., deploying a personal project, working through a free-tier tutorial
-Internship experience at a software company
-Open-source contributions, hackathon projects, capstone work, or other evidence of engineering curiosity outside of coursework
-Working proficiency in Mandarin Chinese to collaborate with global engineering and business partners
-Interest in ed-tech, children's media, or content-platform work
+Build and ship features across NexHealth's core platform, including our healthcare integration API and provider-facing SaaS product, with guidance from senior engineers.
+Write clean, well-tested, production-ready code - and learn what that actually means in a fast-moving, high-stakes environment.
+Participate in code reviews, technical discussions, and architecture conversations - we want your questions and your perspective from the start.
+Debug and investigate issues in distributed systems, developing the pattern recognition that comes from working on real infrastructure.
+Contribute to indirect integrations with electronic health record (EHR) systems - one of the most technically complex and impactful parts of what we build.
+Collaborate closely with product managers, designers, and other engineers to scope, plan, and deliver projects end to end.
+Grow. We invest in our engineers - through mentorship, technical stretch assignments, and the kind of exposure you'd normally have to wait years for.
+What You'll Bring
+
+A degree in Computer Science, Software Engineering, or a related field - or equivalent practical experience that demonstrates strong CS fundamentals.
+0–2 years of professional software engineering experience. Internships, co-ops, and meaningful open-source contributions count.
+Solid grasp of data structures, algorithms, and object-oriented or functional programming concepts.
+Proficiency in at least one backend language; experience with Ruby, Python, Go, or Java is a plus. We primarily use Ruby on Rails.
+Comfort working with relational databases - you understand what a query is doing and why it might be slow.
+Ability to communicate clearly in writing and in conversation. You ask good questions and can explain your thinking.
+Intellectual curiosity and a bias toward figuring things out. Healthcare infrastructure is niche and complex - we'll teach you the domain, but you need to want to learn it.
+Bonus Points For
+
+Exposure to cloud platforms (AWS, GCP, or Azure) or containerization tools like Docker or Kubernetes.
+Experience with API design, webhooks, or third-party integrations.
+Any background in healthcare technology, HL7, or FHIR standards - though definitely not required.
+Prior experience working in a startup or fast-paced product environment.
