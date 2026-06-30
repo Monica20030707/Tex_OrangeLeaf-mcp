@@ -1,32 +1,27 @@
-About the Role
-
-This is a rare chance to get in early on a company redefining what healthcare infrastructure looks like. As a Software Engineer I at NexHealth, you'll work on meaningful, real-world problems from day one - not toy features, not endless ticket queues. You'll write production code that touches the lives of patients and providers across tens of thousands of practices.
-
-We're looking for engineers who are early in their careers but sharp, curious, and ready to grow fast. You'll be embedded in a small, senior team, which means a high learning curve, real ownership, accelerated mentorship and direct exposure to the kind of systems design and architectural thinking that usually takes years to encounter elsewhere.
-
-This role focuses primarily on back-end development, contributing to our core platform - no-permission integrations with the EHRs, high throughput data ingestion pipelines, scaled storage and low latency data serving that connect healthcare's fragmented ecosystem. You don't need to have done this before at scale; you just need the fundamentals, the drive to figure it out and learn from the best.
-
-What You'll Do
-
-Build and ship features across NexHealth's core platform, including our healthcare integration API and provider-facing SaaS product, with guidance from senior engineers.
-Write clean, well-tested, production-ready code - and learn what that actually means in a fast-moving, high-stakes environment.
-Participate in code reviews, technical discussions, and architecture conversations - we want your questions and your perspective from the start.
-Debug and investigate issues in distributed systems, developing the pattern recognition that comes from working on real infrastructure.
-Contribute to indirect integrations with electronic health record (EHR) systems - one of the most technically complex and impactful parts of what we build.
-Collaborate closely with product managers, designers, and other engineers to scope, plan, and deliver projects end to end.
-Grow. We invest in our engineers - through mentorship, technical stretch assignments, and the kind of exposure you'd normally have to wait years for.
-What You'll Bring
-
-A degree in Computer Science, Software Engineering, or a related field - or equivalent practical experience that demonstrates strong CS fundamentals.
-0–2 years of professional software engineering experience. Internships, co-ops, and meaningful open-source contributions count.
-Solid grasp of data structures, algorithms, and object-oriented or functional programming concepts.
-Proficiency in at least one backend language; experience with Ruby, Python, Go, or Java is a plus. We primarily use Ruby on Rails.
-Comfort working with relational databases - you understand what a query is doing and why it might be slow.
-Ability to communicate clearly in writing and in conversation. You ask good questions and can explain your thinking.
-Intellectual curiosity and a bias toward figuring things out. Healthcare infrastructure is niche and complex - we'll teach you the domain, but you need to want to learn it.
-Bonus Points For
-
-Exposure to cloud platforms (AWS, GCP, or Azure) or containerization tools like Docker or Kubernetes.
-Experience with API design, webhooks, or third-party integrations.
-Any background in healthcare technology, HL7, or FHIR standards - though definitely not required.
-Prior experience working in a startup or fast-paced product environment.
+Software Engineers at Palantir build software at scale to transform how organizations around the world use data. In this role, you’ll have an opportunity to grow more quickly than you ever envisioned as you contribute high-quality code directly to Palantir Gotham, Palantir Apollo, or Palantir Foundry: products that are deployed at some of the most important institutions across the public and private sectors. You'll create features used by research scientists, aerospace engineers, intelligence analysts, and economic forecasters in countries around the world. Palantir's Product Development organization is made up of small teams of Software Engineers, each focusing on a specific aspect of a product. For example, you might join a team that builds a Foundry front-end application, or a component of the Gotham release infrastructure. We encourage communication and collaboration among teams to share context, skills, and experience, so you'll also have the opportunity to learn about other business areas.
+ 
+Core Responsibilities
+ 
+As a Software Engineer, you are involved throughout the product lifecycle - from idea generation, design, and prototyping, to execution and shipping, all while also being paired with a mentor dedicated to your growth and success. You'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that tackle them. One of the most effective ways to understand what our users need is to meet them. You may receive an opportunity to tour the assembly line at an auto-manufacturer or join a counter-terror analyst at their desk to really understand their mission and difficulties.
+ 
+SWE principles include:
+ 
+• Ownership: We see projects through from beginning to end in spite of obstacles we may encounter.
+• Collaboration: We work internally with people from a variety of backgrounds — such as other Software Engineers, Product Managers, Designers and Product Reliability Engineers. We also partner with our business development teams (Forward Deployed Engineers, Deployment Strategists) in order to understand and solve our customers' problems.
+• Trust: We trust each other to effectively handle time and priorities, and don't micromanage. We want people to have the space to think for themselves, while feeling supported by their team.
+ 
+Technologies We Use
+ 
+It doesn’t matter what languages you know when you join us; what matters is that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers that bring diverse experience - whether you’re a former university Teaching Assistant, switched to computer science recently, or are a hackathon enthusiast — you'll build your skills to apply the best technology to solve a given problem. Right now, we use:
+ 
+• A variety of languages, including Java and Go for backend and Typescript for frontend
+• Open-source technologies like Cassandra, Spark, Elasticsearch, React, and Redux
+• Industry-standard build tooling, including Gradle and GitHub
+What We Value
+Ability to communicate and collaborate with a variety of individuals, including engineers, users and non-technical team members.
+Willingness to learn and make decisions independently, and the ability to ask questions effectively.
+Active US Security clearance, or eligibility and willingness to obtain a US Security clearance.
+What We Require
+Engineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.
+Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.
+Experience coding in programming languages, such as Java, C++, Python, JavaScript, or similar languages.

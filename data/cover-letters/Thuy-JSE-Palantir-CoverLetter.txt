@@ -1,0 +1,14 @@
+TO THE PALANTIR RECRUITING TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Software Engineer position at Palantir. What draws me to this role is the opportunity to build software at scale that transforms how organizations use data, while being part of a small, collaborative team that owns products from idea to deployment. I want to write clean, effective code that solves real problems for research scientists, analysts, and engineers worldwide.
+
+Throughout my experience, I have worked across the full product lifecycle. At Forge Tek Studios, I owned the end-to-end development of a production React application serving 5,000+ monthly active users, integrating multiple external APIs, optimizing server-side caching to reduce overhead by 80%, and shipping daily deployments through a GitHub Actions CI/CD pipeline. At METY Technology, I built secure RESTful APIs and engineered real-time applications processing live camera streams. As a Teaching Assistant, I guided 40+ students in Java, SQL, and JUnit, reinforcing the fundamentals I practice daily.
+
+I have experience coding in Java, Python, Go, TypeScript, and JavaScript, and I am comfortable picking up new languages quickly. I built coding competition problems with auto test cases across five languages, designed grammars with ANTLR in Java, and implemented a serverless event-driven pipeline on AWS. I understand data structures, storage systems, and cloud infrastructure, and I am eager to apply my skills to Palantir's Gotham, Apollo, or Foundry products.
+
+Palantir's values of ownership, collaboration, and trust align with how I work. I thrive in environments where I can take responsibility for projects from beginning to end, collaborate across disciplines, and learn from experienced engineers. I ask questions effectively, communicate clearly, and am eligible and willing to obtain a US Security clearance.
+
+Thank you for considering my application. I would love the chance to bring my technical versatility, ownership mindset, and passion for impactful software to Palantir. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+THUY NGUYEN
