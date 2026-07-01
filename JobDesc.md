@@ -1,43 +1,34 @@
-Outbound Sales Development Representative
-Seattle, Washington, United States
-Why join us
+We are partnering with a leading technology company at the forefront of innovation, dedicated to solving complex challenges through advanced software and data science. Our mission is to empower scientific and data-science-focused customers by providing cutting-edge software development, machine learning, and scientific computing capabilities. We are passionate about creating impactful solutions that drive progress and discovery.
 
-Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.
+Are you a passionate software engineer eager to make a tangible impact on scientific discovery and data-driven innovation? We are seeking a talented individual to join our dynamic team, where you will play a crucial role in developing and maintaining software solutions that empower data scientists and researchers. This is an exciting opportunity to apply your engineering skills to real-world scientific problems, contribute to groundbreaking projects, and shape the future of scientific computing!
 
-Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.
+What You’ll Do
 
-Sales at Brex
+In this role, you will be instrumental in supporting scientific and data-science-focused customers through robust software development, machine learning-related work, and scientific computing/simulation capabilities. You will contribute directly to key projects by:
 
-Sales is the growth engine at Brex. We bring in new customers, expand existing relationships, and drive the company’s bottom line. With unlimited territories and uncapped opportunity, your ambition sets the ceiling. We win together, celebrate often, and reward performance. If you want to sell a category-defining product with real ownership, this is your team.
+ Maintaining and managing customer-facing code repositories.
+ Performing robust software development and coding tasks, applying strong engineering principles.
+ Applying programming expertise to solve scientific problems and streamline workflows.
+ Contributing to projects involving machine learning models and data science activities.
+ Engaging in simulation-related work, leveraging simulation experience to drive innovation.
+ Working as part of a product team to coordinate and support customer onboarding.
+ Developing and owning the codebase for customer-facing repositories.
+ Authoring repeatable agents and publishing community assets to establish best practices.
 
-What you’ll do
+Must-Have Qualifications
 
-As a Sales Development Representative, you will be responsible for prospecting and identifying new customers for Brex. You will partner with Account Executives to help businesses understand the value of Brex as a financial services solution and the rewards that it provides fast growing companies. We’re rapidly growing our team which requires a “whatever it takes” attitude, a high sense of urgency, and a passion for sales. As an SDR at Brex, you will have the opportunity to help create processes and build pipelines for $1 million deals immediately. 
+ Bachelor’s degree in computer science, software engineering, or a relevant field.
+ 1-2 years of experience in scientific computing.
+ Strong software engineering skills, including proficiency in coding and development.
+ Basic knowledge of version control in software development.
+ Basic knowledge of AI, large language models (LLMs), and agents.
+ Basic ability to troubleshoot issues and implement system changes.
+ Basic knowledge of computer hardware and software.
+ Excellent verbal and written communication skills.
+ Strong problem-solving, customer service, and interpersonal skills.
 
-Where you’ll work
+Nice-to-Have Qualifications
 
-This role will be based in our Seattle office. We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require three days per week in office - Monday, Wednesday and Thursday. As a perk, we also have up to four weeks per year of fully remote work!
-
-Responsibilities
-
-Identify growing companies that would gain value from Brex 
-Prospect companies that are growing and spending; educate them on our modern corporate card and spend management software
-Navigate through a conversation flow to uncover business needs, understand pains, and position Brex as a compelling solution
-Maintain and update an accurate log of activity in the CRM system
-Hit daily KPIs across a variety of touch points: email, phone, social
-Use email to correspond with leads to follow up and/or to confirm appointments
-Provide feedback to others in department related to information prospects share that could be helpful in advertising/marketing as well as our overall programs
-Requirements
-
-Experience in a general sales role OR a related field in hospitality, customer service, etc.
-The ability to proactively engage new clients through email and phone
-A high sense of urgency coupled with an ability to adapt and pivot in every conversation
-Strong communication skills to passionately and clearly articulate the value of Brex
-Work with Marketing Operations to define, execute, and optimize prospecting approaches through A/B tests
-A team-player attitude with a desire to improve internal processes beyond your day-to-day tasks
-A desire to learn, grow, and launch your career at a cutting-edge financial technology company 
-Bonus points
-
-SaaS or B2B experience 
-Experience with Salesforce, Outreach, and/or ZoomInfo
-Demonstrated ability to exceed impact & activity quotas 
+ Knowledge in agentic AI for science.
+ Experience with machine learning models and data science-related activities.
+ Simulation experience.
