@@ -1,33 +1,81 @@
-The ISR (Intelligence, Surveillance & Reconnaissance), Aviation, and Security (IAS) business area is a leader in ISR and aviation, it is a leading prime manned and unmanned aircraft systems integrator for innovative, high-performance ISR and aviation systems. Its end-to-end Command, Control, Computers, Communications and Intelligence, Surveillance & Reconnaissance (C4ISR) capabilities encompass design, integration, test, certification, ground/flight training and complete logistics support. IAS tailors solutions to customer cost, performance, and schedule requirements and designs to consistently exceed expectations – with an unrivaled record of on time and on (or under) budget deliveries.
-Responsibilities:
+Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.
 
-Assist in the design, development, and testing of software components.
-Debug and troubleshoot software issues.
-Write and maintain code documentation.
-Collaborate with team members to ensure code quality and adherence to standards.
-Participate in code reviews and provide constructive feedback.
-Support the integration of software with hardware systems.
+We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that.
 
-Qualifications You Must Have:
+We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft.
 
-Bachelor's degree in Computer Science, Software Engineering, or related field.
-0-2+ years of experience in software development.
-Basic proficiency in programming languages such as C++, Java, or Python.
-Conceptual understanding of engineering principles and practices.
-Familiarity working in multi-disciplinary teams.
-Ability to obtain/maintain a Secret U.S.Security Clearance is required.
+We are a global technology company co-headquartered in Toronto and San Francisco, with key offices in London, New York City, Montreal, Seoul, Germany and Paris. Join us!
 
-Qualifications We Prefer:
 
-Internship or cooperative education experience in software development.
-Exposure to the Aerospace and Defense industry.
-Understanding of industry standard software languages such as C, C#, C++, HTML, Java, Python, and Bash.
-Experience with software tools for requirements tracking, code reviews, static analysis, library and artifact repository, and automated build.
-Knowledge of software development methodologies such as Agile/Scrum, Waterfall, and Spiral.
-Familiarity with data structures.
+About North:
+North is Cohere's cutting-edge AI workspace platform, designed to revolutionize the way enterprises utilize AI. It offers a secure and customizable environment, allowing companies to deploy AI while maintaining control over sensitive data. North integrates seamlessly with existing workflows, providing a trusted platform that connects AI agents with workplace tools and applications.
 
-Essential Functions:
 
-Ability to work on a computer for extended periods.
-Hand/finger dexterity for coding and testing.
-Ability to work in a hybrid environment with occasional travel.
+Why this role?
+This role offers a unique opportunity to shape how enterprises harness the power of AI in real-world applications. As a bridge between our core North product and our clients’ engineering teams, you’ll be at the forefront of solving complex problems and securely integrating AI into critical sectors such as finance, healthcare, and telecommunications.
+
+We’re looking for Software Engineers with Applied AI experience who can own the design, build, and deployment of agentic workflows powered by Large Language Models (LLMs), from early prototypes to production-grade AI agents, to deliver concrete business value in enterprise workflows. You’ll work closely with customers on real-world business problems, often building first-of-their-kind agent workflows that integrate LLMs with tools, APIs, and data sources. While our pace is startup-fast, the bar is enterprise-high: agents must be reliable, observable, safe, and auditable from day one.
+
+Note: between 20 - 40% travel anticipated.
+
+
+In this role, you will:
+Work closely with our enterprise customers to translate high-value, ambiguous business problems into well-framed agentic workflows with clear success criteria and evaluation methodologies
+
+Lead the design, build, and delivery of LLM-powered agents that reason, plan, and act across tools, APIs, and sensitive enterprise data sources, with enterprise-grade reliability and performance
+
+Build and ship features for North, our AI workspace platform, working across the full product lifecycle from conceptualisation through production
+
+Take ownership of scoping and shaping use cases end-to-end, flexing into whatever technical area the problem demands (including frontend) to drive the most effective solution
+
+Contribute to shared frameworks and patterns that enable consistent, high-quality delivery across customers and teams
+
+Drive clarity in ambiguous situations, build alignment, and raise engineering quality across the organization
+
+Travel up to 20–40% to work on-site with customers and partners
+
+
+You may be a good fit if:
+You have hands-on experience building and deploying production-grade software in Python; you write clean, testable, observable, scalable code
+
+You've built and deployed highly performant RAG and agentic applications, including agents that plan and execute multi-step tasks using patterns like ReAct or Plan-and-Execute
+
+You're deeply familiar with the LLM stack: frontier models, vector databases, and orchestration frameworks
+
+You have a proven ability to build robust evaluation frameworks, moving well beyond trial and error, to measure agent accuracy, safety, and latency
+
+You’re experienced working directly with customers and can lead technical discussions with enterprise stakeholders, translating ambiguous business needs into concrete technical specs
+
+You have experience owning the full scope of a use case end-to-end
+
+You thrive in fast-paced and ambiguous environments and can execute well even when priorities are shifting
+
+
+It's a bonus if you have:
+Experience setting architectural standards for AI and agentic systems across distributed teams
+
+Experience flexing into unfamiliar technical areas, such as frontend, when the problem calls for it
+
+Exposure to regulated or sensitive industry environments (finance, healthcare, telecoms)
+
+Experience with enterprise security, compliance, or auditability requirements for AI systems
+
+Full-Time Employees at Cohere enjoy these Perks:
+A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch.
+
+Full health and dental benefits, including a separate budget for mental health.
+
+RRSP matching, 401K, Pension Scheme.
+
+100% Parental Leave top-up for up to 6 months, for either parent.
+
+Annual enrichment benefits:
+
+Arts & culture, fitness/wellness, quality time, and a workspace improvement credit.
+
+Education & learning stipend for conferences, courses, and coaching.
+
+6 weeks of paid vacation (30 working days!)
+
+Budget for traveling to other offices if you are remote, plus an annual company offsite.
+
