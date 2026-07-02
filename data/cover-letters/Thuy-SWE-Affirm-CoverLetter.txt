@@ -1,0 +1,12 @@
+TO THE AFFIRM RECRUITING TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Software Engineer role on the People Tech \& Analytics team. I have used Affirm as a customer and appreciate the transparency around fees and payment terms. The idea of building internal AI systems that directly improve how 2,000+ employees interact with the People function is exactly the kind of hands-on, high-impact work I am looking for.
+
+I have owned the full lifecycle of production systems. At Forge Tek Studios, I took a project from nothing to a live application serving 5,000+ monthly active users, handling architecture, API integrations, CI/CD, DNS, hosting, and ongoing maintenance. Getting something working is not enough, making it stable, reliable, and maintainable is what matters. At METY Technology, I built RESTful APIs handling 200+ concurrent users and set up automated testing pipelines. At CodeDay, I containerized development environments with Docker to eliminate environment inconsistencies.
+
+I enjoy working across the boundary between technical systems and real business problems. I have built serverless event-driven pipelines on AWS, designed CI/CD workflows, and worked with structured data. I am comfortable in Python and eager to deepen my skills with Snowflake, dbt, and AI agent development. I ask questions, push back when needed, and I am used to turning rough requirements into working software without waiting for a detailed spec.
+
+Thank you for considering my application. I'd love the chance to bring my curiosity, persistence, and hands-on verification mindset to Affirm. I don't come from a flashy background, but I proved myself by shipping reliable work and learning fast. I'm excited to grow and contribute to a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+THUY NGUYEN
