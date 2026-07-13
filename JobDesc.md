@@ -1,81 +1,84 @@
-Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.
+Kiewit is seeking a Digital Model / BIM Automation Developer to support the processing, transformation, and delivery of engineering models across enterprise-scale EPC projects. This role is responsible for managing and scaling automated pipelines that deliver critical 3D model data to thousands of users daily.
 
-We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that.
+ 
 
-We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft.
+This is a highly technical, operations-focused role within the Digital Project Execution (DPE) team, requiring strong programming, data handling, and systems expertise. The position plays a key role in ensuring reliability, scalability, and performance of model delivery systems, while continuously improving automation processes to support rapid organizational growth.
 
-We are a global technology company co-headquartered in Toronto and San Francisco, with key offices in London, New York City, Montreal, Seoul, Germany and Paris. Join us!
+ 
 
+District Overview
+This position is within the Kiewit Technology Group, supporting Kiewit Nuclear Solutions. 
 
-About North:
-North is Cohere's cutting-edge AI workspace platform, designed to revolutionize the way enterprises utilize AI. It offers a secure and customizable environment, allowing companies to deploy AI while maintaining control over sensitive data. North integrates seamlessly with existing workflows, providing a trusted platform that connects AI agents with workplace tools and applications.
+Location
+This is a remote position that may require some travel. 
 
+ 
 
-Why this role?
-This role offers a unique opportunity to shape how enterprises harness the power of AI in real-world applications. As a bridge between our core North product and our clients’ engineering teams, you’ll be at the forefront of solving complex problems and securely integrating AI into critical sectors such as finance, healthcare, and telecommunications.
+Responsibilities
+Model Processing & Delivery
 
-We’re looking for Software Engineers with Applied AI experience who can own the design, build, and deployment of agentic workflows powered by Large Language Models (LLMs), from early prototypes to production-grade AI agents, to deliver concrete business value in enterprise workflows. You’ll work closely with customers on real-world business problems, often building first-of-their-kind agent workflows that integrate LLMs with tools, APIs, and data sources. While our pace is startup-fast, the bar is enterprise-high: agents must be reliable, observable, safe, and auditable from day one.
+Process, convert, and prepare engineering models for downstream use in UniversalPlantViewer (UPV) / Universal Digital Twin Hub / UDITH
+Manage and support the daily delivery of 100+ models to 3,000+ users across projects
+Ensure model quality, consistency, and availability across environments
+Troubleshoot model processing failures and implement corrective actions
+Automation & Optimization
 
-Note: between 20 - 40% travel anticipated.
+Develop, enhance, and maintain automation pipelines for model processing and delivery
+Identify opportunities to reduce manual intervention and improve system reliability
+Optimize existing workflows for performance, scalability, and maintainability
+Implement monitoring and alerting for critical automation processes
+Systems & Infrastructure Support
 
+Support general systems administration tasks related to model processing environments
+Maintain and improve infrastructure supporting automated workflows
+Ensure systems are stable, secure, and performant under increasing scale
+Data & Integration
 
-In this role, you will:
-Work closely with our enterprise customers to translate high-value, ambiguous business problems into well-framed agentic workflows with clear success criteria and evaluation methodologies
+Work with structured data using SQL to support model metadata and integration workflows
+Integrate model data with downstream systems and platforms (e.g., Common Data Environments, analytics tools)
+Support data transformation and validation processes
+Continuous Improvement & Scaling
 
-Lead the design, build, and delivery of LLM-powered agents that reason, plan, and act across tools, APIs, and sensitive enterprise data sources, with enterprise-grade reliability and performance
+Contribute to scaling operations in a rapidly growing environment (~5x growth over recent years)
+Improve reliability and maintainability of model delivery systems
+Support onboarding of new projects and increased model volumes
+Qualifications
+Technology stack
 
-Build and ship features for North, our AI workspace platform, working across the full product lifecycle from conceptualisation through production
+Primary:
 
-Take ownership of scoping and shaping use cases end-to-end, flexing into whatever technical area the problem demands (including frontend) to drive the most effective solution
+Universal Plant Viewer (UPV)
+Python (preferred)
+SQL Server / Azure SQL
+Model processing tools and formats (e.g., SmartPlant Review, Navisworks, 3D model platforms)
+Automation frameworks / scripting
+Supporting:
 
-Contribute to shared frameworks and patterns that enable consistent, high-quality delivery across customers and teams
+Azure-based ecosystem (Data Factory, Databricks, Data Lake)
+CI/CD and scripting tools
+Required qualifications
 
-Drive clarity in ambiguous situations, build alignment, and raise engineering quality across the organization
+Experience processing and converting engineering models
+Strong proficiency in a modern programming language (Python preferred)
+Engineering or construction industry experience (EPC environment preferred)
+Strong SQL skills for data manipulation and integration
+Proven ability to automate complex processes and workflows
+Strong systems and infrastructure fundamentals (systems administration experience preferred)
+Highly proficient in problem solving and troubleshooting complex technical issues
+Strong foundational knowledge of computers, data structures, and coding principles
+Ability to quickly learn new tools, systems, and workflows
+Strong sense of ownership and accountability for delivering business-critical systems
+Experience supporting high-availability systems used by large user bases (thousands of users)
+Experience documenting functional requirements, technical designs, and data workflows.
+Excellent written and verbal communication skills.
+ 
 
-Travel up to 20–40% to work on-site with customers and partners
+PREFERRED QUALIFICATIONS
 
+Background in data analytics or data engineering
+Experience training or supporting end users
+BONUS EXPERIENCE
 
-You may be a good fit if:
-You have hands-on experience building and deploying production-grade software in Python; you write clean, testable, observable, scalable code
-
-You've built and deployed highly performant RAG and agentic applications, including agents that plan and execute multi-step tasks using patterns like ReAct or Plan-and-Execute
-
-You're deeply familiar with the LLM stack: frontier models, vector databases, and orchestration frameworks
-
-You have a proven ability to build robust evaluation frameworks, moving well beyond trial and error, to measure agent accuracy, safety, and latency
-
-You’re experienced working directly with customers and can lead technical discussions with enterprise stakeholders, translating ambiguous business needs into concrete technical specs
-
-You have experience owning the full scope of a use case end-to-end
-
-You thrive in fast-paced and ambiguous environments and can execute well even when priorities are shifting
-
-
-It's a bonus if you have:
-Experience setting architectural standards for AI and agentic systems across distributed teams
-
-Experience flexing into unfamiliar technical areas, such as frontend, when the problem calls for it
-
-Exposure to regulated or sensitive industry environments (finance, healthcare, telecoms)
-
-Experience with enterprise security, compliance, or auditability requirements for AI systems
-
-Full-Time Employees at Cohere enjoy these Perks:
-A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch.
-
-Full health and dental benefits, including a separate budget for mental health.
-
-RRSP matching, 401K, Pension Scheme.
-
-100% Parental Leave top-up for up to 6 months, for either parent.
-
-Annual enrichment benefits:
-
-Arts & culture, fitness/wellness, quality time, and a workspace improvement credit.
-
-Education & learning stipend for conferences, courses, and coaching.
-
-6 weeks of paid vacation (30 working days!)
-
-Budget for traveling to other offices if you are remote, plus an annual company offsite.
-
+Knowledge of engineering design tool ecosystems (Hexagon Smart Suite).
+Experience supporting data environments tied to project lifecycle systems.
+Exposure to large-scale project-based data environments.
