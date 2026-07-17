@@ -1,0 +1,12 @@
+TO RECRUITING TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Founding Engineer role at Kaaj. What stood out to me is that you are building agentic AI for one of financial services' messiest problems -- small business lending -- rather than another layer of abstraction on top of it. I have seen how messy documents, bank statements, and credit workflows can get, and the idea of building systems that actually clean up that chaos instead of just managing it is exactly the kind of problem I want to work on.
+
+Through my experience as a Full Stack Developer Intern and in my current role at Forge Tek Studios, I have built and shipped production applications where reliability and performance mattered. I built a full-stack React website handling 5,000+ monthly active users, optimized API caching to cut load times by 80%, and set up CI/CD pipelines that deployed to production daily. I also integrated real-time ML models into user-facing applications using TensorFlow.js, working with live camera streams and encrypted API endpoints. I have learned that getting something working is not enough -- making it stable, maintainable, and fast under real usage is what separates a demo from a product.
+
+I also enjoy finding ways to simplify systems and automate repetitive work. Whether it is reducing API overhead through intelligent caching, containerizing development environments with Docker, or building an automated resume generation pipeline using LLMs and GitHub Actions, I like looking at a workflow and asking how to make it faster and more reliable. I think critically about model output instead of treating it as magic, and I care about evals, edge cases, and human review. I ask questions, take feedback seriously, and believe written clarity is essential when building products that turn messy information into decisions people can trust.
+
+Thank you for considering my application. I would love the chance to bring my curiosity, persistence, and hands-on verification mindset to Kaaj. I do not come from a flashy background, but I proved myself by shipping reliable work and learning fast. I am excited to grow and contribute to a team doing meaningful work in a space where details, trust, and rigor actually matter. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+THUY NGUYEN
