@@ -1,0 +1,191 @@
+\documentclass[11pt]{article}
+\usepackage[letterpaper,
+top=0.5in,
+bottom=0.5in,
+left=0.5in,
+right=0.5in]{geometry}
+
+\usepackage{XCharter}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage[colorlinks=true, linkcolor=black, urlcolor=blue]{hyperref}
+\usepackage{titlesec}
+\raggedright
+\pagestyle{empty}
+\usepackage{comment}
+
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+\titleformat{\section}{\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule\vspace{-6.5pt}]
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$}
+\setlist[itemize]{itemsep=-2pt, leftmargin=12pt, topsep=6pt}
+
+\begin{document}
+
+\centerline{\Huge Thuy Nguyen}
+
+\vspace{5pt}
+
+\centerline{\href{mailto:thuybohr@gmail.com}{thuybohr@gmail.com} | 206-423-9827 |
+\href{https://www.linkedin.com/in/thuy-nguyen-46505121b/}{linkedin.com/in/thuy-nguyen-46505121b}}
+
+\centerline{\href{https://github.com/Monica20030707}{github.com/Monica20030707} |
+\href{https://monica20030707.github.io/}{monica20030707.github.io/}}
+
+\vspace{-9pt}
+
+\section*{Experience}
+
+\textbf{Associate Full Stack Developer,} {Forge Tek Studios} -- Remote \hfill August 2025 -- Current
+\vspace{-9pt}
+\begin{itemize}
+  \item Architected a modular React frontend following SOLID principles with custom hooks and context, achieving \textbf{45\% reduction} in component re-renders and improving maintainability.
+  \item Reduced system load by \textbf{80\%} and lowered page load from 3.2s to 0.8s, increasing conversion rates by \textbf{35\%} across high-traffic product pages.
+  \item Built a serverless contact form endpoint using the Resend API with input validation and HTML email templating, achieving reliable email delivery without managing SMTP infrastructure.
+\end{itemize}
+
+\textbf{Full Stack Developer Intern,} {METY Technology} -- Remote \hfill September 2024 -- June 2025
+\vspace{-9pt}
+\begin{itemize}
+  \item Integrated real-time MoveNet ML models with React using TensorFlow.js, processing 30 FPS live camera streams with \textbf{<50ms latency} for responsive gesture recognition.
+  \item Architected secure Express.js/Node.js backend with Redux Toolkit state management, supporting \textbf{200+ concurrent users} with encrypted API endpoints.
+  \item Automated testing with Jest (\textbf{85\% code coverage}) and deployed via AWS Amplify CI/CD, reducing manual testing time by \textbf{60\%}.
+\end{itemize}
+
+\textbf{Open-Source Intern,} {CodeDay} -- Seattle, WA \hfill April 2025 -- May 2025
+\vspace{-9pt}
+\begin{itemize}
+  \item Drove \textbf{2 ticket resolutions} as Scrum Master, meeting all sprint deadlines through proactive coordination and agile ceremonies.
+  \item Reduced manual testing overhead by \textbf{25\%} through Docker containerization and automated database verification, accelerating the MR-to-merge cycle.
+\end{itemize}
+
+\begin{comment}
+\textbf{Sales Representative,} {Verizon} -- Covington, WA \hfill November 2025 -- April 2026
+\vspace{-9pt}
+\begin{itemize}
+  \item Explain technical concepts, such as bandwidth needs, signal strength, coverage maps, Wi-Fi extender logic and device compatibility to help customers make informed decisions.
+  \item Support store operations by running diagnostics on devices, validating hardware issues, managing inventory workflows, and contributing to sales goals while maintaining integrity and transparency.
+  \item Consistently surpassed monthly sales quotas by achieving 130\% of targets through technical product expertise and consultative solution-selling.
+\end{itemize}
+\end{comment}
+
+\begin{comment}
+\textbf{Teaching Assistant,} {Bellevue College} -- Bellevue, WA \hfill April 2024 -- December 2024
+\vspace{-9pt}
+\begin{itemize}
+  \item Guided 40+ students in Java and SQL through weekly labs and 18 hours of tutoring support.
+  \item Taught relational database design and MySQL Workbench to 40+ students, improving average project scores by 15\%.
+  \item Boosted assignment quality by 20\% with focused JUnit and Javadoc coaching, cutting rework and grading issues.
+\end{itemize}
+\end{comment}
+
+\begin{comment}
+\textbf{Coding Competition Developer,} {Bellevue College} -- Bellevue, WA \hfill April 2024 -- May 2025
+\vspace{-9pt}
+\begin{itemize}
+  \item Developed real-time score updates using SQL and PHP, increasing efficiency by 40\%.
+  \item Enhanced web interfaces with HTML and CSS, boosting user satisfaction by 30\%.
+  \item Created coding problems with auto test cases for Java, Python, C++, and Golang.
+  \item Assisted onsite at a competition with 30+ participants to ensure smooth operations.
+\end{itemize}
+\end{comment}
+
+\begin{comment}
+\textbf{Web Design Intern,} {RSVP} -- Sai Gon, Vietnam \hfill July 2022 -- September 2022
+\vspace{-9pt}
+\begin{itemize}
+  \item Designed a Figma mock-up for the company's planned landing page refresh.
+  \item Collaborated in a team of 4 developers, handled minor coding tickets and assisted with design works.
+  \item Worked closely with clients to ensure our HTML email template suited the clients needs.
+\end{itemize}
+\end{comment}
+
+\begin{comment}
+\textbf{Front Desk Assistant,} {Public Safety Department, Bellevue College} -- Bellevue, WA \hfill June 2023 -- August 2023
+\vspace{-9pt}
+\begin{itemize}
+  \item Managed tasks with precision in a fast-paced environment.
+  \item Using Canva to design Parking Bookmark for advertising \& assisting users.
+  \item Utilized Microsoft Word, Excel and Outlook for efficient data management.
+  \item Collaborated with team members to ensure accurate and prompt assistance.
+\end{itemize}
+\end{comment}
+
+\vspace{-18.5pt}
+
+\section*{Projects}
+
+\textbf{Stock Ratio Tracker}{ - Python, React, TypeScript} \hfill \href{https://github.com/Monica20030707/Trading-Dashboard_UI}{github.com}
+\vspace{-9pt}
+\begin{itemize}
+  \item Built a Python-based data ingestion and transformation layer to feed live financial metrics into a React-based frontend.
+  \item Integrated JPMorgan Chase's Perspective library to generate live, interactive graphs for real-time trader monitoring.
+  \item Implemented automated unit tests to ensure correctness and reliability of ratio calculations.
+\end{itemize}
+
+\textbf{Traffic Violation Detection System}{ - JavaScript, AWS Cloud Services} \hfill \href{https://github.com/Monica20030707/AWS_rekonigition-N-read-database}{github.com}
+\vspace{-9pt}
+\begin{itemize}
+  \item Architected an event-driven serverless pipeline on AWS, integrating Rekognition for image analysis and SQS for decoupled message processing.
+  \item Implemented Regex-based geographic filtering to route events through EventBridge and trigger SES-based automated email notifications.
+\end{itemize}
+
+\begin{comment}
+\textbf{Resume Automation MCP}{ - LaTeX, YAML, GitHub Actions} \hfill \href{https://github.com/Monica20030707/Tex_OrangeLeaf-mcp}{github.com}
+\vspace{-9pt}
+\begin{itemize}
+  \item Developed an automated pipeline that generates tailored resumes and cover letters from a versioned YAML data store using LLM-driven content selection.
+  \item Engineered an automated CI/CD workflow using GitHub Actions to compile LaTeX source into production-ready PDFs upon every push.
+  \item Created a modular data-injection system that dynamically pivots resume content to match specific role requirements.
+\end{itemize}
+\end{comment}
+
+\begin{comment}
+\textbf{MNIST Handwritten Digit Classifier}{ - Python, NumPy} \hfill \href{https://github.com/Monica20030707/Artificial-Neutral-Network_ML}{github.com}
+\vspace{-9pt}
+\begin{itemize}
+  \item Built an Artificial Neural Network (ANN) from scratch to classify handwritten digits (0-9) using Python and NumPy.
+  \item Achieved over 90\% accuracy using the Backpropagation algorithm, demonstrating deep understanding of machine learning fundamentals.
+\end{itemize}
+\end{comment}
+
+\begin{comment}
+\textbf{Reverse-Polish Calculator}{ - Java, ANTLR, JUnit} \hfill \href{https://github.com/Monica20030707/ANTLR_ReversePolishCalculator}{github.com}
+\vspace{-9pt}
+\begin{itemize}
+  \item Applied the Visitor design pattern to traverse ASTs and evaluate expressions, reinforcing compiler theory and object-oriented programming concepts.
+  \item Leveraged stacks and tree-based data structures to correctly parse and compute reverse-polish expressions.
+\end{itemize}
+\end{comment}
+
+\begin{comment}
+\textbf{Network-Wide Ad Blocker (Pi-hole)}{ - Linux, Raspberry Pi, DNS}
+\vspace{-9pt}
+\begin{itemize}
+  \item Set up a Raspberry Pi as a dedicated network-wide ad blocker using Pi-hole, configuring OS, DNS services, and network routing from scratch.
+  \item Verified system behavior through log inspection, connectivity testing, and iterative configuration changes to ensure stable and reliable operation.
+\end{itemize}
+\end{comment}
+
+\vspace{-18.5pt}
+
+\section*{Education}
+\textbf{Bellevue College} -- BS in Computer Science -- 3.6 GPA \hfill September 2021 -- June 2025\\
+\vspace{-9pt}
+\begin{itemize}
+  \item Award: Amazon Scholarship, Activities: Social Media Manager of Computer Science Club
+\end{itemize}
+
+\vspace{-18.5pt}
+
+\section*{Skills}
+\textbf{Languages:} TypeScript, JavaScript, Python, Java, SQL, Go\\
+\textbf{Skills:} RESTful APIs, Full-stack Development, SOLID Principles, Agile/Scrum, CI/CD, API Design, Cross-functional Collaboration\\
+\textbf{Tools:} React, Node.js, Express.js, Redux Toolkit, Docker, AWS Cloud Services, GitHub Actions, Jest, Git
+
+\vspace{-6.5pt}
+
+\end{document}
