@@ -1,0 +1,12 @@
+TO THE RUNPOD RECRUITING TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Full-Stack Engineer role at Runpod. I have been following how Runpod is making AI infrastructure more accessible, and the focus on building tools that bridge AI engineering with scalable cloud infrastructure is exactly the kind of work I want to do. Your commitment to open-source and developer experience stands out to me.
+
+Through my work as an Associate Full Stack Developer, I have built and shipped production applications using TypeScript, React, and Node.js. I architected modular frontends following SOLID principles and built serverless APIs that scaled to thousands of users. At METY Technology, I developed secure RESTful APIs and automated testing pipelines with Jest. Getting something working is not enough, making it stable, well-tested, and maintainable is what matters.
+
+I am comfortable working across Python and TypeScript, and I enjoy contributing to open-source projects. During my open-source internship at CodeDay, I resolved tickets, containerized development environments with Docker, and collaborated with the community through code reviews and merge requests. I approach problems from the user's perspective and enjoy finding ways to simplify systems and automate repetitive work.
+
+Thank you for considering my application. I'd love the chance to bring my curiosity, persistence, and hands-on verification mindset to Runpod. I don't come from a flashy background, but I proved myself by shipping reliable work and learning fast. I'm excited to grow and contribute to a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+THUY NGUYEN
