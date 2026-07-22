@@ -1,25 +1,31 @@
-Who we are:
-Yoodli is the AI roleplay simulator redefining how individuals and teams master communication. Think of it as the batting cage before the big game - but for communication. Whether it’s a sales pitch, manager feedback session, or media interview, Yoodli provides private, judgment-free, just-in-time coaching. Leaders at companies like Google, Databricks, Snowflake, RingCentral, Toastmasters, and Dale Carnegie use Yoodli to ramp reps faster, improve message delivery, and reduce coaching burden on frontline managers. The result is stronger performance, greater team readiness, and a more scalable path to impact.
+Who we are: Magna Technology Group is a digital transformation consultancy helping our clients with advisory and implementation of their most critical technology systems. Our mission is to create the most entrepreneurial technology services and advisory company in the world, giving our teammates the best possible opportunities in the market to grow their own part of the business and to grow as people.
 
-We’re building a new category called Experiential Learning: a new AI-powered category that helps people learn through conversational roleplays. People don’t learn from slides: they learn through dialogue, questions, and iteration. Yoodli makes that process interactive, personalized, and always up to date. It’s learning that feels fun, builds confidence, and finally lets organizations measure the ROI of training.
+Magna Technology Group is a rapidly growing Digital Transformation consultancy specializing in implementations, advisory, & managed services associated with Salesforces' Data Cloud, AgentForce, Marketing Cloud, and Core CRM products. Having joined the Inc 5000's list of fastest growing companies in 2023, 2024, and 2025, we are currently in a scaling-up phase and looking to grow our team. We focus tirelessly on helping our clients identify the areas of their business that could be positively impacted by technology, helping to save them both time and money. Additionally, we help our clients identify ways they can utilize technology to improve their customer experiences, driving loyalty, cross-sell opportunities, and ultimately revenue per customer.
 
-We’ve $40M in Series B funding, doubling our team in 2026, and are headquartered at the beautiful Pier 70 in Seattle.
+The Role:
 
-TED Talk with our “Why”
-Explainer on experiential learning
-What we’re hoping you bring:
-As our Associate Solutions Engineer, you’ll sit at the intersection of product, sales, and engineering - helping customers get the most out of Yoodli. You thrive in technical pre-sales conversations, guiding architecture reviews and crafting tailored solutions that showcase our platform’s value. You’re excited to support customers through onboarding and integrations, and you’re not afraid to roll up your sleeves to tackle RFPs, security reviews, or the support tickets to keep things moving. You’re deeply customer-focused, eager to wear multiple hats, and always ready to step in where needed. Along the way, you’ll become a trusted advocate for our users - translating their real-world needs into product insights and building scalable processes that level up the entire customer experience.
+Associate Developers are entry-level members of the Delivery Team, placed into a structured onboarding track designed to build Salesforce platform competency from a foundation of core software engineering skills. Associate Developers participate in guided training, earn foundational certifications, shadow senior practitioners, and progressively take on scoped development tasks contributing to client project deliveries.
 
-About You:
-2+ years of experience in Solutions Engineering, Sales Engineering, Technical Account Management, or Implementation in a SaaS environment
-1+ years of selling into SMB or Mid Market accounts
-Comfortable with APIs, SSO, basic scripting (e.g., Python, JS), and debugging tools
-Confident written and verbal communication skills, with the ability to translate between technical and non-technical stakeholders
-Experience working directly with Customer Success, Support, Professional Services, and product/engineering teams
-Thrive in ambiguous, fast-paced environments and love building from scratch
-Bias for action, low ego, and a passion for helping others grow through communication
-Must be able to be in HQ 3 days a week(M, T, Th) in Seattle
-Extra credit experience:
-LMS Integrations
-SQL experience
-Prompt engineering
+Responsibilities:
+
+Accelerated Learning & Certification: Actively participate in Salesforce training pathways, complete assigned Trailhead modules, and work toward achieving foundational Salesforce certifications.
+Development Support: Execute basic, well-scoped development tasks under the guidance of senior team members, applying core coding principles to Apex, Lightning Web Components (LWC), and declarative tools (Flows, Validation Rules).
+Shadowing & Mentorship: Attend technical discovery and solutioning sessions as an observer to learn how business requirements are converted into technical specifications.
+Quality Assurance, Debugging & Documentation: Test, debug, fix errors and QA your own work, write clear technical documentation.
+Workload Ramp-Up: Progressively increase efficiency to hit billable metrics, aiming for a consistent billable target as platform competence grows.
+Team Collaboration: Participate actively in delivery team ceremonies such as daily stand-ups, project syncs, and backlog reviews.
+Clear Communication: Maintain transparent communication regarding task status, ask clarifying questions early, and flag blockers immediately.
+Qualifications:
+
+Educational Background: Bachelor’s degree in Computer Science, Information Technology, Software Engineering, or equivalent practical experience (e.g., coding bootcamps with a strong portfolio).
+Up to one year of relevant experience
+Core Programming Principles: Strong foundational understanding of Object-Oriented Programming (OOP) concepts, databases/SQL, and web technologies (JavaScript, HTML, CSS).
+High Learning Agility: Exceptional aptitude for problem-solving, a proactive attitude toward learning new platforms, and an openness to constructive feedback.
+Detail-Oriented: Ability to follow predefined naming conventions, logical design patterns, and technical guidelines.
+Communication Skills: Strong verbal and written communication skills, with a collaborative team-player mindset.
+Organization: Comfort operating within task management systems (e.g., Jira, Asana) or a strong willingness to learn agile methodologies.
+Preferred Qualifications:
+
+Salesforce Exposure: An active Salesforce Trailhead profile demonstrating self-driven learning (e.g., Ranger status) or exposure to Salesforce basics.
+Certifications: Any introductory Salesforce certifications (e.g., Salesforce Certified Administrator, Platform App Builder, Agentforce Specialist) are a significant plus but not mandatory.
+Relevant Experience: Prior internship, co-op, or academic project experience in software development; 6–18 months of professional experience is preferred.
