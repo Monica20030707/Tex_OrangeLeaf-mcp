@@ -1,0 +1,12 @@
+TO THE YOODLI RECRUITING TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Associate Solutions Engineer role at Yoodli. The idea of an AI roleplay simulator that works as a "batting cage for communication" makes immediate sense to me. As someone who has worked across technical and customer-facing roles, I know how hard it is to practice high-stakes conversations in a low-stakes setting. Yoodli is building something that actually changes how people learn, and I want to help bring that to more teams.
+
+Through my work as a Sales Representative at Verizon and as an Associate Full Stack Developer, I have been the bridge between technical products and the people who use them. At Verizon, I worked directly with SMB customers diagnosing device issues, explaining technical trade-offs, and guiding them to solutions that fit their real needs. I converted 75% of prospects through consultative selling and consistently hit 110-130% of quota. On the engineering side, I built and shipped full-stack applications with React, Node.js, and cloud services, owning everything from architecture to deployment. I have learned that getting something working is not enough, making it reliable, well-documented, and easy for people to adopt is what matters.
+
+I thrive in environments where the path forward is not fully defined and there is room to figure things out as you go. Whether it was optimizing API integrations, walking a customer through a technical issue, or automating a repetitive workflow with CI/CD, I approach problems from the user's perspective and look for ways to make things simpler. I am comfortable jumping between technical depth and customer conversations, and I enjoy translating complex ideas into clear, practical explanations. I am particularly excited about Yoodli's mission because it combines two things I care about: helping people communicate better and building technology that actually serves real human needs.
+
+Thank you for considering my application. I'd love the chance to bring my curiosity, persistence, and hands-on verification mindset to Yoodli. I don't come from a flashy background, but I proved myself by shipping reliable work and learning fast. I'm excited to grow and contribute to a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+THUY NGUYEN
