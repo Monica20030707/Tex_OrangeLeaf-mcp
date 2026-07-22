@@ -1,31 +1,31 @@
-Who we are: Magna Technology Group is a digital transformation consultancy helping our clients with advisory and implementation of their most critical technology systems. Our mission is to create the most entrepreneurial technology services and advisory company in the world, giving our teammates the best possible opportunities in the market to grow their own part of the business and to grow as people.
+We are currently looking for a Full Stack Developer Intern for a 100% remote position on a large federal government project. This internship supports internal VetsEZ initiatives and federal healthcare IT efforts, providing students with hands-on experience in modern software development practices, AI-assisted development, and Agile delivery. The intern will work alongside experienced engineers in a collaborative, DevSecOps-oriented environment, contributing to real-world applications and learning tools such as AI technologies, Git, Postman, and Jira.
 
-Magna Technology Group is a rapidly growing Digital Transformation consultancy specializing in implementations, advisory, & managed services associated with Salesforces' Data Cloud, AgentForce, Marketing Cloud, and Core CRM products. Having joined the Inc 5000's list of fastest growing companies in 2023, 2024, and 2025, we are currently in a scaling-up phase and looking to grow our team. We focus tirelessly on helping our clients identify the areas of their business that could be positively impacted by technology, helping to save them both time and money. Additionally, we help our clients identify ways they can utilize technology to improve their customer experiences, driving loyalty, cross-sell opportunities, and ultimately revenue per customer.
-
-The Role:
-
-Associate Developers are entry-level members of the Delivery Team, placed into a structured onboarding track designed to build Salesforce platform competency from a foundation of core software engineering skills. Associate Developers participate in guided training, earn foundational certifications, shadow senior practitioners, and progressively take on scoped development tasks contributing to client project deliveries.
+The candidate must reside within the continental US.
 
 Responsibilities:
 
-Accelerated Learning & Certification: Actively participate in Salesforce training pathways, complete assigned Trailhead modules, and work toward achieving foundational Salesforce certifications.
-Development Support: Execute basic, well-scoped development tasks under the guidance of senior team members, applying core coding principles to Apex, Lightning Web Components (LWC), and declarative tools (Flows, Validation Rules).
-Shadowing & Mentorship: Attend technical discovery and solutioning sessions as an observer to learn how business requirements are converted into technical specifications.
-Quality Assurance, Debugging & Documentation: Test, debug, fix errors and QA your own work, write clear technical documentation.
-Workload Ramp-Up: Progressively increase efficiency to hit billable metrics, aiming for a consistent billable target as platform competence grows.
-Team Collaboration: Participate actively in delivery team ceremonies such as daily stand-ups, project syncs, and backlog reviews.
-Clear Communication: Maintain transparent communication regarding task status, ask clarifying questions early, and flag blockers immediately.
-Qualifications:
+Design, code, test, and debug applications using modern programming practices.
+Collaborate with senior developers and technical teams to support software development initiatives.
+Learn and apply tools and technologies, including AI tools, Git, version control, JSON, and testing tools.
+Assist in maintaining code documentation and version control processes.
+Support Agile development practices and participate in sprint planning and reviews.
+Engage in problem-solving and troubleshooting for development challenges.
+Contribute to team objectives and take on additional responsibilities as needed.
+Requirements:
 
-Educational Background: Bachelor’s degree in Computer Science, Information Technology, Software Engineering, or equivalent practical experience (e.g., coding bootcamps with a strong portfolio).
-Up to one year of relevant experience
-Core Programming Principles: Strong foundational understanding of Object-Oriented Programming (OOP) concepts, databases/SQL, and web technologies (JavaScript, HTML, CSS).
-High Learning Agility: Exceptional aptitude for problem-solving, a proactive attitude toward learning new platforms, and an openness to constructive feedback.
-Detail-Oriented: Ability to follow predefined naming conventions, logical design patterns, and technical guidelines.
-Communication Skills: Strong verbal and written communication skills, with a collaborative team-player mindset.
-Organization: Comfort operating within task management systems (e.g., Jira, Asana) or a strong willingness to learn agile methodologies.
-Preferred Qualifications:
+Currently pursuing a Bachelor’s degree in Computer Science, Information Technology, or a related field.
+Academic or project-based experience in software development, object-oriented programming, or web development.
+Proficiency in object-oriented programming languages such as Java or Python.
+Basic experience with RESTful APIs and/or SQL (all three preferred).
+Understanding of AI tools used to accelerate coding, testing, and CI/CD processes.
+Familiarity with Agile development methodologies.
+Knowledge of version control concepts and software development lifecycle practices.
+Strong problem-solving skills and attention to detail.
+Effective communication and ability to collaborate within cross-functional teams.
+Ability to work in a multi-stakeholder, Agile, and DevSecOps environment.
+Eagerness to learn and adapt to new tools and technologies.
+Additional Qualifications:
 
-Salesforce Exposure: An active Salesforce Trailhead profile demonstrating self-driven learning (e.g., Ranger status) or exposure to Salesforce basics.
-Certifications: Any introductory Salesforce certifications (e.g., Salesforce Certified Administrator, Platform App Builder, Agentforce Specialist) are a significant plus but not mandatory.
-Relevant Experience: Prior internship, co-op, or academic project experience in software development; 6–18 months of professional experience is preferred.
+Exposure to Git and version control tools.
+Experience with JSON and API testing tools such as Postman or Swagger.
+Familiarity with Jira or other Agile project management tools.
