@@ -1,60 +1,45 @@
-About the Role
-This is a Founding Engineer role at a Y Combinator-backed enterprise AI startup building the agentic operating system for modern businesses. The platform orchestrates AI agents that automate complex operational and sales workflows at scale — deployed across scale-up startups and enterprise companies alike, with strong product-market fit and rapid revenue growth.
+Technical Sales Representative '27
+Join KEYENCE as a Technical Sales Representative
 
-You will operate at a near-CTO level: taking vague problems, scoping them, building end-to-end, and shipping real value — with no hand-holding and no waiting for specs. This is a seat at the table. You'll help shape the product, the architecture, and the company itself.
+Training Classes Begin January or July 2027
+Multiple U.S. Locations | Entry-Level | Full-Time
 
-No visa sponsorship is available. Candidates must be authorized to work in the United States without sponsorship.
+Are you ready to launch your career with one of the world’s most innovative companies? KEYENCE is looking for driven, goal-oriented individuals to join our Technical Sales Team. Whether you're a recent graduate or early in your career, this is your opportunity to grow with a global leader in automation and technology.
 
-What You'll Do
-Own large parts of the product end-to-end — from user insight to production
+What You’ll Do
 
-Build and continuously improve agentic systems: accuracy, reliability, and capability
+As a Technical Sales Representative, you’ll be the face of KEYENCE—meeting customers on-site, understanding their needs, and delivering cutting-edge solutions that drive real business results. This is an outside sales position with most of your time focused on:
 
-Work at the frontier of AI engineering — context engineering, tool use, and agent architectures
+Become an expert in our industry-leading products and solutions
+Prospect new business through cold calls, leads, and collaboration with sales team
+Conduct on-site consultations and product demonstrations to expand our business
+Collaborate with your local sales office for development and to exceed sales goals
+Location Flexibility
 
-Talk directly to users, understand their pain points, and scope features that genuinely solve problems
+Choose up to two preferred office locations when you apply—we’ll do our best to place you where you want to be. You’ll work within a regional territory, not nationwide.
 
-Go full-stack when needed: Go backend and React + Vite (TypeScript) frontend
+What We Offer
 
-Champion AI-first development practices — coding agents, automation, and aggressive self-scaling
-
-Review code quickly while maintaining high standards across the codebase
-
-Design, build, and ship AI-driven product features with a focus on real-world impact
-
+Base Salary: $53,940 – $80,760 (based on location)
+Performance Bonus Target: $24,000 annually (performance based), paid quarterly
+World-Class Training: Paid, hands-on training and on-the-job mentorship
+Benefits: Medical, dental, vision, 401K match, ~4 weeks PTO in first full year
+Career Growth: Promote-from-within culture with base and bonus increases
 What We're Looking For
-Must-haves (dealbreakers):
 
-Proven production experience building backend services in Go (Golang)
+Bachelor’s degree (or Associate’s and 4+ years military experience)
+Strong work ethic and a passion for learning
+Flexibility and critical thinking skills to adapt to customer challenges
+Willingness to travel (60%+), including overnight
+Valid driver’s license and personal vehicle
+Ability to lift and transport demo equipment (35–85 lbs.) into customer sites
+Why KEYENCE?
 
-Authorization to work in the United States without visa sponsorship
+Recognized by Forbes as one of the World’s Most Innovative Companies
+A global leader in factory automation and quality assurance solutions
+Operating profit of over 40% for 25 consecutive years
+A culture that invests in your success from day one
+Ready to make an impact?
+Apply now and start your journey with KEYENCE in January or July 2027!
 
-Required skills & experience:
-
-Frontend experience with React and TypeScript (modern JS frameworks)
-
-Hands-on experience with CI/CD pipelines, automated testing, deployment workflows, and production observability/monitoring
-
-Experience building and consuming REST and/or gRPC APIs in microservices architectures
-
-0–3 years of professional software engineering experience (full-stack or equivalent)
-
-Deep product sense — you build for users, not for code's sake
-
-Comfortable with ambiguity; you don't need a PM to tell you what to build
-
-Nice-to-haves:
-
-Prior experience with AI infrastructure, model deployment, prompt engineering, or agent orchestration
-
-Experience building agentic AI systems or AI coding tools (e.g. familiarity with LLMs, agent frameworks)
-
-Previous startup experience or founding/early-engineer background; having built something from scratch is a strong plus
-
-Cloud platform experience (AWS, GCP, or equivalent) and containerization (Docker, Kubernetes)
-
-Experience with relational databases (Postgres/MySQL) and NoSQL, with an understanding of storage trade-offs
-
-AI research background or experience at an AI coding startup
-
-Bachelor's degree in Computer Science, Engineering, or equivalent practical experience
+KEYENCE is an at-will, Equal Opportunity Employer. 
