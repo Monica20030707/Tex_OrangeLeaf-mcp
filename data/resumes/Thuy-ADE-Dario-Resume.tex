@@ -1,0 +1,106 @@
+\documentclass[11pt]{article}
+\usepackage[letterpaper, top=0.5in, bottom=0.5in, left=0.5in, right=0.5in]{geometry}
+\usepackage{XCharter}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage[colorlinks=true, linkcolor=black, urlcolor=blue]{hyperref}
+\usepackage{titlesec}
+\raggedright
+\pagestyle{empty}
+\usepackage{comment}
+
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+\titleformat{\section}{\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule\vspace{-6.5pt}]
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$}
+\setlist[itemize]{itemsep=-2pt, leftmargin=12pt, topsep=6pt}
+
+\begin{document}
+
+\centerline{\Huge Thuy Nguyen}
+
+\vspace{5pt}
+
+\centerline{\href{mailto:thuybohr@gmail.com}{thuybohr@gmail.com} | 206-423-9827 |
+\href{https://www.linkedin.com/in/thuy-nguyen-46505121b/}{linkedin.com/in/thuy-nguyen-46505121b}}
+
+\centerline{\href{https://github.com/Monica20030707}{github.com/Monica20030707} |
+\href{https://monica20030707.github.io/}{monica20030707.github.io/}}
+
+\vspace{-9pt}
+
+\section*{Experience}
+
+\textbf{Associate Full Stack Developer,} {Forge Tek Studios} -- Remote \hfill August 2025 -- Current \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Built and maintained production Node.js APIs serving \textbf{5,000+ monthly active users}, integrating 3 external services.
+  \item Optimized API ingestion and server-side caching, reducing data processing overhead by \textbf{80\%}.
+  \item Automated releases with a GitHub Actions CI/CD pipeline, keeping the service reliable and observable.
+\end{itemize}
+
+\textbf{Full Stack Developer Intern,} {METY Technology} -- Remote \hfill September 2024 -- June 2025 \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Developed RESTful APIs in Express.js and Node.js, supporting \textbf{200+ concurrent users}.
+  \item Wrote unit and functional tests with Jest (\textbf{85\% coverage}) and enforced quality via ESLint.
+  \item Deployed serverless workloads with AWS Amplify CI/CD and monitored runtime behavior.
+\end{itemize}
+
+\textbf{Teaching Assistant,} {Bellevue College} -- Bellevue, WA \hfill April 2024 -- December 2024 \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Coached \textbf{40+ students} in SQL and relational database design with MySQL Workbench.
+  \item Facilitated 6 workshops on database query optimization, improving results by \textbf{25\%}.
+  \item Guided students in writing JUnit tests and reasoning about bugs.
+\end{itemize}
+
+\begin{comment}
+\textbf{Sales Representative,} {Verizon} -- Covington, WA \hfill November 2025 -- April 2026 \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Explained technical concepts such as coverage and device compatibility.
+  \item Ran diagnostics on devices and managed support.
+\end{itemize}
+\end{comment}
+
+\vspace{-18.5pt}
+
+\section*{Projects}
+
+\textbf{Traffic Violation Detection System}{ - JavaScript, AWS} \hfill \href{https://github.com/Monica20030707/AWS_rekonigition-N-read-database}{github.com} \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Architected a serverless, event-driven pipeline on AWS using Rekognition, SQS, and EventBridge.
+  \item Automated image processing that reduced manual handling time by over \textbf{90\%}.
+\end{itemize}
+
+\textbf{Stock Ratio Tracker}{ - Python, React, TypeScript} \hfill \href{https://github.com/Monica20030707/Trading-Dashboard_UI}{github.com} \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Built a data pipeline feeding live metrics into a React dashboard.
+  \item Wrote automated unit tests to keep data accurate.
+\end{itemize}
+
+\vspace{-18.5pt}
+
+\section*{Education}
+\textbf{Bellevue College} -- BS in Computer Science -- 3.6 GPA \hfill September 2021 -- June 2025\\
+\vspace{-9pt}
+\begin{itemize}
+  \item Award: Amazon Scholarship, Activities: Social Media Manager of Computer Science Club
+\end{itemize}
+
+\vspace{-18.5pt}
+
+\section*{Skills}
+\textbf{Languages:} TypeScript, JavaScript, Python, Java, SQL\\
+\textbf{Skills:} Backend Development, RESTful APIs, Database Programming, Testing, Debugging, Event-Driven and Serverless Architecture, SOLID, Collaboration\\
+\textbf{Tools:} Node.js, Express.js, AWS (Lambda, SQS, EventBridge), Docker, Jest, JUnit, Git, GitHub Actions
+
+\vspace{-6.5pt}
+
+\end{document}
