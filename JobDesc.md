@@ -1,45 +1,45 @@
-Technical Sales Representative '27
-Join KEYENCE as a Technical Sales Representative
+Job Description:
 
-Training Classes Begin January or July 2027
-Multiple U.S. Locations | Entry-Level | Full-Time
+The Parsons X PMIS team is seeking a talented Software Developer I – Full Stack to join our team. In this role, you will have the opportunity to expand your skills and knowledge as a software developer while working alongside excellent mentors in a collaborative environment.
 
-Are you ready to launch your career with one of the world’s most innovative companies? KEYENCE is looking for driven, goal-oriented individuals to join our Technical Sales Team. Whether you're a recent graduate or early in your career, this is your opportunity to grow with a global leader in automation and technology.
+What You’ll Be Doing
 
-What You’ll Do
+As a Software Developer I, you will support the design, development, testing, and maintenance of software applications, with a primary focus on web-based solutions. You will collaborate closely with product teams and cross-functional stakeholders to help deliver high-quality, secure, and scalable applications.
 
-As a Technical Sales Representative, you’ll be the face of KEYENCE—meeting customers on-site, understanding their needs, and delivering cutting-edge solutions that drive real business results. This is an outside sales position with most of your time focused on:
+Responsibilities
 
-Become an expert in our industry-leading products and solutions
-Prospect new business through cold calls, leads, and collaboration with sales team
-Conduct on-site consultations and product demonstrations to expand our business
-Collaborate with your local sales office for development and to exceed sales goals
-Location Flexibility
+Participate in application development activities, including designing, coding, testing, debugging, and maintaining software applications.
+Collaborate with the product team to translate business and user needs into technical solutions.
+Contribute to both front-end and back-end development efforts.
+Build responsive, user-friendly web interfaces and support server-side application logic.
+Help implement and maintain security features and follow secure coding practices.
+Work with technologies such as NodeJS, .NET, SQL Server, HTML, CSS, JavaScript, and Python.
+Engage with modern frameworks and platforms such as Microsoft Power Platform, Blazor, React, or Angular."
+Partner with cross-functional teams to troubleshoot issues, solve technical problems, and support continuous improvement.
+Adhere to best coding practices, development standards, and version control processes.
+Participate in code reviews, team discussions, and mentorship opportunities to grow technical capability and delivery quality.
+What Qualifications You’ll Bring
 
-Choose up to two preferred office locations when you apply—we’ll do our best to place you where you want to be. You’ll work within a regional territory, not nationwide.
+Required Qualifications
 
-What We Offer
+Bachelor’s Degree in Computer Science, Information Systems, or a closely related field.
+Experience with server-side programming languages.
+Proficiency with one or more server-side languages such as C#, Java, NodeJS, or Python.
+Experience with the Microsoft .NET Platform for desktop and web application development.
+Familiarity with relational databases such as SQL Server or MySQL.
+Proficiency in HTML, CSS, and JavaScript.
+Demonstrated problem-solving skills, with the ability to identify issues and construct effective solutions.
+Excellent oral and written communication skills.
+Self-driven, motivated, and eager to learn.
+Willingness to adapt to new technologies, tools, and team needs.
+Familiarity with version control systems.
+Preferred Qualifications
 
-Base Salary: $53,940 – $80,760 (based on location)
-Performance Bonus Target: $24,000 annually (performance based), paid quarterly
-World-Class Training: Paid, hands-on training and on-the-job mentorship
-Benefits: Medical, dental, vision, 401K match, ~4 weeks PTO in first full year
-Career Growth: Promote-from-within culture with base and bonus increases
-What We're Looking For
+Exposure to modern front-end frameworks such as Blazor, React or Angular."
+Familiarity with Microsoft Power Platform.
+Experience working in collaborative Agile or product-focused development environments.
+Education and Typical Experience
 
-Bachelor’s degree (or Associate’s and 4+ years military experience)
-Strong work ethic and a passion for learning
-Flexibility and critical thinking skills to adapt to customer challenges
-Willingness to travel (60%+), including overnight
-Valid driver’s license and personal vehicle
-Ability to lift and transport demo equipment (35–85 lbs.) into customer sites
-Why KEYENCE?
-
-Recognized by Forbes as one of the World’s Most Innovative Companies
-A global leader in factory automation and quality assurance solutions
-Operating profit of over 40% for 25 consecutive years
-A culture that invests in your success from day one
-Ready to make an impact?
-Apply now and start your journey with KEYENCE in January or July 2027!
-
-KEYENCE is an at-will, Equal Opportunity Employer. 
+- Bachelor's Degree in Computer Science or a related technical field or equivalent experience.
+- (NOTE: Newly-hired MS graduates are typically hired into this level.)
+- 2+ years of related professional experience.
