@@ -1,45 +1,27 @@
-Job Description:
+Full job description
+We are looking for a brilliant Web Development Engineer with full-stack experience to work in our fast-paced delivery environment.
 
-The Parsons X PMIS team is seeking a talented Software Developer I – Full Stack to join our team. In this role, you will have the opportunity to expand your skills and knowledge as a software developer while working alongside excellent mentors in a collaborative environment.
+Tech Stack: ReactJS, Next.js, NodeJS, GraphQL, Prisma and Postgres
 
-What You’ll Be Doing
+What will you be doing?
+If you’re successfully hired for this role, you will be taking up the following responsibilities among others:
 
-As a Software Developer I, you will support the design, development, testing, and maintenance of software applications, with a primary focus on web-based solutions. You will collaborate closely with product teams and cross-functional stakeholders to help deliver high-quality, secure, and scalable applications.
-
-Responsibilities
-
-Participate in application development activities, including designing, coding, testing, debugging, and maintaining software applications.
-Collaborate with the product team to translate business and user needs into technical solutions.
-Contribute to both front-end and back-end development efforts.
-Build responsive, user-friendly web interfaces and support server-side application logic.
-Help implement and maintain security features and follow secure coding practices.
-Work with technologies such as NodeJS, .NET, SQL Server, HTML, CSS, JavaScript, and Python.
-Engage with modern frameworks and platforms such as Microsoft Power Platform, Blazor, React, or Angular."
-Partner with cross-functional teams to troubleshoot issues, solve technical problems, and support continuous improvement.
-Adhere to best coding practices, development standards, and version control processes.
-Participate in code reviews, team discussions, and mentorship opportunities to grow technical capability and delivery quality.
-What Qualifications You’ll Bring
-
-Required Qualifications
-
-Bachelor’s Degree in Computer Science, Information Systems, or a closely related field.
-Experience with server-side programming languages.
-Proficiency with one or more server-side languages such as C#, Java, NodeJS, or Python.
-Experience with the Microsoft .NET Platform for desktop and web application development.
-Familiarity with relational databases such as SQL Server or MySQL.
-Proficiency in HTML, CSS, and JavaScript.
-Demonstrated problem-solving skills, with the ability to identify issues and construct effective solutions.
-Excellent oral and written communication skills.
-Self-driven, motivated, and eager to learn.
-Willingness to adapt to new technologies, tools, and team needs.
-Familiarity with version control systems.
-Preferred Qualifications
-
-Exposure to modern front-end frameworks such as Blazor, React or Angular."
-Familiarity with Microsoft Power Platform.
-Experience working in collaborative Agile or product-focused development environments.
-Education and Typical Experience
-
-- Bachelor's Degree in Computer Science or a related technical field or equivalent experience.
-- (NOTE: Newly-hired MS graduates are typically hired into this level.)
-- 2+ years of related professional experience.
+Improving Lief SaaS web application ecosystem which helps residential care homes better track, analyse and improve the care provided to resident children.
+Collaborating with co-founders, users, developers and designers to ideate, design, prototype, validate and launch new feature sets and products.
+Creating scalable front-end components for maximum performance across a vast array of web-capable devices and browsers using ReactJS & Next.js
+Building custom APIs using NodeJS, GraphQL, Prisma and Postgres.
+Optimising and managing deployments using bitbucket, Digital Ocean and GCP.
+Analysing and determining the best tools/packages and tech stacks for new solutions.
+Making a social impact with every line of code.
+What you’ll need to bring to the table?
+Full stack software development experience in HTML5, CSS3, JavaScript, React.js, Next.js and Node.js.
+Experience with creating data models for and working with either an SQL or a NoSQL database.
+Creating scalable front-end components for maximum performance across a vast array of web-capable devices and browsers using ReactJS & Next.js
+Ability to architect a full-stack scalable web application.
+Experience with a cloud deployment system such as GCP, DO or AWS.
+Ability to collaborate with a team of developers, product managers and designers.
+Working knowledge of the general web landscape, architectures, trends, and emerging technologies.
+Good to have
+Experience in UI/UX design and accessible web applications.
+published original web application(s).
+Compensation
