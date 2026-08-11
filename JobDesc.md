@@ -1,85 +1,38 @@
-About SHADOW 
+At Expedia Group, we help travelers explore the world, one journey at a time. As a global travel company powered by passionate people, trusted partnerships, and leading technology, we connect travelers, partners, and advertisers through our consumer brands, B2B network, and travel advertising business.
 
-SHADOW is an environmental conservation nonprofit serving the Renton and King County, Washington community. Our mission centers on habitat restoration, ecosystem stewardship, and connecting community members to the natural world through events, volunteer opportunities, and environmental education. Staff and contractors work collaboratively, and cross-training across roles is encouraged to ensure continuity of mission-critical work. 
 
-Position Summary 
+Here, you'll do meaningful work that helps millions of people discover, book, and experience travel with more ease, confidence, and joy. Our five Behaviors-Traveler First, Think Big, Operate with Excellence, Ownership Mindset, and Succeed Together-help foster a supportive environment where people can grow their careers and have the flexibility, benefits, and support to do their best work. Join us and build for travelers everywhere.
 
-The Digital Media Lead is an independent contractor responsible for developing, executing, and managing SHADOW’s digital presence across social media platforms, email newsletters, the website, and community channels. This role plays a critical part in building SHADOW’s brand, growing community engagement, and supporting fundraising and event promotion. The ideal contractor brings both creative content skills and analytical thinking to grow SHADOW’s audience and drive mission-aligned action. 
+Introduction to Team
 
-Roles & Responsibilities 
+Our Technology Team partners with teams across Expedia Group to create innovative products, services, and tools to deliver high-quality experiences for travelers, partners, and our employees. A singular technology platform powered by data and machine learning provides secure, differentiated, and personalized experiences that drive loyalty and traveler satisfaction.
 
-Social Media Management 
+This full stcak software development Engineer role is part of the XE - Checkout Experience team which sits within our Technology division. XE - Checkout Experience owns and operates critical checkout and booking services across Expedia Group brands, ensuring travelers can seamlessly review trip details, choose how they pay, and complete their bookings reliably at scale.
 
-Publish 3–5 feed posts per week across designated platforms (Instagram, Facebook, and others as applicable), using a variety of formats including reels, carousels, and informational graphics 
-Publish 5 or more story posts per week 
-Create content related to environmental conservation, SHADOW events and ecosystems, upcoming programs, and donor/fundraising campaigns 
-Collect photos, video, and other collateral needed to support content production 
-Maintain and manage a social media content calendar in coordination with SHADOW staff and board 
-Community Engagement 
+In this role, you will build and maintain resilient, high-performing checkout services that keep travelers’ bookings flowing smoothly, even under heavy traffic and complex, multi-product journeys.
 
-Respond to comments and direct messages on social media and the website in a timely, on-brand manner 
-Actively like and comment on relevant community members’ and partner organizations’ posts to build relationships 
-Create and manage events for SHADOW programs and stewardship opportunities across platforms. 
-Share SHADOW content with local community groups on social media, identifying and increasing new partners that align with SHADOW’s mission and strategic plan.  
-Paid Promotion & Advertising 
+As a Full Stack Software Engineer working on Expedia’s critical production checkout applications, your mission will be to ensure Expedia Checkout is always fast, available, scalable, and engineered to withstand unparalleled demand. You will be in the thick of solving the [often unexpected] problems of systems at scale in a way most engineers never experience. You will have strong analytical and troubleshooting skills, proficiency in coding and systems design, solid interpersonal skills and a desire to tackle the complex problems of scale. You are a collaborative and creative individual and you thrive in a dynamic and agile environment. You adapt to new technologies and enjoy working on complex problems. Every day, we at Expedia get to innovate on web applications that millions of travelers use to plan, book and experience trips they will remember forever.
 
-Strategically boost posts to relevant target audiences based on location, interests, and demographics 
-Monitor paid post-performance and adjust targeting as needed to maximize reach and engagement within approved budgets 
-Monthly Newsletter 
 
-Edit, produce, and publish SHADOW’s monthly email newsletter using Constant Contact (or designated platform) 
-Include upcoming events and registration instructions, updates on recent restoration work, and other mission-relevant content 
-Collaborate with staff to incorporate content and narrative voice as directed 
-Upload and maintain newsletter mailing lists transferred from Salesforce to Constant Contact each month 
-Post newsletter articles to SHADOW’s website (Bog Blog or equivalent) 
-Fundraising & Campaign Promotion 
+What you will do:
 
-Develop and execute targeted social media strategies for SHADOW fundraising campaigns 
-Coordinate email announcements and reminders for active campaigns 
-Create boosted posts and track performance against campaign goals 
-Outreach & Collateral 
+Design, develop, test, and maintain high-quality software components and services, contributing to low-level system design, API design, and data modeling within your team’s domain.
+Implement robust, secure, and performant code using established engineering best practices, including automated testing, code reviews, observability, and continuous integration and delivery.
+Collaborate with product, design, and engineering peers to refine requirements into clear technical solutions, breaking down work into incremental, shippable deliverables.
+Troubleshoot, debug, and resolve production issues, improving reliability, scalability, and operational excellence of services you own or support.
+Safely integrate and operate AI/ML‑enabled solutions that improve outcomes, including familiarity with AI-driven systems, tools, or workflows and applying AI/ML concepts to real world products.
+Contribute to documentation, knowledge sharing, and cross-team collaboration, enabling your solutions to be reusable and fungible across multiple services and domains.
+Minimum Qualifications
 
-Design content for distribution in support of events and programs, this can be digital or physical collateral 
-Develop presentation materials as needed for community outreach (e.g., Rotary Club and similar engagements) 
-Onsite & Coordination 
+2+ years of professional experience in full-stack software development.
+Bachelor's or Master's degree in Computer Science; or equivalent related professional experience.
+Proficiency in at least one modern programming language(Java/Kotlin) and associated frameworks, with solid understanding of data structures, algorithms, debugging, and unit/integration testing.
+Experience contributing to the operational lifecycle of services (monitoring, alerting, deployment pipelines, and incident handling) within a team setting.
+Preferred Qualifications
 
-Attend weekly or biweekly remote or onsite meetings with SHADOW staff 
-Attend occasional SHADOW events to capture photos, video, and other content 
-Required Skills & Qualifications 
-
-Demonstrated fluency in Instagram, Facebook, and other major social media platforms including content strategy, trends, and native analytics 
-Proficiency with graphic design tools such as Canva and/or Adobe Suite 
-Experience with video content creation and short-form video for Instagram Reels, Facebook, TikTok, or similar 
-Familiarity with email marketing platforms (Constant Contact, Mailchimp, or equivalent) 
-Strong written communication skills with the ability to adapt voice and tone for conservation and nonprofit audiences 
-Basic understanding of paid social advertising including audience targeting and budget management 
-Ability to work independently, manage deadlines, and communicate proactively 
-Preferred (Not Required) 
-
-Experience with Donor Perfect CRM or similar donor management systems 
-Knowledge of SEO fundamentals and website content management 
-Experience working with nonprofit organizations or environmental causes 
-Familiarity with social media management and analytics tools (e.g., Hootsuite, Sprinklr, or Meta Business Suite) 
-Education 
-
-A bachelor’s degree in communications, marketing, digital media, journalism, or a related field is preferred. Equivalent demonstrated professional experience in social media management, content creation, or digital marketing will be considered in lieu of a formal degree. 
-
-Key Performance Indicators (KPIs) 
-
-Performance will be assessed collaboratively on an ongoing basis using the following metrics: 
-
-Metric 	Description 
-Post Frequency 	3–5 feed posts and 5+ stories per week, consistently maintained 
-Follower Growth 	Month-over-month increase in followers across platforms 
-Engagement Rate 	Likes, comments, shares, and saves relative to reach 
-Reach & Impressions 	Total accounts reached and content impressions per period 
-Newsletter Performance 	Open rate, click-through rate (CTR), and subscriber growth 
-Campaign ROI 	Engagement and donation conversion from boosted fundraising content 
-Community Sentiment 	Quality and tone of responses and community interactions 
-Contract Details 
-
-This position is an independent contractor engagement. The contractor is not an employee of SHADOW and is responsible for all applicable taxes. 
-All work products created under this agreement is considered work-for-hire and is owned by SHADOW. 
-Portfolio or case study use of SHADOW content requires prior written approval. 
-Contract engagements are typically structured as 6–12 month agreements with the option to renew. 
-SHADOW encourages staff and contractors to administer programs collaboratively. In the event of an absence, contractors may be asked to coordinate with staff to ensure continuity of essential duties.  
+Full-stack engineer with proficiency in Python, JavaScript, and React.
+Solid experience with agile project methodologies and working with distributed teams.
+Able to work closely with and incorporate feedback from specialists and product owners.
+Strong customer focus, with excellent problem-solving and analytical skills.
+Proficiency with LLM-powered applications, agentic workflows.
+Experience with AI-enabled software development workflows, including use of AI coding assistants and automated testing tools.

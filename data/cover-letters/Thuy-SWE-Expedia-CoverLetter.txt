@@ -1,0 +1,12 @@
+TO RECRUITING TEAM,
+
+I am a recent Computer Science graduate, and I am excited to apply for the Full Stack Software Engineer role on the XE Checkout Experience team at Expedia Group. As a traveler, I know checkout is where a trip starts to feel real, and where trust is won or lost. The idea of working on the services that keep millions of bookings flowing smoothly, even under heavy traffic, is exactly the kind of problem I want to spend my time on.
+
+I have spent the last two years building full-stack applications for real users. Right now I maintain a production React application that serves thousands of monthly active users, with serverless backends, API integrations, and automated CI/CD. I have also integrated ML models into interactive features and built scalable APIs with Node.js and Express. I have learned that getting something working is not enough. Making it stable under load, intuitive to use, and maintainable by a team is what really matters.
+
+I like working on systems that have to be reliable, and I like using tools that let me move faster without cutting corners, whether that is automated testing, observability, or AI coding assistants and agentic workflows. I am genuinely curious about how things break at scale and how to prevent it, and I enjoy working with product and design folks to turn messy requirements into something clean and shippable.
+
+Thank you for considering my application. I'd love the chance to bring my curiosity, persistence, and hands-on verification mindset to Expedia. I don't come from a flashy background, but I proved myself by shipping reliable work and learning fast. I'm excited to grow and contribute to a team doing meaningful work. Please feel free to contact me via email or phone should you have any questions or require additional information.
+
+With Gratitude,
+THUY NGUYEN
