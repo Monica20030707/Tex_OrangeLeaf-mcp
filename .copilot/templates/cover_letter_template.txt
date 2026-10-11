@@ -1,23 +1,25 @@
-TO RECUITING TEAM, 
-I am a recent Computer Science graduate, and I am excited to apply for the Software Engineer 
-role. I have been following the way your team approaches building user-focused products, and your 
-emphasis on creating thoughtful, reliable experiences that truly improve how people make important 
-decisions really stands out to me. 
-Through my experience as a Full Stack Developer Intern and in my current role, I’ve worked on 
-building and shipping real applications where usability and reliability mattered. I’ve developed full-stack 
-features using React and modern JavaScript frameworks, built APIs, and worked with structured data to 
-support real user workflows. I try to approach development from the user’s perspective, thinking about 
-edge cases, performance, and how small details affect the overall experience. 
-I also enjoy finding ways to simplify systems and automate repetitive work. Whether it’s 
-improving data flow between services, refining UI interactions, or using tools like Gemini CLI to 
-move faster and explore ideas, I like experimenting and learning as I go. I’m someone who asks 
-questions, takes feedback seriously, and enjoys collaborating with others to build better solutions. I 
-value clean code, thoughtful design, and being part of a team where people support each other and 
-push each other to improve. 
-Thank you for considering my application. I’d love the chance to bring my curiosity, persistence, 
-and hands-on verification mindset to your team. I don’t come from a flashy background, but I proved 
-myself by shipping reliable work and learning fast. I’m excited to grow and contribute to a team doing 
-meaningful work. Please feel free to contact me via email or phone should you have any questions or 
-require additional information. 
-With Gratitude, 
+To the Recruiting Team,
+I am an Associate Software Engineer, and I am excited to apply for the Software Engineer 
+role. I have been following the way your team approaches building user-focused products, 
+and your emphasis on creating thoughtful, reliable experiences that truly improve how 
+people make important decisions really stands out to me.
+In my work as a Full Stack Developer Intern and in my current role, I've built and shipped 
+real applications where usability and reliability mattered. I've developed full-stack 
+features using React and modern JavaScript frameworks, built APIs, and worked with 
+structured data to support real user workflows. I try to approach development from 
+the user's perspective, thinking about edge cases, performance, and how small details 
+affect the overall experience.
+I also enjoy finding ways to simplify systems and automate repetitive work. 
+Whether it's improving data flow between services, refining UI interactions, or using 
+tools like Gemini CLI to move faster and explore ideas, I like experimenting and 
+learning as I go. I'm someone who asks questions, takes feedback seriously, and 
+enjoys collaborating with others to build better solutions. I value clean code, thoughtful 
+design, and being part of a team where people support each other and push each other 
+to improve.
+Thank you for considering my application. I'd love the chance to bring my curiosity, 
+persistence, and hands-on verification mindset to your team. I've proven myself by 
+shipping reliable work and learning fast, and I'm excited to grow and contribute to 
+a team doing meaningful work. Please feel free to contact me via email or phone 
+should you have any questions or require additional information.
+With Gratitude,
 THUY NGUYEN
