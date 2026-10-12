@@ -1,25 +1,29 @@
-To the Recruiting Team,
-I am an Associate Software Engineer, and I am excited to apply for the Software Engineer 
-role. I have been following the way your team approaches building user-focused products, 
-and your emphasis on creating thoughtful, reliable experiences that truly improve how 
-people make important decisions really stands out to me.
-In my work as a Full Stack Developer Intern and in my current role, I've built and shipped 
-real applications where usability and reliability mattered. I've developed full-stack 
-features using React and modern JavaScript frameworks, built APIs, and worked with 
-structured data to support real user workflows. I try to approach development from 
-the user's perspective, thinking about edge cases, performance, and how small details 
-affect the overall experience.
-I also enjoy finding ways to simplify systems and automate repetitive work. 
-Whether it's improving data flow between services, refining UI interactions, or using 
-tools like Gemini CLI to move faster and explore ideas, I like experimenting and 
-learning as I go. I'm someone who asks questions, takes feedback seriously, and 
-enjoys collaborating with others to build better solutions. I value clean code, thoughtful 
-design, and being part of a team where people support each other and push each other 
-to improve.
-Thank you for considering my application. I'd love the chance to bring my curiosity, 
-persistence, and hands-on verification mindset to your team. I've proven myself by 
-shipping reliable work and learning fast, and I'm excited to grow and contribute to 
-a team doing meaningful work. Please feel free to contact me via email or phone 
-should you have any questions or require additional information.
-With Gratitude,
-THUY NGUYEN
+Dear Recruiting Team,
+
+I am an Associate Software Engineer excited to apply for the Software Engineer role. I'm 
+interested in building software that is not only functional but also reliable, maintainable, 
+and able to grow with its users. I enjoy understanding how different parts of a system work
+together and finding ways to make them more efficient and dependable.
+
+Through my full-stack development experience, I've worked across application development, 
+APIs, cloud infrastructure, and internal tools. My work has involved using AWS to support 
+infrastructure needs, improving caching and data flows, and working on systems that 
+need to become more stable and scalable. As an early-career engineer, I'm still building 
+my experience, but I've learned to look beyond individual features and consider how 
+architectural decisions, performance, and reliability affect the product as a whole.
+
+I enjoy working through technical problems, exploring ways to improve existing systems, 
+and learning from engineers with different areas of expertise. I value understanding 
+why a solution works, testing it carefully, and making thoughtful improvements rather 
+than simply making something work once. I also appreciate the collaborative nature 
+of software engineering, where good solutions come from asking questions, sharing ideas, 
+and iterating together.
+
+I'm looking for an opportunity to continue developing my engineering skills while 
+contributing to systems that people can depend on. I would be excited to bring my 
+hands-on experience, persistence, and willingness to learn to your team.Thank you 
+for your time and consideration. I look forward to the opportunity to discuss 
+my experience and interest in the role.
+
+Sincerely,  
+Thuy Nguyen
